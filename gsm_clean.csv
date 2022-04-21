@@ -1,0 +1,914 @@
+oem,model,battery_charging,platform_cpu,platform_gpu,body_sim,network_technology,display_type,main_camera_video,selfie_camera_video,body_weight,display_resolution,display_size,sound_3.5mm_jack,platform_os,platform_chipset,memory,ram,removability,battery_capacity,misc_price
+Google,Pixel 4 XL,18,8,Adreno 640,Mini-SIM,LTE,P-OLED,4K,1080p,193,1440 x 3040 ,6.3,No,Android,Qualcomm SM8150 Snapdragon 855,64,6,Non-removable,3700,479.99
+Google,Pixel 4,18,8,Adreno 640,Mini-SIM,LTE,P-OLED,4K,1080p,162,1080 x 2280 ,5.7,No,Android,Qualcomm SM8150 Snapdragon 855,64,6,Non-removable,2800,524.52
+Google,Pixel 3a XL,18,8,Adreno 615,Mini-SIM,LTE,OLED,4K,1080p,167,1080 x 2160 ,6,Yes,Android,Qualcomm SDM670 Snapdragon 670,64,4,Non-removable,3700,261.6
+Google,Pixel 3a,18,8,Adreno 615,Mini-SIM,LTE,OLED,4K,1080p,147,1080 x 2220 ,5.6,Yes,Android,Qualcomm SDM670 Snapdragon 670,64,4,Non-removable,3000,212.16
+Huawei,Enjoy 20 Pro,22.5,8,Mali-G57,Nano-SIM card & eSIM,5G,IPS LCD,4K,1080p,192,1080 x 2400 ,6.5,Yes,Android,MediaTek MT6873V Dimensity 800 5G,128,6,Non-removable,4000,250
+Huawei,Enjoy Z 5G,22.5,8,Mali-G57,Nano-SIM card & eSIM,5G,IPS LCD,4K,1080p,182,1080 x 2400 ,6.5,Yes,Android,MediaTek MT6873V Dimensity 800 5G,64,6,Non-removable,4000,220
+Huawei,P Smart S,10,8,Mali-G51,"Nano-SIM, eSIM",LTE,OLED,1080p,1080p,163,1080 x 2400 ,6.3,Yes,Android,Kirin 710F,128,4,Non-removable,4000,260
+Huawei,Y8p,10,8,Mali-G51,Nano-SIM,LTE,OLED,1080p,1080p,163,1080 x 2400 ,6.3,Yes,Android,Kirin 710F,128,4,Non-removable,4000,240
+Huawei,P40 lite 5G,40,8,Mali-G57,Mini-SIM,5G,LTPS IPS LCD,4K,1080p,189,1080 x 2400 ,6.5,Yes,Android,Kirin 820 5G,128,6,Non-removable,4000,369.95
+Huawei,P30 Pro New Edition,40,8,Mali-G76,Mini-SIM,LTE,OLED,4K,1080p,192,1080 x 2340 ,6.47,No,Android,Kirin 980,256,8,Non-removable,4200,743.24
+Huawei,Y8s,10,8,Mali-G51,Mini-SIM,LTE,IPS LCD,1080p,1080p,180,1080 x 2340 ,6.5,Yes,Android,Kirin 710,64,4,Non-removable,4000,140
+Huawei,Y6p,10,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,185,720 x 1600 ,6.3,Yes,Android,Mediatek MT6762R Helio P22,32,3,Non-removable,5000,128.42
+Huawei,Y5p,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,144,720 x 1440 ,5.45,Yes,Android,Mediatek MT6762R Helio P22,32,2,Non-removable,3020,84.9
+Huawei,P smart 2020,10,8,Mali-G51,Mini-SIM,LTE,LTPS IPS LCD,1080p,1080p,160,1080 x 2340 ,6.21,Yes,Android,Kirin 710,128,4,Non-removable,3400,179.99
+Huawei,nova 7 Pro 5G,40,8,Mali-G77,Mini-SIM,5G,OLED,4K,4K,178,1080 x 2340 ,6.57,No,Android,Kirin 985 5G,128,8,Non-removable,4000,552.79
+Huawei,nova 7 5G,40,8,Mali-G77,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",5G,OLED,4K,4K,180,1080 x 2400 ,6.53,No,Android,Kirin 985 5G,128,8,Non-removable,4000,454.39
+Huawei,nova 7 SE,40,8,Mali-G57,"Dual SIM (Nano-SIM, dual stand-by)",5G,LTPS IPS LCD,4K,1080p,189,1080 x 2400 ,6.5,Yes,Android,Kirin 820 5G,128,8,Non-removable,4000,320
+Huawei,P40 Pro+,40,8,Mali-G76,"Dual SIM (Nano-SIM, dual stand-by)",5G,OLED,4K,4K,226,1200 x 2640 ,6.58,No,Android,Kirin 990 5G,256,8,Non-removable,4200,1400
+Huawei,P40 Pro,40,8,Mali-G76,"Dual SIM (Nano-SIM, dual stand-by)",5G,OLED,4K,4K,209,1200 x 2640 ,6.58,No,Android,Kirin 990 5G,128,8,Non-removable,4200,799.99
+Huawei,P40,22.5,8,Mali-G76,No,5G,OLED,4K,4K,175,1080 x 2340 ,6.1,No,Android,Kirin 990 5G,128,6,Non-removable,3800,528.99
+Huawei,P40 lite E,10,8,Mali-G51,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,176,720 x 1560 ,6.39,Yes,Android,Kirin 710F,64,4,Non-removable,4000,160
+Huawei,P40 lite,40,8,Mali-G52,"Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,1080p,183,1080 x 2310 ,6.4,Yes,Android,Kirin 810,128,6,Non-removable,4200,206
+Huawei,P30 lite New Edition,18,8,Mali-G51,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,152.9,1080 x 2312 ,6.15,Yes,Android,Kirin 710,256,6,Non-removable,3340,227.21
+Huawei,Y7p,10,8,Mali-G51,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,176,720 x 1560 ,6.39,Yes,Android,Kirin 710F,64,4,Non-removable,4000,140
+Huawei,nova 7i,40,8,Mali-G52,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,1080p,183,1080 x 2310 ,6.4,Yes,Android,Kirin 810,128,8,Non-removable,4200,258.48
+Huawei,Y6s (2019),21.82167235,8,PowerVR GE8320,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,150,720 x 1560 ,6.09,Yes,Android,Mediatek MT6765 Helio P35,32,3,Non-removable,3020,107.99
+Huawei,P smart Pro 2019,10,8,Mali-G51,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,1080p,206,1080 x 2340 ,6.59,Yes,Android,Kirin 710F,128,6,Non-removable,4000,290
+Huawei,nova 6 5G,40,8,Mali-G76,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",5G,LTPS IPS LCD,4K,4K,212,1080 x 2400 ,6.57,Yes,Android,Kirin 990,128,8,Non-removable,4200,540
+Huawei,nova 6,40,8,Mali-G76,"Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,4K,4K,197,1080 x 2400 ,6.57,Yes,Android,Kirin 990,128,8,Non-removable,4100,359.99
+Huawei,nova 6 SE,40,8,Mali-G52,"Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,1080p,183,1080 x 2310 ,6.4,Yes,Android,Kirin 810,128,8,Non-removable,4200,280
+Huawei,Y9s,10,8,Mali-G51,"Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,1080p,206,1080 x 2340 ,6.59,Yes,Android,Kirin 710F,128,6,Non-removable,4000,239.88
+Huawei,nova 5z,20,8,Mali-G52,"Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,4K,1080p,178,1080 x 2340 ,6.26,Yes,Android,Kirin 810,64,6,Non-removable,4000,200
+Huawei,Enjoy 10s,10,8,Mali-G51,"Dual SIM (Nano-SIM, dual stand-by)",LTE,OLED,1080p,1080p,163,1080 x 2400 ,6.3,Yes,Android,Kirin 710F,64,6,Non-removable,4000,200
+Huawei,Enjoy 10,10,8,Mali-G51,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,176,720 x 1560 ,6.39,Yes,Android,Kirin 710F,64,4,Non-removable,4000,150
+Huawei,Mate 30 RS Porsche Design,40,8,Mali-G76,"Dual SIM (Nano-SIM, dual stand-by)",5G,OLED,4K,1080p,198,1176 x 2400 ,6.53,No,Android,Kirin 990 5G,512,12,Non-removable,4500,1700
+Huawei,Mate 30 Pro 5G,40,8,Mali-G76,"Dual SIM (Nano-SIM, dual stand-by)",5G,OLED,4K,1080p,198,1176 x 2400 ,6.53,No,Android,Kirin 990 5G,128,8,Non-removable,4500,864.99
+Huawei,Mate 30 Pro,40,8,Mali-G76,"Dual SIM (Nano-SIM, dual stand-by)",LTE,OLED,4K,1080p,198,1176 x 2400 ,6.53,No,Android,Kirin 990,128,8,Non-removable,4500,713.35
+Huawei,Mate 30 5G,40,8,Mali-G76,No,5G,OLED,4K,1080p,196,1080 x 2340 ,6.62,Yes,Android,Kirin 990 5G,128,6,Non-removable,4200,650
+Huawei,Mate 30,40,8,Mali-G76,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,OLED,4K,1080p,196,1080 x 2340 ,6.62,Yes,Android,Kirin 990,128,6,Non-removable,4200,550
+Huawei,nova 5i Pro,20,8,Mali-G52,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,4K,1080p,178,1080 x 2340 ,6.26,Yes,Android,Kirin 810,128,6,Non-removable,4000,290
+Huawei,Enjoy 10 Plus,10,8,Mali-G51,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,163.5,1080 x 2340 ,6.59,Yes,Android,Kirin 710F,128,4,Non-removable,4000,190
+Huawei,nova 5T,22.5,8,Mali-G76,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,174,1080 x 2340 ,6.26,No,Android,Kirin 980,128,6,Non-removable,3750,239
+Huawei,nova 5 Pro,40,8,Mali-G76,"Dual SIM (Nano-SIM, dual stand-by)",LTE,OLED,4K,1080p,171,1080 x 2340 ,6.39,No,Android,Kirin 980,128,8,Non-removable,3500,390
+Huawei,nova 5,40,8,Mali-G52,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,OLED,1080p,1080p,171,1080 x 2340 ,6.39,No,Android,Kirin 810,128,8,Non-removable,3500,360
+Huawei,nova 5i,10,8,Mali-G51,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,178,1080 x 2310 ,6.4,Yes,Android,Kirin 710F,128,6,Non-removable,4000,260
+Huawei,Y9 Prime (2019),21.82167235,8,Mali-G51,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,1080p,196.8,1080 x 2340 ,6.59,Yes,Android,Kirin 710F,64,4,Non-removable,4000,185.868
+Huawei,P20 lite (2019),18,8,Mali-G51,Nano-SIM,LTE,LTPS IPS LCD,1080p,1080p,178,1080 x 2310 ,6.4,Yes,Android,Kirin 710,64,4,Non-removable,4000,280
+Huawei,P Smart Z,21.82167235,8,Mali-G51,Nano-SIM,LTE,LTPS IPS LCD,1080p,1080p,196.8,1080 x 2340 ,6.59,Yes,Android,Kirin 710F,64,4,Non-removable,4000,280
+Huawei,Mate 20 X (5G),40,8,Mali-G76,"Dual SIM (Nano-SIM, dual stand-by)",5G,OLED,4K,1080p,233,1080 x 2244 ,7.2,No,Android,Kirin 980,256,8,Non-removable,4200,575
+Huawei,Y5 (2019),21.82167235,4,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,146,720 x 1520 ,5.71,Yes,Android,Mediatek MT6761 Helio A22,16,2,Non-removable,3020,86.16
+Lenovo,K10 Plus,10,8,Adreno 506,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,172,720 x 1520 ,6.22,Yes,Android,Qualcomm SDM632 Snapdragon 632,64,4,Non-removable,4050,135
+Lenovo,K10 Note,18,8,Adreno 616,No,LTE,IPS LCD,1080p,1080p,164,1080 x 2340 ,6.3,Yes,Android,Qualcomm SDM710 Snapdragon 710,64,4,Non-removable,4050,224
+Lenovo,A6 Note,10,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,172,720 x 1560 ,6.09,Yes,Android,Mediatek MT6762 Helio P22,16,2,Non-removable,4000,100
+Lenovo,Tab M7,21.82167235,4,Mali-400,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,720p,720p,236,600 x 1024 ,7,Yes,Android,Mediatek MT8321,8,1,Non-removable,3590,100
+Lenovo,Z6,15,8,Adreno 618,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,159,1080 x 2340 ,6.39,Yes,Android,Qualcomm SDM730 Snapdragon 730,64,6,Non-removable,4000,250
+Lenovo,Z6 Pro 5G,18,8,Adreno 640,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",5G,Super AMOLED,4K,1080p,185,1080 x 2340 ,6.39,Yes,Android,Qualcomm SM8150 Snapdragon 855,128,6,Non-removable,4000,400
+Lenovo,Z6 Youth,15,8,Adreno 616,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,164,1080 x 2340 ,6.3,Yes,Android,Qualcomm SDM710 Snapdragon 710,64,4,Non-removable,4050,160
+Lenovo,Z6 Pro,18,8,Adreno 640,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,185,1080 x 2340 ,6.39,Yes,Android,Qualcomm SM8150 Snapdragon 855,128,6,Non-removable,4000,330.99
+LG,Q61,21.82167235,8,PowerVR GE8320,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,191,1080 x 2340 ,6.53,Yes,Android,Mediatek MT6765 Helio P35,64,4,Non-removable,4000,270
+LG,Stylo 6,21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,219,1080 x 2460 ,6.8,Yes,Android,Mediatek MT6765 Helio P35,64,3,Non-removable,4000,200
+LG,Velvet,25,8,Adreno 620,Mini-SIM,5G,P-OLED,4K,1080p,180,1080 x 2460 ,6.8,Yes,Android,Qualcomm SDM765 Snapdragon 765G,128,6,Non-removable,4300,769.98
+LG,Q51,21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,204,720 x 1520 ,6.5,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,4000,240
+LG,W10 Alpha,21.82167235,8,IMG8322,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,720p,170,720 x 1512 ,5.71,Yes,Android,Unisoc SC9863A,32,3,Non-removable,3450,130
+LG,K61,21.82167235,8,PowerVR GE8320,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,191,1080 x 2340 ,6.53,Yes,Android,Mediatek MT6765 Helio P35,64,4,Non-removable,4000,239.59
+LG,K51S,21.82167235,8,PowerVR GE8320,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,194.5,720 x 1600 ,6.55,Yes,Android,Mediatek MT6765 Helio P35,64,3,Non-removable,4000,190.09
+LG,K41S,21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,191.7,720 x 1600 ,6.55,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,4000,145
+LG,V50S ThinQ 5G,21,8,Adreno 640,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",5G,OLED,4K,4K,192,1080 x 2340 ,6.4,Yes,Android,Qualcomm SM8150 Snapdragon 855,256,8,Non-removable,4000,1100
+LG,G8X ThinQ,21,8,Adreno 640,Nano-SIM,LTE,OLED,4K,4K,192,1080 x 2340 ,6.4,Yes,Android,Qualcomm SM8150 Snapdragon 855,128,6,Non-removable,4000,578
+LG,Q70,15,8,Adreno 612,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,198,1080 x 2310 ,6.4,Yes,Android,Qualcomm SDM675 Snapdragon 675,64,4,Non-removable,4000,320
+LG,K30 (2019),21.82167235,4,Adreno 308,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,148,720 x 1440 ,5.45,Yes,Android,Qualcomm MSM8917 Snapdragon 425,16,2,Non-removable,3000,140
+LG,K20 (2019),21.82167235,4,PowerVR GE8100,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,152,480 x 960 ,5.45,Yes,Android,Mediatek MT6739,16,1,Non-removable,3000,100
+LG,K40S,21.82167235,8,PowerVR GE8320,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,186,720 x 1520 ,6.1,Yes,Android,Mediatek MT6762 Helio P22,32,2,Non-removable,3500,160
+LG,K50S,21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,194,720 x 1520 ,6.5,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,4000,200
+LG,W30 Pro,21.82167235,8,Adreno 506,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,172,720 x 1520 ,6.22,Yes,Android,Qualcomm SDM632 Snapdragon 632,64,4,Non-removable,4050,190
+LG,W30,21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,175,720 x 1520 ,6.26,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,4000,130
+LG,W10,21.82167235,8,PowerVR GE8320,Nano-SIM,LTE,IPS LCD,1080p,1080p,164,720 x 1512 ,6.19,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,4000,110
+LG,Stylo 5,21.82167235,8,Adreno 506,No,LTE,IPS LCD,1080p,1080p,179,1080 x 2160 ,6.2,Yes,Android,Qualcomm SDM450 Snapdragon 450,32,3,Non-removable,3500,200
+LG,G8S ThinQ,18,8,Adreno 640,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,G-OLED,4K,1080p,181,1080 x 2248 ,6.21,Yes,Android,Qualcomm SM8150 Snapdragon 855,64,6,Non-removable,3550,356.99
+LG,Q8 (2018),18,8,Adreno 506,"Single SIM (Nano-SIM/eSIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,172,1080 x 2160 ,6.2,Yes,Android,Qualcomm SDM450 Snapdragon 450,64,4,Non-removable,3300,300
+LG,X power 3,21.82167235,4,Adreno 308,"Single SIM (Nano-SIM/eSIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,171,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8917 Snapdragon 425,16,2,Non-removable,4500,180
+Motorola,One Fusion+,15,8,Adreno 618,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,210,1080 x 2340 ,6.5,Yes,Android,Qualcomm SDM730 Snapdragon 730,128,6,Non-removable,5000,300
+Motorola,Moto G Fast,10,8,Adreno 610,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,189.4,720 x 1560 ,6.4,Yes,Android,Qualcomm SM6125 Snapdragon 665,32,3,Non-removable,4000,199.99
+Motorola,Moto E (2020),21.82167235,8,Adreno 506,Nano-SIM,LTE,IPS LCD,1080p,1080p,185,720 x 1520 ,6.2,Yes,Android,Qualcomm SDM632 Snapdragon 632,32,2,Non-removable,3550,149.99
+Motorola,Moto G Pro,15,8,Adreno 610,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,192,1080 x 2300 ,6.4,Yes,Android,Qualcomm SDM665 Snapdragon 665,128,4,Non-removable,4000,329.99
+Motorola,Edge+,18,8,Adreno 650,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",5G,OLED,6K,1080p,203,1080 x 2340 ,6.7,Yes,Android,Qualcomm SM8250 Snapdragon 865,256,12,Non-removable,5000,1200
+Motorola,Moto G8 Power Lite,10,8,PowerVR GE8320,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,200,720 x 1600 ,6.5,Yes,Android,Mediatek MT6765 Helio P35,64,4,Non-removable,5000,144
+Motorola,Moto E6s (2020),21.82167235,8,PowerVR GE8320,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,160,720 x 1560 ,6.1,Yes,Android,Mediatek MT6762 Helio P22,32,2,Removable,3000,96.85
+Motorola,Moto G8,10,8,Adreno 610,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,188.3,720 x 1560 ,6.4,Yes,Android,Qualcomm SM6125 Snapdragon 665,64,4,Non-removable,4000,169.99
+Motorola,Moto G Stylus,10,8,Adreno 610,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,192,1080 x 2300 ,6.4,Yes,Android,Qualcomm SDM665 Snapdragon 665,128,4,Non-removable,4000,195
+Motorola,Moto G Power,10,8,Adreno 610,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,199,1080 x 2300 ,6.4,Yes,Android,Qualcomm SDM665 Snapdragon 665,64,4,Non-removable,5000,249.99
+Motorola,Moto G8 Power,18,8,Adreno 610,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,197,1080 x 2300 ,6.4,Yes,Android,Qualcomm SDM665 Snapdragon 665,64,4,Non-removable,5000,174.06
+Motorola,One Hyper,45,8,Adreno 612,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,210,1080 x 2340 ,6.5,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,4,Non-removable,4000,296.43
+Motorola,Razr 2019,15,8,Adreno 616,Nano-SIM,LTE,Foldable P-OLED,4K,1080p,205,876 x 2142 ,6.2,No,Android,Qualcomm SDM710 Snapdragon 710,128,6,Non-removable,2510,42.99
+Motorola,Moto G8 Play,21.82167235,8,Mali-G72,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,183.6,720 x 1520 ,6.2,Yes,Android,Mediatek MT6771 Helio P70M,32,2,Non-removable,4000,134.99
+Motorola,Moto E6 Play,21.82167235,4,PowerVR GE8100,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,140,720 x 1440 ,5.5,Yes,Android,Mediatek MT6739,32,2,Non-removable,3000,93.99
+Motorola,Moto G8 Plus,15,8,Adreno 610,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,4K,1080p,188,1080 x 2280 ,6.3,Yes,Android,Qualcomm SDM665 Snapdragon 665,64,4,Non-removable,4000,199.9
+Motorola,One Macro,10,8,Mali-G72,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,186,720 x 1520 ,6.2,Yes,Android,Mediatek MT6771 Helio P70,64,4,Non-removable,4000,139.99
+Motorola,Moto E6 Plus,10,8,PowerVR GE8320,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,149.7,720 x 1560 ,6.1,Yes,Android,Mediatek MT6762 Helio P22,32,2,Removable,3000,108.96
+Motorola,One Zoom,15,8,Adreno 612,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,190,1080 x 2340 ,6.39,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,4,Non-removable,4000,299.99
+Motorola,One Action,10,8,Mali-G72,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,4K,1080p,176,1080 x 2520 ,6.3,Yes,Android,Exynos 9609,128,4,Non-removable,3500,165
+Motorola,Moto E6,21.82167235,8,Adreno 505,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,159,720 x 1440 ,5.5,Yes,Android,Qualcomm SDM435 Snapdragon 435,16,2,Removable,3000,59.99
+Motorola,Moto Z4,15,8,Adreno 612,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,OLED,4K,1080p,165,1080 x 2340 ,6.4,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,4,Non-removable,3600,299.99
+Motorola,One Vision,15,8,Mali-G72,No,LTE,LTPS IPS LCD,4K,1080p,180,1080 x 2520 ,6.3,Yes,Android,Exynos 9609,128,4,Non-removable,3500,195
+Nokia,C5 Endi,10,8,PowerVR GE8320,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,200,720 x 1600 ,6.52,Yes,Android,Mediatek MT6762 Helio P22,64,3,Non-removable,4000,150
+Nokia,C2 Tennen,10,4,PowerVR GE8320,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,720p,180,720 x 1440 ,5.45,Yes,Android,Mediatek MT6761 Helio A22,16,2,Non-removable,3000,60
+Nokia,C2 Tava,10,4,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,720p,180,720 x 1440 ,5.45,Yes,Android,Mediatek MT6761 Helio A22,16,2,Non-removable,3000,100
+Nokia,8.3 5G,18,8,Adreno 620,Nano-SIM,5G,IPS LCD,4K,1080p,220,1080 x 2400 ,6.81,Yes,Android,Qualcomm SDM765 Snapdragon 765G,64,6,Non-removable,4500,500
+Nokia,5.3,10,8,Adreno 610,Nano-SIM,LTE,IPS LCD,1080p,1080p,185,720 x 1600 ,6.55,Yes,Android,Qualcomm SM6125 Snapdragon 665,64,3,Non-removable,4000,149.95
+Nokia,1.3,21.82167235,4,Adreno 308,Nano-SIM,LTE,IPS LCD,720p,720p,155,720 x 1520 ,5.71,Yes,Android,Qualcomm QM215,16,1,Removable,3000,64.98
+Nokia,2.3,21.82167235,4,PowerVR GE8320,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,183,720 x 1520 ,6.2,Yes,Android,Mediatek MT6761 Helio A22,32,2,Non-removable,4000,99.57
+Nokia,7.2,10,8,Adreno 512,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,180,1080 x 2280 ,6.3,Yes,Android,Qualcomm SDM660 Snapdragon 660,64,4,Non-removable,3500,198.31
+Nokia,6.2,10,8,Adreno 509,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,180,1080 x 2280 ,6.3,Yes,Android,Qualcomm SDM636 Snapdragon 636,32,3,Non-removable,3500,166.11
+Nokia,3.1 C,10,4,Adreno 504,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,720p,156,720 x 1440 ,5.45,Yes,Android,Qualcomm SDM429 Snapdragon 429,32,2,Non-removable,2990,126
+Nokia,3.1 A,10,4,Adreno 504,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,720p,156,720 x 1440 ,5.45,Yes,Android,Qualcomm SDM429 Snapdragon 429,32,2,Non-removable,2990,81
+Nokia,2.2,21.82167235,4,PowerVR GE8320,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,153,720 x 1520 ,5.71,Yes,Android,Mediatek MT6761 Helio A22,16,2,Removable,3000,69.99
+Oppo,Reno4 Pro 5G,65,8,Adreno 620,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",5G,AMOLED,4K,1080p,172,1080 x 2400 ,6.55,No,Android,Qualcomm SDM765 Snapdragon 765G,128,8,Non-removable,4000,470
+Oppo,Reno4 5G,65,8,Adreno 620,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",5G,AMOLED,4K,1080p,183,1080 x 2400 ,6.43,No,Android,Qualcomm SDM765 Snapdragon 765G,128,8,Non-removable,4000,370
+Oppo,Find X2 Neo,30,8,Adreno 620,Mini-SIM,5G,AMOLED,4K,1080p,171,1080 x 2400 ,6.5,No,Android,Qualcomm SDM765 Snapdragon 765G,256,12,Non-removable,4025,587.4
+Oppo,A92s,18,8,Mali-G57,MIni-SIM,5G,LTPS IPS LCD,4K,1080p,184,1080 x 2400 ,6.57,Yes,Android,MediaTek MT6873V Dimensity 800 5G,128,6,Non-removable,4000,290
+Oppo,Find X2 Lite,30,8,Adreno 620,Mini-SIM,5G,AMOLED,4K,1080p,180,1080 x 2400 ,6.4,Yes,Android,Qualcomm SDM765 Snapdragon 765G,128,8,Non-removable,4025,399
+Oppo,Ace2,65,8,Adreno 650,Mini-SIM,5G,AMOLED,4K,1080p,186,1080 x 2400 ,6.55,No,Android,Qualcomm SM8250 Snapdragon 865,128,8,Non-removable,4000,520
+Oppo,A12e,21.82167235,8,Adreno 506,Mini-SIM,LTE,IPS LCD,1080p,1080p,168,720 x 1520 ,6.2,Yes,Android,Qualcomm SDM450 Snapdragon 450,64,3,Non-removable,4230,120
+Oppo,Reno3,30,8,PowerVR GM9446,Mini-SIM,LTE,AMOLED,4K,1080p,170,1080 x 2400 ,6.4,Yes,Android,Mediatek MT6779 Helio P90,128,8,Non-removable,4025,324.38
+Oppo,Find X2 Pro,65,8,Adreno 650,Mini-SIM,5G,AMOLED,4K,1080p,217,1440 x 3168 ,6.7,No,Android,Qualcomm SM8250 Snapdragon 865,256,12,Non-removable,4260,1010.71
+Oppo,Find X2,65,8,Adreno 650,Mini-SIM,5G,AMOLED,4K,1080p,209,1440 x 3168 ,6.7,No,Android,Qualcomm SM8250 Snapdragon 865,128,8,Non-removable,4200,969.99
+Oppo,Reno3 Pro,30,8,PowerVR GM9446,Micro-SIM,LTE,Super AMOLED,4K,1080p,175,1080 x 2400 ,6.4,Yes,Android,Mediatek Helio P95,128,8,Non-removable,4025,349.788
+Oppo,F15,20,8,Mali-G72,Dual SIM,LTE,AMOLED,1080p,1080p,172,1080 x 2400 ,6.4,Yes,Android,Mediatek MT6771V Helio P70,128,8,Non-removable,4025,299.89
+Oppo,Reno3 Pro 5G,30,8,Adreno 620,Dual SIM,5G,AMOLED,4K,1080p,171,1080 x 2400 ,6.5,No,Android,Qualcomm SDM765 Snapdragon 765G,128,8,Non-removable,4025,690
+Oppo,Reno3 Youth,30,8,Adreno 620,Yes,5G,AMOLED,4K,1080p,180,1080 x 2400 ,6.4,Yes,Android,Qualcomm SDM765 Snapdragon 765G,128,8,Non-removable,4025,400
+Oppo,Reno3 5G,30,8,Mali-G77,Dual SIM (Mini-SIM),5G,AMOLED,4K,1080p,181,1080 x 2400 ,6.4,Yes,Android,Mediatek MT6885Z Dimensity 1000L,128,8,Non-removable,4025,440
+Oppo,A91,20,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,1080p,1080p,172,1080 x 2400 ,6.4,Yes,Android,Mediatek MT6771V Helio P70,128,8,Non-removable,4025,269.98
+Oppo,A8,21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,180,720 x 1600 ,6.5,Yes,Android,Mediatek MT6765V/CB Helio P35,128,4,Non-removable,4230,150
+Oppo,Reno Ace,65,8,Adreno 640,"Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,4K,1080p,200,1080 x 2400 ,6.5,Yes,Android,Qualcomm SM8150 Snapdragon 855+,128,8,Non-removable,4000,607.77
+Oppo,Reno A,21.82167235,8,Adreno 616,"Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,4K,1080p,169.5,1080 x 2340 ,6.4,Yes,Android,Qualcomm SDM710 Snapdragon 710,128,6,Non-removable,3600,280
+Oppo,A5 (2020),21.82167235,8,Adreno 610,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,195,720 x 1600 ,6.5,Yes,Android,Qualcomm SDM665 Snapdragon 665,64,3,Non-removable,5000,148.96
+Oppo,A9 (2020),10,8,Adreno 610,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,195,720 x 1600 ,6.5,Yes,Android,Qualcomm SDM665 Snapdragon 665,128,4,Non-removable,5000,179.99
+Oppo,Reno2,20,8,Adreno 618,"Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,4K,1080p,189,1080 x 2400 ,6.5,Yes,Android,Qualcomm SDM730 Snapdragon 730G,128,8,Non-removable,4000,399.99
+Oppo,Reno2 F,20,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,1080p,1080p,195,1080 x 2340 ,6.5,Yes,Android,Mediatek MT6771V Helio P70,128,8,Non-removable,4000,374.9
+Oppo,Reno2 Z,20,8,PowerVR GM9446,"Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,4K,1080p,195,1080 x 2340 ,6.53,Yes,Android,Mediatek MT6779 Helio P90,128,8,Non-removable,4000,269
+Oppo,Reno Z,20,8,PowerVR GM9446,"Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,4K,1080p,186,1080 x 2340 ,6.4,Yes,Android,Mediatek MT6779 Helio P90,128,4,Non-removable,4035,330
+Oppo,A9x,20,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,1080p,190,1080 x 2340 ,6.53,Yes,Android,Mediatek MT6771V Helio P70,128,6,Non-removable,4020,260
+Oppo,Reno 5G,20,8,Adreno 640,"Dual SIM (Nano-SIM, dual stand-by)",5G,AMOLED,4K,1080p,215,1080 x 2340 ,6.6,No,Android,Qualcomm SM8150 Snapdragon 855,256,8,Non-removable,4065,880
+Oppo,A1k,21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,720p,170,720 x 1560 ,6.1,Yes,Android,Mediatek MT6762 Helio P22,32,2,Non-removable,4000,100
+Oppo,A5 (AX5),21.82167235,8,Adreno 506,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,168,720 x 1520 ,6.2,Yes,Android,Qualcomm SDM450 Snapdragon 450,32,3,Non-removable,4230,230
+Realme,X3 SuperZoom,30,8,Adreno 640,Mini-SIM,LTE,IPS LCD,4K,1080p,202,1080 x 2400 ,6.6,No,Android,Qualcomm SM8150 Snapdragon 855+,128,8,Non-removable,4200,499
+Realme,6S,30,8,Mali-G76,Mini-SIM,LTE,IPS LCD,4K,1080p,191,1080 x 2400 ,6.5,Yes,Android,Mediatek MT6785 Helio G90T,64,4,Non-removable,4300,200
+Realme,X50 Pro Player,65,8,Adreno 650,Mini-SIM,5G,Super AMOLED,4K,1080p,209,1080 x 2400 ,6.44,No,Android,Qualcomm SM8250 Snapdragon 865,128,6,Non-removable,4200,464.99
+Realme,Narzo 10,18,8,Mali-G52,Mini-SIM,LTE,IPS LCD,1080p,1080p,199,720 x 1600 ,6.5,Yes,Android,Mediatek Helio G80,128,4,Non-removable,5000,150
+Realme,Narzo 10A,10,8,Mali-G52,Mini-SIM,LTE,IPS LCD,1080p,1080p,195,720 x 1600 ,6.5,Yes,Android,Mediatek Helio G70,32,3,Non-removable,5000,100
+Realme,X50m 5G,30,8,Adreno 620,Mini-SIM,5G,IPS LCD,4K,1080p,194,1080 x 2400 ,6.57,No,Android,Qualcomm SDM765 Snapdragon 765G,128,6,Non-removable,4200,276.11
+Realme,6i,18,8,Mali-G52,Mini-SIM,LTE,IPS LCD,1080p,1080p,199,720 x 1600 ,6.5,Yes,Android,Mediatek Helio G80,64,3,Non-removable,5000,164.14
+Realme,6 Pro,30,8,Adreno 618,Mini-SIM,LTE,IPS LCD,4K,1080p,202,1080 x 2400 ,6.6,Yes,Android,Qualcomm SM7125 Snapdragon 720G,64,6,Non-removable,4300,249
+Realme,X50 Pro 5G,65,8,Adreno 650,Mini-SIM,5G,Super AMOLED,4K,1080p,205,1080 x 2400 ,6.44,No,Android,Qualcomm SM8250 Snapdragon 865,128,6,Non-removable,4200,435.99
+Realme,C3 (3 cameras),10,8,Mali-G52,Mini-SIM,LTE,IPS LCD,1080p,1080p,195,720 x 1600 ,6.5,Yes,Android,Mediatek Helio G70,32,2,Non-removable,5000,124.94
+Realme,X50 5G,30,8,Adreno 620,Mini-SIM,5G,IPS LCD,4K,1080p,202,1080 x 2400 ,6.57,No,Android,Qualcomm SDM765 Snapdragon 765G,64,6,Non-removable,4200,239.99
+Realme,5i,10,8,Adreno 610,Mini-SIM,LTE,IPS LCD,4K,1080p,195,720 x 1600 ,6.52,Yes,Android,Qualcomm SDM665 Snapdragon 665,32,3,Non-removable,5000,139.99
+Realme,5s,10,8,Adreno 610,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,198,720 x 1600 ,6.5,Yes,Android,Qualcomm SDM665 Snapdragon 665,64,4,Non-removable,5000,169
+Realme,C2s,21.82167235,8,PowerVR GE8320,"Dual SIM (Micro-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,166,720 x 1560 ,6.1,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,4000,40
+Realme,C2 2020,21.82167235,8,PowerVR GE8320,Yes,LTE,IPS LCD,1080p,1080p,166,720 x 1560 ,6.1,Yes,Android,Mediatek MT6762 Helio P22,32,2,Non-removable,4000,100
+Realme,X2 Pro,50,8,Adreno 640,No,LTE,Super AMOLED,4K,1080p,199,1080 x 2400 ,6.5,Yes,Android,Qualcomm SM8150 Snapdragon 855+,64,6,Non-removable,4000,429.9
+Realme,XT,20,8,Adreno 616,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,183,1080 x 2340 ,6.4,Yes,Android,Qualcomm SDM712 Snapdragon 712,64,4,Non-removable,4000,204.9
+Realme,5 Pro,20,8,Adreno 616,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,184,1080 x 2340 ,6.3,Yes,Android,Qualcomm SDM712 Snapdragon 712,64,4,Non-removable,4035,188.1
+Realme,3i,21.82167235,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,175,720 x 1520 ,6.2,Yes,Android,Mediatek MT6771 Helio P60,32,3,Non-removable,4230,96
+Realme,3 Pro,20,8,Adreno 616,Nano-SIM,LTE,IPS LCD,4K,1080p,172,1080 x 2340 ,6.3,Yes,Android,Qualcomm SDM710 Snapdragon 710,64,4,Non-removable,4045,168.9
+Sony,Xperia 1 II,21,8,Adreno 650,Nano-SIM,5G,OLED,4K,1080p,181.4,1644 x 3840 ,6.5,Yes,Android,Qualcomm SM8250 Snapdragon 865,256,8,Non-removable,4000,1099
+Sony,Xperia 10 II,18,8,Adreno 610,Nano-SIM,LTE,OLED,4K,1080p,151,1080 x 2520 ,6,Yes,Android,Qualcomm SDM665 Snapdragon 665,128,4,Non-removable,3600,319
+Sony,Xperia 5,18,8,Adreno 640,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,OLED,4K,1080p,164,1080 x 2520 ,6.1,No,Android,Qualcomm SM8150 Snapdragon 855,128,6,Non-removable,3140,461.99
+vivo,V19 Neo,18,8,Adreno 612,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,176,1080 x 2400 ,6.44,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,8,Non-removable,4500,320
+vivo,Z5x (2020),18,8,Adreno 616,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,204.1,1080 x 2340 ,6.53,Yes,Android,Qualcomm SDM712 Snapdragon 712,64,4,Non-removable,5000,160
+vivo,X50 Pro+,44,8,Adreno 650,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",5G,AMOLED,4K,1080p,181.5,1080 x 2376 ,6.56,No,Android,Qualcomm SM8250 Snapdragon 865,128,8,Non-removable,4315,630
+vivo,X50 Pro,33,8,Adreno 620,Micro-SIM,5G,AMOLED,4K,1080p,181.5,1080 x 2376 ,6.56,No,Android,Qualcomm SDM765 Snapdragon 765G,128,8,Non-removable,4315,641.85
+vivo,Y70s,18,8,Mali-G76,Nano-SIM,5G,IPS LCD,4K,1080p,190,1080 x 2340 ,6.53,Yes,Android,Exynos 880,128,8,Non-removable,4500,289.98
+vivo,iQOO Z1,44,8,Mali-G77,Nano-SIM,5G,IPS LCD,4K,1080p,195,1080 x 2408 ,6.57,Yes,Android,Mediatek Dimensity 1000+,128,6,Non-removable,4500,344.98
+vivo,X50 Lite,18,8,Adreno 610,"Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,1080p,1080p,190.2,1080 x 2340 ,6.38,Yes,Android,Qualcomm SDM665 Snapdragon 665,128,8,Non-removable,4500,300
+vivo,Y30,10,8,PowerVR GE8320,Nano-SIM,LTE,IPS LCD,1080p,1080p,197,720 x 1560 ,6.47,Yes,Android,Mediatek MT6765 Helio P35,128,4,Non-removable,5000,190
+vivo,iQOO Neo3 5G,44,8,Adreno 650,Pre-installed Nano-SIM,5G,IPS LCD,4K,1080p,198.1,1080 x 2408 ,6.57,Yes,Android,Qualcomm SM8250 Snapdragon 865,128,6,Non-removable,4500,350
+vivo,Y50,15,8,Adreno 610,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,197,1080 x 2400 ,6.53,Yes,Android,Qualcomm SM6125 Snapdragon 665,128,8,Non-removable,5000,215.88
+vivo,V19,33,8,Adreno 616,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,186.5,1080 x 2400 ,6.44,Yes,Android,Qualcomm SDM712 Snapdragon 712,128,8,Non-removable,4500,335.88
+vivo,S6 5G,18,8,Mali-G76,"Dual SIM (Nano-SIM, dual stand-by)",5G,AMOLED,4K,1080p,181,1080 x 2400 ,6.44,Yes,Android,Exynos 980,128,8,Non-removable,4500,297
+vivo,NEX 3S 5G,44,8,Adreno 650,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",5G,Super AMOLED,4K,1080p,219.5,1080 x 2256 ,6.89,Yes,Android,Qualcomm SM8250 Snapdragon 865,256,8,Non-removable,4500,630
+vivo,V19 (Indonesia),18,8,Adreno 612,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,176,1080 x 2400 ,6.44,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,8,Non-removable,4500,270
+vivo,Z6 5G,44,8,Adreno 620,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",5G,IPS LCD,4K,1080p,201,1080 x 2400 ,6.57,Yes,Android,Qualcomm SDM765 Snapdragon 765G,128,6,Non-removable,5000,297.49
+vivo,iQOO 3 5G,55,8,Adreno 650,Nano-SIM,5G,Super AMOLED,4K,1080p,214.5,1080 x 2400 ,6.44,Yes,Android,Qualcomm SM8250 Snapdragon 865,128,6,Non-removable,4400,472.79
+vivo,X30 Pro,33,8,Mali-G76,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",5G,Super AMOLED,4K,1080p,198.5,1080 x 2400 ,6.44,Yes,Android,Exynos 980,128,8,Non-removable,4350,519.99
+vivo,X30,33,8,Mali-G76,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",5G,Super AMOLED,4K,1080p,196.5,1080 x 2400 ,6.44,Yes,Android,Exynos 980,128,8,Non-removable,4350,420
+vivo,V17,18,8,Adreno 612,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,176,1080 x 2400 ,6.44,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,8,Non-removable,4500,329
+vivo,iQOO Neo 855 Racing,33,8,Adreno 640,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,198.5,1080 x 2340 ,6.38,Yes,Android,Qualcomm SM8150 Snapdragon 855+,128,8,Non-removable,4500,330
+vivo,Z5i,18,8,Adreno 612,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,193,1080 x 2340 ,6.53,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,8,Non-removable,5000,230
+vivo,V17 (Russia),18,8,Adreno 610,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,186.7,1080 x 2340 ,6.38,Yes,Android,Qualcomm SDM665 Snapdragon 665,128,8,Non-removable,4500,330
+vivo,S1 Pro,18,8,Adreno 610,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,186.7,1080 x 2340 ,6.38,Yes,Android,Qualcomm SDM665 Snapdragon 665,128,8,Non-removable,4500,242.16
+vivo,Y3 Standard,10,8,Adreno 505,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,191.5,720 x 1544 ,6.35,Yes,Android,Qualcomm SDM439 Snapdragon 439,64,3,Non-removable,5000,130
+vivo,Y19,18,8,Mali-G52,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,193,1080 x 2340 ,6.53,Yes,Android,Mediatek MT6768 Helio P65,128,4,Non-removable,5000,270
+vivo,iQOO Neo 855,33,8,Adreno 640,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,198.5,1080 x 2340 ,6.38,Yes,Android,Qualcomm SM8150 Snapdragon 855,64,6,Non-removable,4500,260
+vivo,Y11 (2019),10,8,Adreno 505,Nano-SIM,LTE,IPS LCD,1080p,1080p,190.5,720 x 1544 ,6.35,Yes,Android,Qualcomm SDM439 Snapdragon 439,32,3,Non-removable,5000,131.88
+vivo,Y3 (4GB+64GB),18,8,PowerVR GE8320,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,190,720 x 1544 ,6.35,Yes,Android,Mediatek MT6765 Helio P35,64,4,Non-removable,5000,140
+vivo,Y3,18,8,PowerVR GE8320,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,190.5,720 x 1544 ,6.35,Yes,Android,Mediatek MT6765 Helio P35,128,4,Non-removable,5000,190
+vivo,NEX 3 5G,44,8,Adreno 640,Nano-SIM,5G,Super AMOLED,4K,1080p,218.5,1080 x 2256 ,6.89,Yes,Android,Qualcomm SM8150 Snapdragon 855+,256,8,Non-removable,4500,730
+vivo,V17 Pro,18,8,Adreno 612,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,201.8,1080 x 2400 ,6.44,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,8,Non-removable,4100,399.9
+vivo,NEX 3,44,8,Adreno 640,Nano-SIM,LTE,Super AMOLED,4K,1080p,217.3,1080 x 2256 ,6.89,Yes,Android,Qualcomm SM8150 Snapdragon 855+,128,8,Non-removable,4500,640
+vivo,Z1x,22.5,8,Adreno 616,Mini-SIM,LTE,Super AMOLED,4K,1080p,189.6,1080 x 2340 ,6.38,Yes,Android,Qualcomm SDM712 Snapdragon 712,64,6,Non-removable,4500,239.9
+vivo,iQOO Pro 5G,44,8,Adreno 640,Mini-SIM,5G,Super AMOLED,4K,1080p,217,1080 x 2340 ,6.41,Yes,Android,Qualcomm SM8150 Snapdragon 855+,128,8,Non-removable,4500,500
+vivo,iQOO Pro,44,8,Adreno 640,Mini-SIM,LTE,Super AMOLED,4K,1080p,215,1080 x 2340 ,6.41,Yes,Android,Qualcomm SM8150 Snapdragon 855+,128,8,Non-removable,4500,410
+vivo,Y90,21.82167235,4,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,720p,163.5,720 x 1520 ,6.22,Yes,Android,Mediatek MT6761 Helio A22,16,2,Non-removable,4030,90
+vivo,V17 Neo,18,8,Mali-G52,Mini-SIM,LTE,Super AMOLED,1080p,1080p,179,1080 x 2340 ,6.38,Yes,Android,Mediatek MT6768 Helio P65,128,6,Non-removable,4500,280
+vivo,Z1Pro,18,8,Adreno 616,Mini-SIM,LTE,IPS LCD,4K,1080p,201,1080 x 2340 ,6.53,Yes,Android,Qualcomm SDM712 Snapdragon 712,64,4,Non-removable,5000,199
+vivo,iQOO Neo,22.5,8,Adreno 630,Mini-SIM,LTE,Super AMOLED,4K,1080p,198.5,1080 x 2340 ,6.38,Yes,Android,Qualcomm SDM845 Snapdragon 845,64,6,Non-removable,4500,250
+vivo,Z5x,18,8,Adreno 616,Mini-SIM,LTE,IPS LCD,1080p,1080p,204.1,1080 x 2340 ,6.53,Yes,Android,Qualcomm SDM710 Snapdragon 710,64,4,Non-removable,5000,200
+vivo,S1 Pro (China),18,8,Adreno 612,Mini-SIM,LTE,Super AMOLED,4K,1080p,185,1080 x 2340 ,6.39,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,6,Non-removable,3700,310
+vivo,Z3x,21.82167235,8,Adreno 512,Mini-SIM,LTE,IPS LCD,1080p,,150,1080 x 2280 ,6.26,Yes,Android,Qualcomm SDM660 Snapdragon 660,64,4,Non-removable,3260,160
+vivo,Y17,18,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,190.5,720 x 1544 ,6.35,Yes,Android,Mediatek MT6765 Helio P35,128,4,Non-removable,5000,230
+vivo,Y12,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,190.5,720 x 1544 ,6.35,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,5000,249
+vivo,S1 (China),18,8,Mali-G72,Mini-SIM,LTE,IPS LCD,4K,1080p,189.5,1080 x 2340 ,6.53,Yes,Android,Mediatek MT6771 Helio P70,128,6,Non-removable,3940,260
+vivo,Y91i (India),21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,,163.5,720 x 1520 ,6.22,Yes,Android,Mediatek MT6762 Helio P22,16,2,Non-removable,4030,100
+Xiaomi,Redmi 9,18,8,Mali-G52,Mini-SIM,LTE,IPS LCD,1080p,1080p,198,1080 x 2340 ,6.53,Yes,Android,Mediatek Helio G80,32,3,Non-removable,5020,129
+Xiaomi,Redmi 10X Pro 5G,33,8,Mali-G57,Mini-SIM,5G,AMOLED,4K,1080p,208,1080 x 2400 ,6.57,Yes,Android,MediaTek MT6875 Dimensity 820 5G,128,8,Non-removable,4520,290
+Xiaomi,Redmi 10X 5G,22.5,8,Mali-G57,Mini-SIM,5G,AMOLED,4K,1080p,205,1080 x 2400 ,6.57,Yes,Android,MediaTek MT6875 Dimensity 820 5G,64,6,Non-removable,4520,200
+Xiaomi,Redmi 10X 4G,18,8,Mali-G52,Mini-SIM,LTE,IPS LCD,1080p,1080p,199,1080 x 2340 ,6.53,Yes,Android,MediaTek Helio G85,128,4,Non-removable,5020,199.99
+Xiaomi,Redmi K30i 5G,30,8,Adreno 620,Mini-SIM,5G,IPS LCD,4K,1080p,208,1080 x 2400 ,6.67,Yes,Android,Qualcomm SDM765 Snapdragon 765G,128,6,Non-removable,4800,250
+Xiaomi,Poco F2 Pro,30,8,Adreno 650,Mini-SIM,5G,Super AMOLED,8K,1080p,219,1080 x 2400 ,6.67,Yes,Android,Qualcomm SM8250 Snapdragon 865,128,6,Non-removable,4700,422
+Xiaomi,Redmi K30 5G Racing,30,8,Adreno 620,Mini-SIM,5G,IPS LCD,4K,1080p,208,1080 x 2400 ,6.67,Yes,Android,Qualcomm SDM768 Snapdragon 768G,128,6,Non-removable,4500,260
+Xiaomi,Redmi Note 9 Pro,30,8,Adreno 618,Mini-SIM,LTE,IPS LCD,4K,1080p,209,1080 x 2400 ,6.67,Yes,Android,Qualcomm SM7125 Snapdragon 720G,64,6,Non-removable,5020,225.99
+Xiaomi,Redmi Note 9,18,8,Mali-G52,Mini-SIM,LTE,IPS LCD,1080p,1080p,199,1080 x 2340 ,6.53,Yes,Android,MediaTek Helio G85,64,3,Non-removable,5020,150
+Xiaomi,Mi Note 10 Lite,30,8,Adreno 618,Mini-SIM,LTE,AMOLED,4K,1080p,204,1080 x 2340 ,6.47,Yes,Android,Qualcomm SDM730 Snapdragon 730G,64,6,Non-removable,5260,265.99
+Xiaomi,Mi 10 Youth 5G,20,8,Adreno 620,Mini-SIM,5G,Super AMOLED,4K,1080p,192,1080 x 2400 ,6.57,Yes,Android,Qualcomm SDM765 Snapdragon 765G,64,6,Non-removable,4160,348.99
+Xiaomi,Mi 10 Lite 5G,20,8,Adreno 620,Mini-SIM,5G,AMOLED,4K,1080p,192,1080 x 2400 ,6.57,Yes,Android,Qualcomm SDM765 Snapdragon 765G,64,6,Non-removable,4160,290.21
+Xiaomi,Redmi K30 Pro Zoom,33,8,Adreno 650,Mini-SIM,5G,Super AMOLED,8K,1080p,218,1080 x 2400 ,6.67,Yes,Android,Qualcomm SM8250 Snapdragon 865,128,8,Non-removable,4700,609.99
+Xiaomi,Redmi K30 Pro,30,8,Adreno 650,Mini-SIM,5G,Super AMOLED,8K,1080p,218,1080 x 2400 ,6.67,Yes,Android,Qualcomm SM8250 Snapdragon 865,128,6,Non-removable,4700,485.99
+Xiaomi,Redmi Note 9S,18,8,Adreno 618,Mini-SIM,LTE,IPS LCD,4K,1080p,209,1080 x 2400 ,6.67,Yes,Android,Qualcomm SM7125 Snapdragon 720G,64,4,Non-removable,5020,185.26
+Xiaomi,Redmi Note 9 Pro Max,33,8,Adreno 618,Mini-SIM,LTE,IPS LCD,4K,1080p,209,1080 x 2400 ,6.67,Yes,Android,Qualcomm SM7125 Snapdragon 720G,64,6,Non-removable,5020,180
+Xiaomi,Redmi Note 9 Pro (India),18,8,Adreno 618,Mini-SIM,LTE,IPS LCD,4K,1080p,209,1080 x 2400 ,6.67,Yes,Android,Qualcomm SM7125 Snapdragon 720G,64,4,Non-removable,5020,167.988
+Xiaomi,Black Shark 3,65,8,Adreno 650,Mini-SIM,5G,AMOLED,4K,1080p,222,1080 x 2400 ,6.67,Yes,Android,Qualcomm SM8250 Snapdragon 865,128,8,Non-removable,4720,535
+Xiaomi,Mi 10 Pro 5G,50,8,Adreno 650,Mini-SIM,5G,Super AMOLED,8K,1080p,208,1080 x 2340 ,6.67,No,Android,Qualcomm SM8250 Snapdragon 865,256,8,Non-removable,4500,839.99
+Xiaomi,Mi 10 5G,30,8,Adreno 650,Mini-SIM,5G,Super AMOLED,8K,1080p,208,1080 x 2340 ,6.67,No,Android,Qualcomm SM8250 Snapdragon 865,128,8,Non-removable,4780,555.99
+Xiaomi,Redmi 8A Pro,18,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,1080p,188,720 x 1520 ,6.22,Yes,Android,Qualcomm SDM439 Snapdragon 439,32,2,Non-removable,5000,90
+Xiaomi,Redmi 8A Dual,18,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,1080p,188,720 x 1520 ,6.22,Yes,Android,Qualcomm SDM439 Snapdragon 439,32,2,Non-removable,5000,80
+Xiaomi,Poco X2,27,8,Adreno 618,Mini-SIM,LTE,IPS LCD,4K,1080p,208,1080 x 2400 ,6.67,Yes,Android,Qualcomm SDM730 Snapdragon 730G,64,6,Non-removable,4500,200
+Xiaomi,Redmi K30,27,8,Adreno 618,Mini-SIM,LTE,IPS LCD,4K,1080p,208,1080 x 2400 ,6.67,Yes,Android,Qualcomm SDM730 Snapdragon 730G,64,6,Non-removable,4500,246.99
+Xiaomi,Redmi K30 5G,30,8,Adreno 620,Mini-SIM,5G,IPS LCD,4K,1080p,208,1080 x 2400 ,6.67,Yes,Android,Qualcomm SDM765 Snapdragon 765G,64,6,Non-removable,4500,289.99
+Xiaomi,Redmi Note 8T,18,8,Adreno 610,Mini-SIM,LTE,IPS LCD,4K,1080p,200,1080 x 2340 ,6.3,Yes,Android,Qualcomm SDM665 Snapdragon 665,32,3,Non-removable,4000,139.99
+Xiaomi,Mi Note 10 Pro,30,8,Adreno 618,Mini-SIM,LTE,AMOLED,4K,1080p,208,1080 x 2340 ,6.47,Yes,Android,Qualcomm SDM730 Snapdragon 730G,256,8,Non-removable,5260,505.99
+Xiaomi,Mi Note 10,30,8,Adreno 618,Mini-SIM,LTE,AMOLED,4K,1080p,208,1080 x 2340 ,6.47,Yes,Android,Qualcomm SDM730 Snapdragon 730G,128,6,Non-removable,5260,329.99
+Xiaomi,Mi CC9 Pro,30,8,Adreno 618,Mini-SIM,LTE,AMOLED,4K,1080p,208,1080 x 2340 ,6.47,Yes,Android,Qualcomm SDM730 Snapdragon 730G,128,6,Non-removable,5260,459.99
+Xiaomi,Redmi 8,18,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,1080p,188,720 x 1520 ,6.22,Yes,Android,Qualcomm SDM439 Snapdragon 439,32,3,Non-removable,5000,109.99
+Xiaomi,Redmi 8A,18,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,1080p,188,720 x 1520 ,6.22,Yes,Android,Qualcomm SDM439 Snapdragon 439,32,2,Non-removable,5000,95.64
+Xiaomi,Mi 9 Pro 5G,40,8,Adreno 640,Mini-SIM,5G,Super AMOLED,4K,1080p,196,1080 x 2340 ,6.39,No,Android,Qualcomm SM8150 Snapdragon 855+,128,8,Non-removable,4000,579.99
+Xiaomi,Mi 9 Pro,40,8,Adreno 640,Mini-SIM,LTE,Super AMOLED,4K,1080p,196,1080 x 2340 ,6.39,No,Android,Qualcomm SM8150 Snapdragon 855+,128,8,Non-removable,4000,500
+Xiaomi,Redmi K20 Pro Premium,27,8,Adreno 640,Mini-SIM,LTE,Super AMOLED,4K,1080p,191,1080 x 2340 ,6.39,Yes,Android,Qualcomm SM8150 Snapdragon 855+,128,8,Non-removable,4000,450
+Xiaomi,Mi 9 Lite,18,8,Adreno 616,Mini-SIM,LTE,Super AMOLED,4K,1080p,179,1080 x 2340 ,6.39,Yes,Android,Qualcomm SDM710 Snapdragon 710,64,6,Non-removable,4030,258.89
+Xiaomi,Redmi Note 8 Pro,18,8,Mali-G76,Mini-SIM,LTE,IPS LCD,4K,1080p,200,1080 x 2340 ,6.53,Yes,Android,Mediatek Helio G90T,64,6,Non-removable,4500,175.99
+Xiaomi,Black Shark 2 Pro,27,8,Adreno 640,Mini-SIM,LTE,AMOLED,4K,1080p,205,1080 x 2340 ,6.39,No,Android,Qualcomm SM8150 Snapdragon 855+,128,8,Non-removable,4000,429.99
+Xiaomi,Mi A3,18,8,Adreno 610,Mini-SIM,LTE,Super AMOLED,4K,1080p,173.8,720 x 1560 ,6.09,Yes,Android,Qualcomm SDM665 Snapdragon 665,64,4,Non-removable,4030,174.9
+Xiaomi,Redmi 7A,10,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,1080p,165,720 x 1440 ,5.45,Yes,Android,Qualcomm SDM439 Snapdragon 439,16,2,Non-removable,4000,83.47
+Xiaomi,Mi CC9e,18,8,Adreno 610,Mini-SIM,LTE,Super AMOLED,4K,1080p,173.8,720 x 1560 ,6.01,Yes,Android,Qualcomm SDM665 Snapdragon 665,64,4,Non-removable,4030,170
+Xiaomi,Mi CC9,18,8,Adreno 616,Mini-SIM,LTE,Super AMOLED,4K,1080p,179,1080 x 2340 ,6.39,Yes,Android,Qualcomm SDM710 Snapdragon 710,64,6,Non-removable,4030,260
+Xiaomi,Redmi Note 8,18,8,Adreno 610,Mini-SIM,LTE,IPS LCD,4K,1080p,190,1080 x 2340 ,6.3,Yes,Android,Qualcomm SDM665 Snapdragon 665,32,3,Non-removable,4000,142.87
+Xiaomi,Mi 9T Pro,27,8,Adreno 640,Mini-SIM,LTE,Super AMOLED,4K,1080p,191,1080 x 2340 ,6.39,Yes,Android,Qualcomm SM8150 Snapdragon 855,64,6,Non-removable,4000,536.29
+Xiaomi,Mi 9T,18,8,Adreno 618,Mini-SIM,LTE,AMOLED,4K,1080p,191,1080 x 2340 ,6.39,Yes,Android,Qualcomm SDM730 Snapdragon 730,64,6,Non-removable,4000,279.99
+Xiaomi,Redmi K20,18,8,Adreno 618,Mini-SIM,LTE,Super AMOLED,4K,1080p,191,1080 x 2340 ,6.39,Yes,Android,Qualcomm SDM730 Snapdragon 730,64,6,Non-removable,4000,299.856
+Xiaomi,Redmi K20 Pro,27,8,Adreno 640,Mini-SIM,LTE,Super AMOLED,4K,1080p,191,1080 x 2340 ,6.39,Yes,Android,Qualcomm SM8150 Snapdragon 855,64,6,Non-removable,4000,299.988
+Xiaomi,Redmi Note 7S,18,8,Adreno 512,Mini-SIM,LTE,IPS LCD,1080p,1080p,186,1080 x 2340 ,6.3,Yes,Android,Qualcomm SDM660 Snapdragon 660,32,3,Non-removable,4000,140
+Xiaomi,Redmi Y3,10,8,Adreno 506,Mini-SIM,LTE,IPS LCD,1080p,1080p,180,720 x 1520 ,6.26,Yes,Android,Qualcomm SDM632 Snapdragon 632,32,3,Non-removable,4000,120
+Xiaomi,Redmi 5 Plus (Redmi Note 5),10,8,Adreno 506,Mini-SIM,LTE,IPS LCD,4K,1080p,180,1080 x 2160 ,5.99,Yes,Android,Qualcomm MSM8953 Snapdragon 625,32,3,Non-removable,4000,141.6
+Google,Pixel 4 XL,18,8,Adreno 640,"Dual SIM (Nano-SIM, dual stand-by)",LTE,P-OLED,4K,1080p,193,1440 x 3040 ,6.3,No,Android,Qualcomm SM8150 Snapdragon 855,64,6,Non-removable,3700,479.99
+Google,Pixel 4,18,8,Adreno 640,"Dual SIM (Nano-SIM, dual stand-by)",LTE,P-OLED,4K,1080p,162,1080 x 2280 ,5.7,No,Android,Qualcomm SM8150 Snapdragon 855,64,6,Non-removable,2800,524.52
+Google,Pixel 3a XL,18,8,Adreno 615,"Dual SIM (Nano-SIM, dual stand-by)",LTE,OLED,4K,1080p,167,1080 x 2160 ,6,Yes,Android,Qualcomm SDM670 Snapdragon 670,64,4,Non-removable,3700,261.6
+Google,Pixel 3a,18,8,Adreno 615,"Dual SIM (Nano-SIM, dual stand-by)",LTE,OLED,4K,1080p,147,1080 x 2220 ,5.6,Yes,Android,Qualcomm SDM670 Snapdragon 670,64,4,Non-removable,3000,212.16
+Huawei,Enjoy 20 Pro,22.5,8,Mali-G57,"Dual SIM (Nano-SIM, dual stand-by)",5G,IPS LCD,4K,1080p,192,1080 x 2400 ,6.5,Yes,Android,MediaTek MT6873V Dimensity 800 5G,128,6,Non-removable,4000,250
+Huawei,Enjoy Z 5G,22.5,8,Mali-G57,"Dual SIM (Nano-SIM, dual stand-by)",5G,IPS LCD,4K,1080p,182,1080 x 2400 ,6.5,Yes,Android,MediaTek MT6873V Dimensity 800 5G,64,6,Non-removable,4000,220
+Huawei,P Smart S,10,8,Mali-G51,"Dual SIM (Nano-SIM, dual stand-by)",LTE,OLED,1080p,1080p,163,1080 x 2400 ,6.3,Yes,Android,Kirin 710F,128,4,Non-removable,4000,260
+Huawei,Y8p,10,8,Mali-G51,Dual SIM (Mini-SIM),LTE,OLED,1080p,1080p,163,1080 x 2400 ,6.3,Yes,Android,Kirin 710F,128,4,Non-removable,4000,240
+Huawei,P40 lite 5G,40,8,Mali-G57,Dual SIM (Mini-SIM),5G,LTPS IPS LCD,4K,1080p,189,1080 x 2400 ,6.5,Yes,Android,Kirin 820 5G,128,6,Non-removable,4000,369.95
+Huawei,P30 Pro New Edition,40,8,Mali-G76,Dual SIM,LTE,OLED,4K,1080p,192,1080 x 2340 ,6.47,No,Android,Kirin 980,256,8,Non-removable,4200,743.24
+Huawei,Y8s,10,8,Mali-G51,Dual SIM,LTE,IPS LCD,1080p,1080p,180,1080 x 2340 ,6.5,Yes,Android,Kirin 710,64,4,Non-removable,4000,140
+Huawei,Y6p,10,8,PowerVR GE8320,Dual SIM,LTE,IPS LCD,1080p,1080p,185,720 x 1600 ,6.3,Yes,Android,Mediatek MT6762R Helio P22,32,3,Non-removable,5000,128.42
+Huawei,Y5p,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,144,720 x 1440 ,5.45,Yes,Android,Mediatek MT6762R Helio P22,32,2,Non-removable,3020,84.9
+Huawei,P smart 2020,10,8,Mali-G51,Mini-SIM,LTE,LTPS IPS LCD,1080p,1080p,160,1080 x 2340 ,6.21,Yes,Android,Kirin 710,128,4,Non-removable,3400,179.99
+Huawei,nova 7 Pro 5G,40,8,Mali-G77,Mini-SIM,5G,OLED,4K,4K,178,1080 x 2340 ,6.57,No,Android,Kirin 985 5G,128,8,Non-removable,4000,552.79
+Huawei,nova 7 5G,40,8,Mali-G77,Mini-SIM,5G,OLED,4K,4K,180,1080 x 2400 ,6.53,No,Android,Kirin 985 5G,128,8,Non-removable,4000,454.39
+Huawei,nova 7 SE,40,8,Mali-G57,Mini-SIM,5G,LTPS IPS LCD,4K,1080p,189,1080 x 2400 ,6.5,Yes,Android,Kirin 820 5G,128,8,Non-removable,4000,320
+Huawei,P40 Pro+,40,8,Mali-G76,Mini-SIM,5G,OLED,4K,4K,226,1200 x 2640 ,6.58,No,Android,Kirin 990 5G,256,8,Non-removable,4200,1400
+Huawei,P40 Pro,40,8,Mali-G76,Mini-SIM,5G,OLED,4K,4K,209,1200 x 2640 ,6.58,No,Android,Kirin 990 5G,128,8,Non-removable,4200,799.99
+Huawei,P40,22.5,8,Mali-G76,Mini-SIM,5G,OLED,4K,4K,175,1080 x 2340 ,6.1,No,Android,Kirin 990 5G,128,6,Non-removable,3800,528.99
+Huawei,P40 lite E,10,8,Mali-G51,Mini-SIM,LTE,IPS LCD,1080p,1080p,176,720 x 1560 ,6.39,Yes,Android,Kirin 710F,64,4,Non-removable,4000,160
+Huawei,P40 lite,40,8,Mali-G52,Mini-SIM,LTE,LTPS IPS LCD,1080p,1080p,183,1080 x 2310 ,6.4,Yes,Android,Kirin 810,128,6,Non-removable,4200,206
+Huawei,P30 lite New Edition,18,8,Mali-G51,Mini-SIM,LTE,IPS LCD,1080p,1080p,152.9,1080 x 2312 ,6.15,Yes,Android,Kirin 710,256,6,Non-removable,3340,227.21
+Huawei,Y7p,10,8,Mali-G51,Mini-SIM,LTE,IPS LCD,1080p,1080p,176,720 x 1560 ,6.39,Yes,Android,Kirin 710F,64,4,Non-removable,4000,140
+Huawei,nova 7i,40,8,Mali-G52,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,1080p,183,1080 x 2310 ,6.4,Yes,Android,Kirin 810,128,8,Non-removable,4200,258.48
+Huawei,Y6s (2019),21.82167235,8,PowerVR GE8320,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,150,720 x 1560 ,6.09,Yes,Android,Mediatek MT6765 Helio P35,32,3,Non-removable,3020,107.99
+Huawei,P smart Pro 2019,10,8,Mali-G51,Nano-SIM,LTE,LTPS IPS LCD,1080p,1080p,206,1080 x 2340 ,6.59,Yes,Android,Kirin 710F,128,6,Non-removable,4000,290
+Huawei,nova 6 5G,40,8,Mali-G76,"Dual SIM (Nano-SIM, dual stand-by)",5G,LTPS IPS LCD,4K,4K,212,1080 x 2400 ,6.57,Yes,Android,Kirin 990,128,8,Non-removable,4200,540
+Huawei,nova 6,40,8,Mali-G76,Nano-SIM,LTE,LTPS IPS LCD,4K,4K,197,1080 x 2400 ,6.57,Yes,Android,Kirin 990,128,8,Non-removable,4100,359.99
+Huawei,nova 6 SE,40,8,Mali-G52,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,1080p,183,1080 x 2310 ,6.4,Yes,Android,Kirin 810,128,8,Non-removable,4200,280
+Huawei,Y9s,10,8,Mali-G51,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,1080p,206,1080 x 2340 ,6.59,Yes,Android,Kirin 710F,128,6,Non-removable,4000,239.88
+Huawei,nova 5z,20,8,Mali-G52,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,4K,1080p,178,1080 x 2340 ,6.26,Yes,Android,Kirin 810,64,6,Non-removable,4000,200
+Huawei,Enjoy 10s,10,8,Mali-G51,Nano-SIM,LTE,OLED,1080p,1080p,163,1080 x 2400 ,6.3,Yes,Android,Kirin 710F,64,6,Non-removable,4000,200
+Huawei,Enjoy 10,10,8,Mali-G51,Nano-SIM,LTE,IPS LCD,1080p,1080p,176,720 x 1560 ,6.39,Yes,Android,Kirin 710F,64,4,Non-removable,4000,150
+Huawei,Mate 30 RS Porsche Design,40,8,Mali-G76,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",5G,OLED,4K,1080p,198,1176 x 2400 ,6.53,No,Android,Kirin 990 5G,512,12,Non-removable,4500,1700
+Huawei,Mate 30 Pro 5G,40,8,Mali-G76,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",5G,OLED,4K,1080p,198,1176 x 2400 ,6.53,No,Android,Kirin 990 5G,128,8,Non-removable,4500,864.99
+Huawei,Mate 30 Pro,40,8,Mali-G76,eSIM,LTE,OLED,4K,1080p,198,1176 x 2400 ,6.53,No,Android,Kirin 990,128,8,Non-removable,4500,713.35
+Huawei,Mate 30 5G,40,8,Mali-G76,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",5G,OLED,4K,1080p,196,1080 x 2340 ,6.62,Yes,Android,Kirin 990 5G,128,6,Non-removable,4200,650
+Huawei,Mate 30,40,8,Mali-G76,"Dual SIM (Nano-SIM, dual stand-by)",LTE,OLED,4K,1080p,196,1080 x 2340 ,6.62,Yes,Android,Kirin 990,128,6,Non-removable,4200,550
+Huawei,nova 5i Pro,20,8,Mali-G52,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,4K,1080p,178,1080 x 2340 ,6.26,Yes,Android,Kirin 810,128,6,Non-removable,4000,290
+Huawei,Enjoy 10 Plus,10,8,Mali-G51,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,163.5,1080 x 2340 ,6.59,Yes,Android,Kirin 710F,128,4,Non-removable,4000,190
+Huawei,nova 5T,22.5,8,Mali-G76,"Dual SIM (Nano-SIM/Micro-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,174,1080 x 2340 ,6.26,No,Android,Kirin 980,128,6,Non-removable,3750,239
+Huawei,nova 5 Pro,40,8,Mali-G76,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,OLED,4K,1080p,171,1080 x 2340 ,6.39,No,Android,Kirin 980,128,8,Non-removable,3500,390
+Huawei,nova 5,40,8,Mali-G52,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,OLED,1080p,1080p,171,1080 x 2340 ,6.39,No,Android,Kirin 810,128,8,Non-removable,3500,360
+Huawei,nova 5i,10,8,Mali-G51,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,178,1080 x 2310 ,6.4,Yes,Android,Kirin 710F,128,6,Non-removable,4000,260
+Huawei,Y9 Prime (2019),21.82167235,8,Mali-G51,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,1080p,196.8,1080 x 2340 ,6.59,Yes,Android,Kirin 710F,64,4,Non-removable,4000,185.868
+Huawei,P20 lite (2019),18,8,Mali-G51,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,1080p,178,1080 x 2310 ,6.4,Yes,Android,Kirin 710,64,4,Non-removable,4000,280
+Huawei,P Smart Z,21.82167235,8,Mali-G51,No,LTE,LTPS IPS LCD,1080p,1080p,196.8,1080 x 2340 ,6.59,Yes,Android,Kirin 710F,64,4,Non-removable,4000,280
+Huawei,Mate 20 X (5G),40,8,Mali-G76,Mini-SIM,5G,OLED,4K,1080p,233,1080 x 2244 ,7.2,No,Android,Kirin 980,256,8,Non-removable,4200,575
+Huawei,Y5 (2019),21.82167235,4,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,,146,720 x 1520 ,5.71,Yes,Android,Mediatek MT6761 Helio A22,16,2,Non-removable,3020,86.16
+Lenovo,K10 Plus,10,8,Adreno 506,Mini-SIM,LTE,IPS LCD,1080p,1080p,172,720 x 1520 ,6.22,Yes,Android,Qualcomm SDM632 Snapdragon 632,64,4,Non-removable,4050,135
+Lenovo,K10 Note,18,8,Adreno 616,Mini-SIM,LTE,IPS LCD,1080p,1080p,164,1080 x 2340 ,6.3,Yes,Android,Qualcomm SDM710 Snapdragon 710,64,4,Non-removable,4050,224
+Lenovo,A6 Note,10,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,,172,720 x 1560 ,6.09,Yes,Android,Mediatek MT6762 Helio P22,16,2,Non-removable,4000,100
+Lenovo,Tab M7,21.82167235,4,Mali-400,Mini-SIM,LTE,IPS LCD,720p,720p,236,600 x 1024 ,7,Yes,Android,Mediatek MT8321,8,1,Non-removable,3590,100
+Lenovo,Z6,15,8,Adreno 618,Mini-SIM,LTE,Super AMOLED,4K,1080p,159,1080 x 2340 ,6.39,Yes,Android,Qualcomm SDM730 Snapdragon 730,64,6,Non-removable,4000,250
+Lenovo,Z6 Pro 5G,18,8,Adreno 640,Mini-SIM,5G,Super AMOLED,4K,1080p,185,1080 x 2340 ,6.39,Yes,Android,Qualcomm SM8150 Snapdragon 855,128,6,Non-removable,4000,400
+Lenovo,Z6 Youth,15,8,Adreno 616,Mini-SIM,LTE,IPS LCD,1080p,1080p,164,1080 x 2340 ,6.3,Yes,Android,Qualcomm SDM710 Snapdragon 710,64,4,Non-removable,4050,160
+Lenovo,Z6 Pro,18,8,Adreno 640,Mini-SIM,LTE,Super AMOLED,4K,1080p,185,1080 x 2340 ,6.39,Yes,Android,Qualcomm SM8150 Snapdragon 855,128,6,Non-removable,4000,330.99
+LG,Q61,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,191,1080 x 2340 ,6.53,Yes,Android,Mediatek MT6765 Helio P35,64,4,Non-removable,4000,270
+LG,Stylo 6,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,219,1080 x 2460 ,6.8,Yes,Android,Mediatek MT6765 Helio P35,64,3,Non-removable,4000,200
+LG,Velvet,25,8,Adreno 620,Mini-SIM,5G,P-OLED,4K,1080p,180,1080 x 2460 ,6.8,Yes,Android,Qualcomm SDM765 Snapdragon 765G,128,6,Non-removable,4300,769.98
+LG,Q51,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,204,720 x 1520 ,6.5,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,4000,240
+LG,W10 Alpha,21.82167235,8,IMG8322,Mini-SIM,LTE,IPS LCD,1080p,720p,170,720 x 1512 ,5.71,Yes,Android,Unisoc SC9863A,32,3,Non-removable,3450,130
+LG,K61,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,191,1080 x 2340 ,6.53,Yes,Android,Mediatek MT6765 Helio P35,64,4,Non-removable,4000,239.59
+LG,K51S,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,194.5,720 x 1600 ,6.55,Yes,Android,Mediatek MT6765 Helio P35,64,3,Non-removable,4000,190.09
+LG,K41S,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,191.7,720 x 1600 ,6.55,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,4000,145
+LG,V50S ThinQ 5G,21,8,Adreno 640,Mini-SIM,5G,OLED,4K,4K,192,1080 x 2340 ,6.4,Yes,Android,Qualcomm SM8150 Snapdragon 855,256,8,Non-removable,4000,1100
+LG,G8X ThinQ,21,8,Adreno 640,Mini-SIM,LTE,OLED,4K,4K,192,1080 x 2340 ,6.4,Yes,Android,Qualcomm SM8150 Snapdragon 855,128,6,Non-removable,4000,578
+LG,Q70,15,8,Adreno 612,Mini-SIM,LTE,IPS LCD,4K,1080p,198,1080 x 2310 ,6.4,Yes,Android,Qualcomm SDM675 Snapdragon 675,64,4,Non-removable,4000,320
+LG,K30 (2019),21.82167235,4,Adreno 308,Mini-SIM,LTE,IPS LCD,1080p,,148,720 x 1440 ,5.45,Yes,Android,Qualcomm MSM8917 Snapdragon 425,16,2,Non-removable,3000,140
+LG,K20 (2019),21.82167235,4,PowerVR GE8100,Mini-SIM,LTE,IPS LCD,1080p,,152,480 x 960 ,5.45,Yes,Android,Mediatek MT6739,16,1,Non-removable,3000,100
+LG,K40S,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,186,720 x 1520 ,6.1,Yes,Android,Mediatek MT6762 Helio P22,32,2,Non-removable,3500,160
+LG,K50S,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,194,720 x 1520 ,6.5,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,4000,200
+LG,W30 Pro,21.82167235,8,Adreno 506,Mini-SIM,LTE,IPS LCD,4K,1080p,172,720 x 1520 ,6.22,Yes,Android,Qualcomm SDM632 Snapdragon 632,64,4,Non-removable,4050,190
+LG,W30,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,,175,720 x 1520 ,6.26,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,4000,130
+LG,W10,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,164,720 x 1512 ,6.19,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,4000,110
+LG,Stylo 5,21.82167235,8,Adreno 506,Mini-SIM,LTE,IPS LCD,1080p,1080p,179,1080 x 2160 ,6.2,Yes,Android,Qualcomm SDM450 Snapdragon 450,32,3,Non-removable,3500,200
+LG,G8S ThinQ,18,8,Adreno 640,Mini-SIM,LTE,G-OLED,4K,1080p,181,1080 x 2248 ,6.21,Yes,Android,Qualcomm SM8150 Snapdragon 855,64,6,Non-removable,3550,356.99
+LG,Q8 (2018),18,8,Adreno 506,Mini-SIM,LTE,IPS LCD,1080p,1080p,172,1080 x 2160 ,6.2,Yes,Android,Qualcomm SDM450 Snapdragon 450,64,4,Non-removable,3300,300
+LG,X power 3,21.82167235,4,Adreno 308,Mini-SIM,LTE,IPS LCD,1080p,,171,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8917 Snapdragon 425,16,2,Non-removable,4500,180
+Motorola,One Fusion+,15,8,Adreno 618,Mini-SIM,LTE,IPS LCD,4K,1080p,210,1080 x 2340 ,6.5,Yes,Android,Qualcomm SDM730 Snapdragon 730,128,6,Non-removable,5000,300
+Motorola,Moto G Fast,10,8,Adreno 610,Mini-SIM,LTE,IPS LCD,4K,1080p,189.4,720 x 1560 ,6.4,Yes,Android,Qualcomm SM6125 Snapdragon 665,32,3,Non-removable,4000,199.99
+Motorola,Moto E (2020),21.82167235,8,Adreno 506,Mini-SIM,LTE,IPS LCD,1080p,1080p,185,720 x 1520 ,6.2,Yes,Android,Qualcomm SDM632 Snapdragon 632,32,2,Non-removable,3550,149.99
+Motorola,Moto G Pro,15,8,Adreno 610,Mini-SIM,LTE,IPS LCD,4K,1080p,192,1080 x 2300 ,6.4,Yes,Android,Qualcomm SDM665 Snapdragon 665,128,4,Non-removable,4000,329.99
+Motorola,Edge+,18,8,Adreno 650,Mini-SIM,5G,OLED,6K,1080p,203,1080 x 2340 ,6.7,Yes,Android,Qualcomm SM8250 Snapdragon 865,256,12,Non-removable,5000,1200
+Motorola,Moto G8 Power Lite,10,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,200,720 x 1600 ,6.5,Yes,Android,Mediatek MT6765 Helio P35,64,4,Non-removable,5000,144
+Motorola,Moto E6s (2020),21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,160,720 x 1560 ,6.1,Yes,Android,Mediatek MT6762 Helio P22,32,2,Removable,3000,96.85
+Motorola,Moto G8,10,8,Adreno 610,Mini-SIM,LTE,IPS LCD,4K,1080p,188.3,720 x 1560 ,6.4,Yes,Android,Qualcomm SM6125 Snapdragon 665,64,4,Non-removable,4000,169.99
+Motorola,Moto G Stylus,10,8,Adreno 610,Mini-SIM,LTE,IPS LCD,4K,1080p,192,1080 x 2300 ,6.4,Yes,Android,Qualcomm SDM665 Snapdragon 665,128,4,Non-removable,4000,195
+Motorola,Moto G Power,10,8,Adreno 610,Mini-SIM,LTE,IPS LCD,4K,1080p,199,1080 x 2300 ,6.4,Yes,Android,Qualcomm SDM665 Snapdragon 665,64,4,Non-removable,5000,249.99
+Motorola,Moto G8 Power,18,8,Adreno 610,Mini-SIM,LTE,IPS LCD,4K,1080p,197,1080 x 2300 ,6.4,Yes,Android,Qualcomm SDM665 Snapdragon 665,64,4,Non-removable,5000,174.06
+Motorola,One Hyper,45,8,Adreno 612,Mini-SIM,LTE,IPS LCD,4K,1080p,210,1080 x 2340 ,6.5,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,4,Non-removable,4000,296.43
+Motorola,Razr 2019,15,8,Adreno 616,Mini-SIM,LTE,Foldable P-OLED,4K,1080p,205,876 x 2142 ,6.2,No,Android,Qualcomm SDM710 Snapdragon 710,128,6,Non-removable,2510,42.99
+Motorola,Moto G8 Play,21.82167235,8,Mali-G72,Mini-SIM,LTE,IPS LCD,1080p,1080p,183.6,720 x 1520 ,6.2,Yes,Android,Mediatek MT6771 Helio P70M,32,2,Non-removable,4000,134.99
+Motorola,Moto E6 Play,21.82167235,4,PowerVR GE8100,Mini-SIM,LTE,IPS LCD,1080p,1080p,140,720 x 1440 ,5.5,Yes,Android,Mediatek MT6739,32,2,Non-removable,3000,93.99
+Motorola,Moto G8 Plus,15,8,Adreno 610,Mini-SIM,LTE,LTPS IPS LCD,4K,1080p,188,1080 x 2280 ,6.3,Yes,Android,Qualcomm SDM665 Snapdragon 665,64,4,Non-removable,4000,199.9
+Motorola,One Macro,10,8,Mali-G72,Mini-SIM,LTE,IPS LCD,1080p,1080p,186,720 x 1520 ,6.2,Yes,Android,Mediatek MT6771 Helio P70,64,4,Non-removable,4000,139.99
+Motorola,Moto E6 Plus,10,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,149.7,720 x 1560 ,6.1,Yes,Android,Mediatek MT6762 Helio P22,32,2,Removable,3000,108.96
+Motorola,One Zoom,15,8,Adreno 612,Mini-SIM,LTE,Super AMOLED,4K,1080p,190,1080 x 2340 ,6.39,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,4,Non-removable,4000,299.99
+Motorola,One Action,10,8,Mali-G72,Mini-SIM,LTE,LTPS IPS LCD,4K,1080p,176,1080 x 2520 ,6.3,Yes,Android,Exynos 9609,128,4,Non-removable,3500,165
+Motorola,Moto E6,21.82167235,8,Adreno 505,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,159,720 x 1440 ,5.5,Yes,Android,Qualcomm SDM435 Snapdragon 435,16,2,Removable,3000,59.99
+Motorola,Moto Z4,15,8,Adreno 612,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,OLED,4K,1080p,165,1080 x 2340 ,6.4,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,4,Non-removable,3600,299.99
+Motorola,One Vision,15,8,Mali-G72,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,4K,1080p,180,1080 x 2520 ,6.3,Yes,Android,Exynos 9609,128,4,Non-removable,3500,195
+Nokia,C5 Endi,10,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,200,720 x 1600 ,6.52,Yes,Android,Mediatek MT6762 Helio P22,64,3,Non-removable,4000,150
+Nokia,C2 Tennen,10,4,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,720p,180,720 x 1440 ,5.45,Yes,Android,Mediatek MT6761 Helio A22,16,2,Non-removable,3000,60
+Nokia,C2 Tava,10,4,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,720p,180,720 x 1440 ,5.45,Yes,Android,Mediatek MT6761 Helio A22,16,2,Non-removable,3000,100
+Nokia,8.3 5G,18,8,Adreno 620,Mini-SIM,5G,IPS LCD,4K,1080p,220,1080 x 2400 ,6.81,Yes,Android,Qualcomm SDM765 Snapdragon 765G,64,6,Non-removable,4500,500
+Nokia,5.3,10,8,Adreno 610,Mini-SIM,LTE,IPS LCD,1080p,1080p,185,720 x 1600 ,6.55,Yes,Android,Qualcomm SM6125 Snapdragon 665,64,3,Non-removable,4000,149.95
+Nokia,1.3,21.82167235,4,Adreno 308,Mini-SIM,LTE,IPS LCD,720p,720p,155,720 x 1520 ,5.71,Yes,Android,Qualcomm QM215,16,1,Removable,3000,64.98
+Nokia,2.3,21.82167235,4,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,,183,720 x 1520 ,6.2,Yes,Android,Mediatek MT6761 Helio A22,32,2,Non-removable,4000,99.57
+Nokia,7.2,10,8,Adreno 512,Mini-SIM,LTE,IPS LCD,4K,1080p,180,1080 x 2280 ,6.3,Yes,Android,Qualcomm SDM660 Snapdragon 660,64,4,Non-removable,3500,198.31
+Nokia,6.2,10,8,Adreno 509,Mini-SIM,LTE,IPS LCD,4K,1080p,180,1080 x 2280 ,6.3,Yes,Android,Qualcomm SDM636 Snapdragon 636,32,3,Non-removable,3500,166.11
+Nokia,3.1 C,10,4,Adreno 504,Mini-SIM,LTE,IPS LCD,1080p,720p,156,720 x 1440 ,5.45,Yes,Android,Qualcomm SDM429 Snapdragon 429,32,2,Non-removable,2990,126
+Nokia,3.1 A,10,4,Adreno 504,Mini-SIM,LTE,IPS LCD,1080p,720p,156,720 x 1440 ,5.45,Yes,Android,Qualcomm SDM429 Snapdragon 429,32,2,Non-removable,2990,81
+Nokia,2.2,21.82167235,4,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,153,720 x 1520 ,5.71,Yes,Android,Mediatek MT6761 Helio A22,16,2,Removable,3000,69.99
+Oppo,Reno4 Pro 5G,65,8,Adreno 620,Mini-SIM,5G,AMOLED,4K,1080p,172,1080 x 2400 ,6.55,No,Android,Qualcomm SDM765 Snapdragon 765G,128,8,Non-removable,4000,470
+Oppo,Reno4 5G,65,8,Adreno 620,Mini-SIM,5G,AMOLED,4K,1080p,183,1080 x 2400 ,6.43,No,Android,Qualcomm SDM765 Snapdragon 765G,128,8,Non-removable,4000,370
+Oppo,Find X2 Neo,30,8,Adreno 620,Mini-SIM,5G,AMOLED,4K,1080p,171,1080 x 2400 ,6.5,No,Android,Qualcomm SDM765 Snapdragon 765G,256,12,Non-removable,4025,587.4
+Oppo,A92s,18,8,Mali-G57,Mini-SIM,5G,LTPS IPS LCD,4K,1080p,184,1080 x 2400 ,6.57,Yes,Android,MediaTek MT6873V Dimensity 800 5G,128,6,Non-removable,4000,290
+Oppo,Find X2 Lite,30,8,Adreno 620,Mini-SIM,5G,AMOLED,4K,1080p,180,1080 x 2400 ,6.4,Yes,Android,Qualcomm SDM765 Snapdragon 765G,128,8,Non-removable,4025,399
+Oppo,Ace2,65,8,Adreno 650,Nano-SIM,5G,AMOLED,4K,1080p,186,1080 x 2400 ,6.55,No,Android,Qualcomm SM8250 Snapdragon 865,128,8,Non-removable,4000,520
+Oppo,A12e,21.82167235,8,Adreno 506,Nano-SIM,LTE,IPS LCD,1080p,1080p,168,720 x 1520 ,6.2,Yes,Android,Qualcomm SDM450 Snapdragon 450,64,3,Non-removable,4230,120
+Oppo,Reno3,30,8,PowerVR GM9446,Nano-SIM,LTE,AMOLED,4K,1080p,170,1080 x 2400 ,6.4,Yes,Android,Mediatek MT6779 Helio P90,128,8,Non-removable,4025,324.38
+Oppo,Find X2 Pro,65,8,Adreno 650,"Dual SIM (Mini-SIM, dual stand-by)",5G,AMOLED,4K,1080p,217,1440 x 3168 ,6.7,No,Android,Qualcomm SM8250 Snapdragon 865,256,12,Non-removable,4260,1010.71
+Oppo,Find X2,65,8,Adreno 650,"Single SIM (Mini-SIM) or Dual SIM (Mini-SIM, dual stand-by)",5G,AMOLED,4K,1080p,209,1440 x 3168 ,6.7,No,Android,Qualcomm SM8250 Snapdragon 865,128,8,Non-removable,4200,969.99
+Oppo,Reno3 Pro,30,8,PowerVR GM9446,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,175,1080 x 2400 ,6.4,Yes,Android,Mediatek Helio P95,128,8,Non-removable,4025,349.788
+Oppo,F15,20,8,Mali-G72,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,1080p,1080p,172,1080 x 2400 ,6.4,Yes,Android,Mediatek MT6771V Helio P70,128,8,Non-removable,4025,299.89
+Oppo,Reno3 Pro 5G,30,8,Adreno 620,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",5G,AMOLED,4K,1080p,171,1080 x 2400 ,6.5,No,Android,Qualcomm SDM765 Snapdragon 765G,128,8,Non-removable,4025,690
+Oppo,Reno3 Youth,30,8,Adreno 620,"Single SIM (Mini-SIM) or Dual SIM (Mini-SIM, dual stand-by)",5G,AMOLED,4K,1080p,180,1080 x 2400 ,6.4,Yes,Android,Qualcomm SDM765 Snapdragon 765G,128,8,Non-removable,4025,400
+Oppo,Reno3 5G,30,8,Mali-G77,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",5G,AMOLED,4K,1080p,181,1080 x 2400 ,6.4,Yes,Android,Mediatek MT6885Z Dimensity 1000L,128,8,Non-removable,4025,440
+Oppo,A91,20,8,Mali-G72,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,1080p,1080p,172,1080 x 2400 ,6.4,Yes,Android,Mediatek MT6771V Helio P70,128,8,Non-removable,4025,269.98
+Oppo,A8,21.82167235,8,PowerVR GE8320,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,180,720 x 1600 ,6.5,Yes,Android,Mediatek MT6765V/CB Helio P35,128,4,Non-removable,4230,150
+Oppo,Reno Ace,65,8,Adreno 640,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,4K,1080p,200,1080 x 2400 ,6.5,Yes,Android,Qualcomm SM8150 Snapdragon 855+,128,8,Non-removable,4000,607.77
+Oppo,Reno A,21.82167235,8,Adreno 616,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,4K,1080p,169.5,1080 x 2340 ,6.4,Yes,Android,Qualcomm SDM710 Snapdragon 710,128,6,Non-removable,3600,280
+Oppo,A5 (2020),21.82167235,8,Adreno 610,"Single SIM (Nano-SIM) or Dual SIM (Mini-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,195,720 x 1600 ,6.5,Yes,Android,Qualcomm SDM665 Snapdragon 665,64,3,Non-removable,5000,148.96
+Oppo,A9 (2020),10,8,Adreno 610,"Dual SIM (Mini-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,195,720 x 1600 ,6.5,Yes,Android,Qualcomm SDM665 Snapdragon 665,128,4,Non-removable,5000,179.99
+Oppo,Reno2,20,8,Adreno 618,"Dual SIM (Mini-SIM, dual stand-by)",LTE,AMOLED,4K,1080p,189,1080 x 2400 ,6.5,Yes,Android,Qualcomm SDM730 Snapdragon 730G,128,8,Non-removable,4000,399.99
+Oppo,Reno2 F,20,8,Mali-G72,Nano-SIM,LTE,AMOLED,1080p,1080p,195,1080 x 2340 ,6.5,Yes,Android,Mediatek MT6771V Helio P70,128,8,Non-removable,4000,374.9
+Oppo,Reno2 Z,20,8,PowerVR GM9446,Nano-SIM,LTE,AMOLED,4K,1080p,195,1080 x 2340 ,6.53,Yes,Android,Mediatek MT6779 Helio P90,128,8,Non-removable,4000,269
+Oppo,Reno Z,20,8,PowerVR GM9446,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,4K,1080p,186,1080 x 2340 ,6.4,Yes,Android,Mediatek MT6779 Helio P90,128,4,Non-removable,4035,330
+Oppo,A9x,20,8,Mali-G72,Mini-SIM,LTE,LTPS IPS LCD,1080p,1080p,190,1080 x 2340 ,6.53,Yes,Android,Mediatek MT6771V Helio P70,128,6,Non-removable,4020,260
+Oppo,Reno 5G,20,8,Adreno 640,Mini-SIM,5G,AMOLED,4K,1080p,215,1080 x 2340 ,6.6,No,Android,Qualcomm SM8150 Snapdragon 855,256,8,Non-removable,4065,880
+Oppo,A1k,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,720p,170,720 x 1560 ,6.1,Yes,Android,Mediatek MT6762 Helio P22,32,2,Non-removable,4000,100
+Oppo,A5 (AX5),21.82167235,8,Adreno 506,Mini-SIM,LTE,IPS LCD,1080p,1080p,168,720 x 1520 ,6.2,Yes,Android,Qualcomm SDM450 Snapdragon 450,32,3,Non-removable,4230,230
+Realme,X3 SuperZoom,30,8,Adreno 640,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,202,1080 x 2400 ,6.6,No,Android,Qualcomm SM8150 Snapdragon 855+,128,8,Non-removable,4200,499
+Realme,6S,30,8,Mali-G76,Mini-SIM,LTE,IPS LCD,4K,1080p,191,1080 x 2400 ,6.5,Yes,Android,Mediatek MT6785 Helio G90T,64,4,Non-removable,4300,200
+Realme,X50 Pro Player,65,8,Adreno 650,Mini-SIM,5G,Super AMOLED,4K,1080p,209,1080 x 2400 ,6.44,No,Android,Qualcomm SM8250 Snapdragon 865,128,6,Non-removable,4200,464.99
+Realme,Narzo 10,18,8,Mali-G52,Mini-SIM,LTE,IPS LCD,1080p,1080p,199,720 x 1600 ,6.5,Yes,Android,Mediatek Helio G80,128,4,Non-removable,5000,150
+Realme,Narzo 10A,10,8,Mali-G52,Mini-SIM,LTE,IPS LCD,1080p,1080p,195,720 x 1600 ,6.5,Yes,Android,Mediatek Helio G70,32,3,Non-removable,5000,100
+Realme,X50m 5G,30,8,Adreno 620,Mini-SIM,5G,IPS LCD,4K,1080p,194,1080 x 2400 ,6.57,No,Android,Qualcomm SDM765 Snapdragon 765G,128,6,Non-removable,4200,276.11
+Realme,6i,18,8,Mali-G52,Mini-SIM,LTE,IPS LCD,1080p,1080p,199,720 x 1600 ,6.5,Yes,Android,Mediatek Helio G80,64,3,Non-removable,5000,164.14
+Realme,6 Pro,30,8,Adreno 618,Mini-SIM,LTE,IPS LCD,4K,1080p,202,1080 x 2400 ,6.6,Yes,Android,Qualcomm SM7125 Snapdragon 720G,64,6,Non-removable,4300,249
+Realme,X50 Pro 5G,65,8,Adreno 650,Mini-SIM,5G,Super AMOLED,4K,1080p,205,1080 x 2400 ,6.44,No,Android,Qualcomm SM8250 Snapdragon 865,128,6,Non-removable,4200,435.99
+Realme,C3 (3 cameras),10,8,Mali-G52,Mini-SIM,LTE,IPS LCD,1080p,1080p,195,720 x 1600 ,6.5,Yes,Android,Mediatek Helio G70,32,2,Non-removable,5000,124.94
+Realme,X50 5G,30,8,Adreno 620,Mini-SIM,5G,IPS LCD,4K,1080p,202,1080 x 2400 ,6.57,No,Android,Qualcomm SDM765 Snapdragon 765G,64,6,Non-removable,4200,239.99
+Realme,5i,10,8,Adreno 610,Mini-SIM,LTE,IPS LCD,4K,1080p,195,720 x 1600 ,6.52,Yes,Android,Qualcomm SDM665 Snapdragon 665,32,3,Non-removable,5000,139.99
+Realme,5s,10,8,Adreno 610,Pre-installed Nano-SIM,LTE,IPS LCD,4K,1080p,198,720 x 1600 ,6.5,Yes,Android,Qualcomm SDM665 Snapdragon 665,64,4,Non-removable,5000,169
+Realme,C2s,21.82167235,8,PowerVR GE8320,Nano-SIM,LTE,IPS LCD,1080p,1080p,166,720 x 1560 ,6.1,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,4000,40
+Realme,C2 2020,21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,166,720 x 1560 ,6.1,Yes,Android,Mediatek MT6762 Helio P22,32,2,Non-removable,4000,100
+Realme,X2 Pro,50,8,Adreno 640,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,199,1080 x 2400 ,6.5,Yes,Android,Qualcomm SM8150 Snapdragon 855+,64,6,Non-removable,4000,429.9
+Realme,XT,20,8,Adreno 616,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,183,1080 x 2340 ,6.4,Yes,Android,Qualcomm SDM712 Snapdragon 712,64,4,Non-removable,4000,204.9
+Realme,5 Pro,20,8,Adreno 616,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,184,1080 x 2340 ,6.3,Yes,Android,Qualcomm SDM712 Snapdragon 712,64,4,Non-removable,4035,188.1
+Realme,3i,21.82167235,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,175,720 x 1520 ,6.2,Yes,Android,Mediatek MT6771 Helio P60,32,3,Non-removable,4230,96
+Realme,3 Pro,20,8,Adreno 616,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,4K,1080p,172,1080 x 2340 ,6.3,Yes,Android,Qualcomm SDM710 Snapdragon 710,64,4,Non-removable,4045,168.9
+Samsung,Galaxy M01,21.82167235,8,Adreno 505,Nano-SIM,LTE,PLS TFT,1080p,,168,720 x 1520 ,5.7,Yes,Android,Qualcomm SDM439 Snapdragon 439,32,3,Non-removable,4000,110
+Samsung,Galaxy A21s,15,8,Mali-G52,"Dual SIM (Nano-SIM, dual stand-by)",LTE,PLS TFT,1080p,1080p,192,720 x 1600 ,6.5,Yes,Android,Exynos 850,32,3,Non-removable,5000,204.75
+Samsung,Galaxy A Quantum,25,8,Mali-G76,"Dual SIM (Nano-SIM, dual stand-by)",5G,Super AMOLED Plus,4K,1080p,185,1080 x 2400 ,6.7,Yes,Android,Exynos 980,128,8,Non-removable,4500,500
+Samsung,Galaxy A71 5G,25,8,Mali-G76,"Dual SIM (Nano-SIM, dual stand-by)",5G,Super AMOLED Plus,4K,1080p,185,1080 x 2400 ,6.7,Yes,Android,Exynos 980,128,6,Non-removable,4500,474.4
+Samsung,Galaxy A51 5G,15,8,Mali-G76,"Dual SIM (Nano-SIM, dual stand-by)",5G,Super AMOLED,4K,1080p,187,1080 x 2400 ,6.5,Yes,Android,Exynos 980,128,6,Non-removable,4500,430
+Samsung,Galaxy A21,15,,,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,193,720 x 1600 ,6.5,Yes,Android,Mediatek MT6765 Helio P35,32,3,Non-removable,4000,204.75
+Samsung,Galaxy M11,15,8,Adreno 506,"Dual SIM (Nano-SIM, dual stand-by)",LTE,PLS TFT,1080p,1080p,197,720 x 1560 ,6.4,Yes,Android,Qualcomm SDM450 Snapdragon 450,32,3,Non-removable,5000,131.988
+Samsung,Galaxy A31,15,8,Mali-G52,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,185,1080 x 2400 ,6.4,Yes,Android,Mediatek MT6768 Helio P65,64,4,Non-removable,5000,212.99
+Samsung,Galaxy A41,15,8,Mali-G52,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,152,1080 x 2400 ,6.1,Yes,Android,Mediatek MT6768 Helio P65,64,4,Non-removable,3500,233.9
+Samsung,Galaxy M21,15,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,188,1080 x 2340 ,6.4,Yes,Android,Exynos 9611,64,4,Non-removable,6000,219
+Samsung,Galaxy A11,15,8,,"Dual SIM (Nano-SIM, dual stand-by)",LTE,PLS TFT,1080p,1080p,177,720 x 1560 ,6.4,Yes,Android,Qualcomm SDM450 Snapdragon 450,32,2,Non-removable,4000,142.77
+Samsung,Galaxy M31,15,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,4K,191,1080 x 2340 ,6.4,Yes,Android,Exynos 9611,64,6,Non-removable,6000,229.9
+Samsung,Galaxy S20 Ultra 5G,45,8,Mali-G77,"Dual SIM (Nano-SIM, dual stand-by)",5G,Dynamic AMOLED 2X,8K,4K,222,1440 x 3200 ,6.9,No,Android,Exynos 990,128,12,Non-removable,5000,1048
+Samsung,Galaxy S20 Ultra,45,8,Mali-G77,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Dynamic AMOLED 2X,8K,4K,220,1440 x 3200 ,6.9,No,Android,Exynos 990,128,12,Non-removable,5000,1240.53
+Samsung,Galaxy S20+ 5G,25,8,Mali-G77,"Dual SIM (Nano-SIM, dual stand-by)",5G,Dynamic AMOLED 2X,8K,4K,188,1440 x 3200 ,6.7,No,Android,Exynos 990,128,12,Non-removable,4500,836
+Samsung,Galaxy S20+,25,8,Mali-G77,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Dynamic AMOLED 2X,8K,4K,186,1440 x 3200 ,6.7,No,Android,Exynos 990,128,8,Non-removable,4500,775
+Samsung,Galaxy S20 5G UW,25,8,Adreno 650,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",5G,Dynamic AMOLED 2X,8K,4K,168.1,1440 x 3200 ,6.2,No,Android,Qualcomm SM8250 Snapdragon 865,128,8,Non-removable,4000,880
+Samsung,Galaxy S20 5G,25,8,Mali-G77,"Dual SIM (Nano-SIM, dual stand-by)",5G,Dynamic AMOLED 2X,8K,4K,163,1440 x 3200 ,6.2,No,Android,Exynos 990,128,12,Non-removable,4000,789.99
+Samsung,Galaxy S20,25,8,Mali-G77,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Dynamic AMOLED 2X,8K,4K,163,1440 x 3200 ,6.2,No,Android,Exynos 990,128,8,Non-removable,4000,709.99
+Samsung,Galaxy Z Flip,15,8,Adreno 640,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Foldable Dynamic AMOLED,4K,4K,183,1080 x 2636 ,6.7,No,Android,Qualcomm SM8150 Snapdragon 855+,256,8,Non-removable,3300,1080
+Samsung,Galaxy Xcover Pro,15,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,218,1080 x 2340 ,6.3,Yes,Android,Exynos 9611,64,4,Removable,4050,384.38
+Samsung,Galaxy Note10 Lite,25,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,4K,199,1080 x 2400 ,6.7,Yes,Android,Exynos 9810,128,6,Non-removable,4500,480
+Samsung,Galaxy S10 Lite,45,8,Adreno 640,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED Plus,4K,1080p,186,1080 x 2400 ,6.7,No,Android,Qualcomm SM8150 Snapdragon 855,128,6,Non-removable,4500,449.95
+Samsung,Galaxy A01,21.82167235,8,Adreno 505,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,PLS TFT,1080p,,149,720 x 1520 ,5.7,Yes,Android,Qualcomm SDM439 Snapdragon 439,16,2,Non-removable,3000,99.99
+Samsung,Galaxy A71,25,8,Adreno 618,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED Plus,4K,1080p,179,1080 x 2400 ,6.7,Yes,Android,Qualcomm SDM730 Snapdragon 730,128,6,Non-removable,4500,329
+Samsung,Galaxy A51,15,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,172,1080 x 2400 ,6.5,Yes,Android,Exynos 9611,64,4,Non-removable,4000,261.99
+Samsung,Galaxy A70s,25,8,Adreno 612,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,187,1080 x 2400 ,6.7,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,6,Non-removable,4500,380
+Samsung,Galaxy A20s,15,8,Adreno 506,"Dual SIM (Nano-SIM/ Micro-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,183,720 x 1560 ,6.5,Yes,Android,Qualcomm SDM450 Snapdragon 450,32,3,Non-removable,4000,156.99
+Samsung,Galaxy M30s,15,8,Mali-G72,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,4K,1080p,188,1080 x 2340 ,6.4,Yes,Android,Exynos 9611,64,4,Non-removable,6000,194.9
+Samsung,Galaxy M10s,15,8,Mali-G71,Micro-SIM,LTE,Super AMOLED,1080p,1080p,169,720 x 1560 ,6.4,Yes,Android,Exynos 7884B,32,3,Non-removable,4000,199.99
+Samsung,Galaxy A90 5G,25,8,Adreno 640,Mini-SIM,5G,Super AMOLED,4K,1080p,206,1080 x 2400 ,6.7,No,Android,Qualcomm SM8150 Snapdragon 855,128,6,Non-removable,4500,436.08
+Samsung,Galaxy A30s,15,8,Mali-G71,"Dual SIM (Nano-SIM/Micro-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,169,720 x 1560 ,6.4,Yes,Android,Exynos 7904,32,3,Non-removable,4000,183.4
+Samsung,Galaxy A50s,15,8,Mali-G72,Micro-SIM,LTE,Super AMOLED,4K,1080p,169,1080 x 2340 ,6.4,Yes,Android,Exynos 9611,64,4,Non-removable,4000,271.99
+Samsung,Galaxy Note10+ 5G,45,8,Mali-G76,Mini-SIM,5G,Dynamic AMOLED,4K,4K,198,1440 x 3040 ,6.8,No,Android,Exynos 9825,256,12,Non-removable,4300,812
+Samsung,Galaxy Note10+,45,8,Mali-G76,Mini-SIM,LTE,Dynamic AMOLED,4K,4K,196,1440 x 3040 ,6.8,No,Android,Exynos 9825,256,12,Non-removable,4300,718.45
+Samsung,Galaxy Note10 5G,25,8,Mali-G76,Mini-SIM,5G,Dynamic AMOLED,4K,4K,168,1080 x 2280 ,6.3,No,Android,Exynos 9825,256,12,Non-removable,3500,1100
+Samsung,Galaxy Note10,25,8,Mali-G76,Mini-SIM,LTE,Dynamic AMOLED,4K,4K,168,1080 x 2280 ,6.3,No,Android,Exynos 9825,256,8,Non-removable,3500,598.91
+Samsung,Galaxy A10s,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,PLS TFT,1080p,1080p,168,720 x 1520 ,6.2,Yes,Android,Mediatek MT6762 Helio P22,32,2,Non-removable,4000,119.99
+Samsung,Galaxy A10e,21.82167235,8,Mali-G71,Mini-SIM,LTE,PLS TFT,1080p,,141,720 x 1560 ,5.83,Yes,Android,Exynos 7884,32,2,Non-removable,3000,87.51
+Samsung,Galaxy M40,15,8,Adreno 612,Mini-SIM,LTE,PLS TFT,4K,1080p,168,1080 x 2340 ,6.3,No,Android,Qualcomm SDM675 Snapdragon 675,64,4,Non-removable,3500,191.988
+Apple,iPhone 11 Pro Max,18,6,Apple GPU,Mini-SIM,LTE,Super Retina XDR OLED,4K,4K,226,1242 x 2688 ,6.5,No,iOS,Apple A13 Bionic,64,4,Non-removable,3969,989
+Apple,iPhone 11 Pro,18,6,Apple GPU,Mini-SIM,LTE,Super Retina XDR OLED,4K,4K,188,1125 x 2436 ,5.8,No,iOS,Apple A13 Bionic,64,4,Non-removable,3046,969
+Apple,iPhone 11,18,6,Apple GPU,Mini-SIM,LTE,Liquid Retina IPS LCD,4K,4K,194,828 x 1792 ,6.1,No,iOS,Apple A13 Bionic,64,4,Non-removable,3110,632.99
+Asus,Zenfone 6 ZS630KL,18,8,Adreno 640,Mini-SIM,LTE,IPS LCD,4K,4K,190,1080 x 2340 ,6.4,Yes,Android,Qualcomm SM8150 Snapdragon 855,64,6,Non-removable,5000,734.54
+Asus,ROG Phone ZS600KL,30,8,Adreno 630,Mini-SIM,LTE,AMOLED,4K,1080p,200,1080 x 2160 ,6,Yes,Android,Qualcomm SDM845 Snapdragon 845,128,8,Non-removable,4000,488.99
+Apple,iPhone XS Max,15,6,Apple GPU,Mini-SIM,LTE,OLED,2160p,1080p,208,1242 x 2688 ,6.5,No,iOS,Apple A12 Bionic,64,4,Non-removable,3174,1250
+Apple,iPhone XS,15,6,Apple GPU,Mini-SIM,LTE,OLED,2160p,1080p,177,1125 x 2436 ,5.8,No,iOS,Apple A12 Bionic,64,4,Non-removable,2658,1150
+Apple,iPhone XR,15,6,Apple GPU,Mini-SIM,LTE,IPS LCD,2160p,1080p,194,828 x 1792 ,6.1,No,iOS,Apple A12 Bionic,64,3,Non-removable,2942,850
+Apple,iPhone X,15,6,Apple GPU,Yes,LTE,OLED,2160p,1080p,174,1125 x 2436 ,5.8,No,iOS,Apple A11 Bionic,64,3,Non-removable,2716,1000
+Apple,iPhone 8 Plus,15,6,Apple GPU,Dual SIM (Mini-SIM),LTE,IPS LCD,2160p,1080p,202,1080 x 1920 ,5.5,No,iOS,Apple A11 Bionic,64,3,Non-removable,2691,770
+Apple,iPhone 7 Plus,21.82167235,4,PowerVR Series7,Dual SIM (Mini-SIM),LTE,IPS LCD,2160p,1080p,188,1080 x 1920 ,5.5,No,iOS,Apple A10 Fusion,32,3,Non-removable,2900,690
+Apple,iPhone 6s Plus,21.82167235,2,PowerVR GT7600,Mini-SIM,LTE,IPS LCD,2160p,1080p,192,1080 x 1920 ,5.5,Yes,iOS,Apple A9,16,2,Non-removable,2750,470
+Apple,iPhone 6 Plus,21.82167235,2,PowerVR GX6450,Mini-SIM,LTE,IPS LCD,1080p,720p,172,1080 x 1920 ,5.5,Yes,iOS,Apple A8,16,1,Non-removable,2915,420
+Asus,ZenFone Live (L2),21.82167235,4,Adreno 308,Mini-SIM,LTE,IPS LCD,1080p,,140,720 x 1440 ,5.5,Yes,Android,Qualcomm MSM8917 Snapdragon 425,16,2,Non-removable,3000,99
+Asus,Zenfone Max (M2) ZB633KL,21.82167235,8,Adreno 506,Mini-SIM,LTE,IPS LCD,2160p,1080p,160,720 x 1520 ,6.26,Yes,Android,Qualcomm SDM632 Snapdragon 632,64,4,Non-removable,4000,122
+Asus,ZenFone Lite (L1) ZA551KL,21.82167235,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,,140,720 x 1440 ,5.45,Yes,Android,Qualcomm MSM8937 Snapdragon 430,16,2,Non-removable,3000,80
+Asus,ZenFone Live (L1) ZA550KL,21.82167235,4,Adreno 308,Mini-SIM,LTE,IPS LCD,1080p,,140,720 x 1440 ,5.5,Yes,Android,Qualcomm MSM8917 Snapdragon 425,32,2,Non-removable,3000,100
+Asus,Zenfone 5 Lite ZC600KL,21.82167235,8,Adreno 508,Mini-SIM,LTE,IPS LCD,2160p,1080p,168,1080 x 2160 ,6,Yes,Android,Qualcomm SDM630 Snapdragon 630,64,4,Non-removable,3300,250
+Asus,Zenfone Max (M1) ZB555KL,21.82167235,4,Adreno 308,Mini-SIM,LTE,IPS LCD,1080p,1080p,150,720 x 1440 ,5.5,Yes,Android,Qualcomm MSM8917 Snapdragon 425,32,3,Non-removable,4000,160
+Asus,Zenfone 4 Pro ZS551KL,18,8,Adreno 540,Mini-SIM,LTE,AMOLED,2160p,1080p,175,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8998 Snapdragon 835,64,6,Non-removable,3600,390
+Asus,Zenfone 4 ZE554KL,18,8,Adreno 508,Mini-SIM,LTE,IPS LCD,2160p,1080p,165,1080 x 1920 ,5.5,Yes,Android,Qualcomm SDM630 Snapdragon 630,64,4,Non-removable,3300,400
+Asus,Zenfone 4 Selfie Lite ZB553KL,21.82167235,4,Adreno 308,"Dual SIM (Mini-SIM, dual stand-by)",LTE,IPS LCD,1080p,,144,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8917 Snapdragon 425,16,2,Non-removable,3000,180
+Asus,Zenfone 4 Selfie ZB553KL,21.82167235,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,,144,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8937 Snapdragon 430,32,3,Non-removable,3000,150
+Asus,Zenfone 4 Selfie Pro ZD552KL,18,8,Adreno 506,Mini-SIM,LTE,AMOLED,2160p,2160p,147,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8953 Snapdragon 625,64,3,Non-removable,3000,250
+Asus,Zenfone 4 Selfie ZD553KL,21.82167235,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,,144,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8937 Snapdragon 430,64,4,Non-removable,3000,290
+Asus,Zenfone 4 Max Plus ZC554KL,21.82167235,4,Adreno 308,Mini-SIM,LTE,IPS LCD,1080p,,181,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8917 Snapdragon 425,32,3,Non-removable,5000,220
+Asus,Zenfone 4 Max Pro ZC554KL,18,4,Adreno 308,Mini-SIM,LTE,IPS LCD,1080p,,181,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8917 Snapdragon 425,32,2,Non-removable,5000,250
+Asus,Zenfone Go ZB552KL,21.82167235,4,Adreno 306,Mini-SIM,LTE,IPS LCD,1080p,,168,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8916 Snapdragon 410,16,2,Non-removable,3000,120
+Asus,Zenfone AR ZS571KL,18,4,Adreno 530,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1080p,170,1440 x 2560 ,5.7,Yes,Android,Qualcomm MSM8996 Snapdragon 821,64,6,Non-removable,3300,440
+Asus,Zenfone 3 Zoom ZE553KL,18,8,Adreno 506,"Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,2160p,1080p,170,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8953 Snapdragon 625,32,4,Non-removable,5000,320
+Asus,Zenfone 3 Max ZC553KL,18,8,Adreno 505,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,175,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8937 Snapdragon 430,32,2,Non-removable,4100,190
+Asus,Zenfone 3 Deluxe 5.5 ZS550KL,18,8,Adreno 506,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,151,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8953 Snapdragon 625,64,4,Non-removable,3000,280
+Asus,Zenfone 3 Laser ZC551KL,21.82167235,8,Adreno 505,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,150,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8937 Snapdragon 430,16,2,Non-removable,3000,160
+Asus,Zenfone 3 Ultra ZU680KL,18,8,Adreno 510,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,233,1080 x 1920 ,6.8,Yes,Android,Qualcomm MSM8976 Snapdragon 652,32,3,Non-removable,4600,300
+Asus,Zenfone 3 Deluxe ZS570KL,18,4,Adreno 530,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1080p,170,1080 x 1920 ,5.7,Yes,Android,Qualcomm MSM8996 Snapdragon 820,64,4,Non-removable,3000,230
+Asus,Zenfone 3 ZE552KL,21.82167235,8,Adreno 506,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super IPS+,2160p,1080p,155,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8953 Snapdragon 625,64,4,Non-removable,3000,330
+Asus,Zenfone Max ZC550KL (2016),21.82167235,8,Adreno 405,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,202,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,32,2,Non-removable,5000,170
+Asus,Zenfone Go ZB551KL,21.82167235,4,Adreno 305,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,160,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8928 Snapdragon 400,16,2,Removable,3010,150
+Asus,Zenfone 2 Laser ZE551KL,21.82167235,8,Adreno 405,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,170.1,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,16,3,Removable,3000,180
+Asus,Zenfone Zoom ZX551ML,18,4,PowerVR G6430,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,185,1080 x 1920 ,5.5,Yes,Android,Intel Atom Z3590,32,4,Non-removable,3000,250
+Asus,Zenfone Max ZC550KL,21.82167235,4,Adreno 306,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,202,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8916 Snapdragon 410,8,2,Non-removable,5000,170
+Asus,Zenfone 2 Deluxe ZE551ML,18,4,PowerVR G6430,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,170,1080 x 1920 ,5.5,Yes,Android,Intel Atom Z3580,64,4,Non-removable,3000,350
+Asus,Zenfone 2 Laser ZE601KL,21.82167235,8,Adreno 405,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,190,1080 x 1920 ,6,Yes,Android,Qualcomm MSM8939v2 Snapdragon 616,16,2,Removable,3000,270
+Asus,Zenfone 2 Laser ZE600KL,21.82167235,8,Adreno 405,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,190,720 x 1280 ,6,Yes,Android,Qualcomm MSM8939 Snapdragon 615,16,2,Removable,3000,310
+Asus,Zenfone 2 Laser ZE550KL,21.82167235,4,Adreno 306,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,170,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8916 Snapdragon 410,32,3,Removable,3000,220
+Asus,Pegasus 2 Plus,21.82167235,8,Adreno 405,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,156,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,32,3,Non-removable,3030,300
+Asus,Zenfone Selfie ZD551KL,21.82167235,8,Adreno 405,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,170,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,16,2,Removable,3000,280
+Asus,Zenfone 2 ZE550ML,21.82167235,4,PowerVR G6430,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,170,720 x 1280 ,5.5,Yes,Android,Intel Atom Z3560,16,2,Non-removable,3000,250
+Asus,Zenfone 2 ZE551ML,18,4,PowerVR G6430,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,170,1080 x 1920 ,5.5,Yes,Android,Intel Atom Z3580,16,2,Non-removable,3000,300
+Asus,Zenfone Zoom ZX550,21.82167235,4,PowerVR G6430,Mini-SIM,LTE,IPS LCD,1080p,,185,1080 x 1920 ,5.5,Yes,Android,Intel Atom Z3580,16,2,Non-removable,3000,400
+Asus,Zenfone 6 A601CG,21.82167235,2,PowerVR SGX544,Mini-SIM,HSPA,IPS LCD,1080p,,196,720 x 1280 ,6,Yes,Android,Intel Atom Z2560,16,2,Non-removable,3230,200
+Asus,Zenfone 6 A600CG,21.82167235,2,PowerVR SGX544,Mini-SIM,HSPA,IPS LCD,1080p,,196,720 x 1280 ,6,Yes,Android,Intel Atom Z2580,16,2,Non-removable,3300,250
+Huawei,P30 Pro,40,8,Mali-G76,Mini-SIM,LTE,OLED,2160p,1080p,192,1080 x 2340 ,6.47,No,Android,HiSilicon Kirin 980,128,8,Non-removable,4200,880
+Huawei,P30,22.5,8,Mali-G76,Mini-SIM,LTE,OLED,2160p,1080p,165,1080 x 2340 ,6.1,Yes,Android,HiSilicon Kirin 980,64,8,Non-removable,3650,680
+Huawei,P30 lite,18,8,Mali-G51,Mini-SIM,LTE,IPS LCD,1080p,1080p,159,1080 x 2312 ,6.15,Yes,Android,Hisilicon Kirin 710,128,6,Non-removable,3340,290
+Huawei,nova 4e,18,8,Mali-G51,Mini-SIM,LTE,IPS LCD,1080p,1080p,159,1080 x 2312 ,6.15,Yes,Android,Hisilicon Kirin 710,128,4,Non-removable,3340,270
+Huawei,Enjoy 9e,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,150,720 x 1560 ,6.09,Yes,Android,Mediatek MT6765 Helio P35,32,3,Non-removable,3020,120
+Huawei,Y Max,21.82167235,8,Adreno 512,Mini-SIM,LTE,IPS LCD,1080p,1080p,210,1080 x 2244 ,7.12,Yes,Android,Qualcomm SDM660 Snapdragon 660,128,4,Non-removable,5000,280
+Huawei,Y6 Pro (2019),21.82167235,4,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,150,720 x 1560 ,6.09,Yes,Android,Mediatek MT6761 Helio A22,32,3,Non-removable,3020,120
+Huawei,Y6 (2019),21.82167235,4,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,150,720 x 1560 ,6.09,Yes,Android,Mediatek MT6761 Helio A22,32,2,Non-removable,3020,150
+Huawei,Y5 lite (2018),21.82167235,4,PowerVR GE8100,Mini-SIM,LTE,LCD,1080p,,142,720 x 1440 ,5.45,Yes,Android,Mediatek MT6739,16,1,Non-removable,3020,100
+Huawei,Mate 20 RS Porsche Design,40,8,Mali-G76,Mini-SIM,LTE,OLED,2160p,1080p,187,1440 x 3120 ,6.39,No,Android,HiSilicon Kirin 980,256,8,Non-removable,4200,1600
+Huawei,Mate 20 Pro,40,8,Mali-G76,Mini-SIM,LTE,OLED,2160p,1080p,189,1440 x 3120 ,6.39,No,Android,HiSilicon Kirin 980,256,8,Non-removable,4200,880
+Huawei,Y5 Prime (2018),21.82167235,4,PowerVR GE8100,Mini-SIM,LTE,LCD,1080p,,142,720 x 1440 ,5.45,Yes,Android,Mediatek MT6739,16,2,Non-removable,3020,100
+Huawei,Y6 Prime (2018),21.82167235,4,Adreno 308,Mini-SIM,LTE,S-IPS LCD,1080p,,150,720 x 1440 ,5.7,Yes,Android,Qualcomm MSM8917 Snapdragon 425,32,3,Non-removable,3000,140
+Huawei,Y6 (2018),21.82167235,4,Adreno 308,Mini-SIM,LTE,S-IPS LCD,1080p,,150,720 x 1440 ,5.7,Yes,Android,Qualcomm MSM8917 Snapdragon 425,16,2,Non-removable,3000,150
+Huawei,Y7 Pro (2018),21.82167235,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,1080p,155,720 x 1440 ,5.99,Yes,Android,Qualcomm MSM8937 Snapdragon 430,32,3,Non-removable,3000,150
+Huawei,Y7 Prime (2018),21.82167235,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,1080p,155,720 x 1440 ,5.99,Yes,Android,Qualcomm MSM8937 Snapdragon 430,32,3,Non-removable,3000,170
+Huawei,Y7 (2018),21.82167235,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,,155,720 x 1440 ,5.99,Yes,Android,Qualcomm MSM8937 Snapdragon 430,16,2,Non-removable,3000,150
+Huawei,Y9 (2018),21.82167235,8,Mali-T830,Mini-SIM,LTE,IPS LCD,1080p,1080p,170,1080 x 2160 ,5.93,Yes,Android,HiSilicon Kirin 659,64,4,Non-removable,4000,220
+Huawei,P smart,21.82167235,8,Mali-T830,Mini-SIM,LTE,IPS LCD,1080p,,143,1080 x 2160 ,5.65,Yes,Android,HiSilicon Kirin 659,64,4,Non-removable,3000,170
+Huawei,Mate 10 Lite,21.82167235,8,Mali-T830,Mini-SIM,LTE,IPS LCD,1080p,1080p,164,1080 x 2160 ,5.9,Yes,Android,HiSilicon Kirin 659,64,4,Non-removable,3340,200
+Huawei,Y7 Prime,21.82167235,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,,165,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8940 Snapdragon 435,32,3,Non-removable,4000,180
+Huawei,Y7,21.82167235,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,,165,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8940 Snapdragon 435,16,2,Non-removable,4000,160
+Huawei,G9 Plus,21.82167235,8,Adreno 506,Mini-SIM,LTE,IPS LCD,2160p,1080p,160,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8953 Snapdragon 625,64,4,Non-removable,3340,280
+Huawei,G7 Plus,21.82167235,8,Adreno 405,Mini-SIM,LTE,IPS LCD,1080p,,167,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,32,3,Non-removable,3000,200
+Huawei,Nexus 6P,10,8,Adreno 430,Mini-SIM,LTE,OLED,2160p,1080p,178,1440 x 2560 ,5.7,Yes,Android,Qualcomm MSM8994 Snapdragon 810,32,3,Non-removable,3450,300
+Huawei,Mate S,21.82167235,8,Mali-T628,Mini-SIM,LTE,OLED,1080p,,156,1080 x 1920 ,5.5,Yes,Android,HiSilicon Kirin 935,32,3,Non-removable,2700,350
+Huawei,G8,21.82167235,8,Adreno 405,Mini-SIM,LTE,IPS LCD,1080p,,167,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,16,2,Non-removable,3000,330
+Huawei,P8max,21.82167235,8,Mali-T628,Mini-SIM,LTE,LTPS IPS LCD,1080p,,228,1080 x 1920 ,6.8,Yes,Android,HiSilicon Kirin 935,64,3,Non-removable,4360,400
+Huawei,Ascend GX1,21.82167235,4,Adreno 306,Mini-SIM,LTE,IPS LCD,1080p,720p,173,720 x 1280 ,6,Yes,Android,Qualcomm MSM8916 Snapdragon 410,8,1,Non-removable,3500,200
+Huawei,Ascend Mate7 Monarch,21.82167235,8,Mali-T628,Mini-SIM,LTE,IPS LCD,1080p,720p,185,1080 x 1920 ,6,Yes,Android,HiSilicon Kirin 925,64,3,Non-removable,4100,500
+Huawei,Ascend G7,21.82167235,4,Adreno 306,Mini-SIM,LTE,IPS LCD,1080p,,165,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8916 Snapdragon 410,16,2,Non-removable,3000,260
+Huawei,Ascend Mate7,21.82167235,8,Mali-T628,Mini-SIM,LTE,IPS LCD,1080p,720p,185,1080 x 1920 ,6,Yes,Android,HiSilicon Kirin 925,16,2,Non-removable,4100,340
+Huawei,Ascend G730,21.82167235,4,Mali-450,Mini-SIM,HSPA,IPS LCD,720p,,180,540 x 960 ,5.5,Yes,Android,,4,1,Removable,2300,270
+Huawei,Ascend Mate2 4G,21.82167235,4,Adreno 305,Mini-SIM,LTE,IPS+ LCD,1080p,,202,720 x 1280 ,6.1,Yes,Android,Qualcomm MSM8928 Snapdragon 400,16,2,Non-removable,4050,330
+Lenovo,K6 Enjoy,10,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,1080p,161,720 x 1520 ,6.22,Yes,Android,Mediatek MT6762 Helio P22,64,4,Non-removable,3300,190
+Lenovo,Tab V7,21.82167235,8,Adreno 506,Mini-SIM,LTE,IPS LCD,1080p,,195,1080 x 2160 ,6.95,Yes,Android,Qualcomm SDM450 Snapdragon 450,64,3,Non-removable,5180,250
+Lenovo,Z5s,15,8,Adreno 616,Mini-SIM,LTE,LTPS IPS LCD,2160p,1080p,172,1080 x 2340 ,6.3,Yes,Android,Qualcomm SDM710 Snapdragon 710,128,6,Non-removable,3300,220
+Lenovo,Z5 Pro GT,18,8,Adreno 640,Mini-SIM,LTE,Super AMOLED,2160p,1080p,210,1080 x 2340 ,6.39,No,Android,Qualcomm SDM855 Snapdragon 855,512,12,Non-removable,3350,400
+Lenovo,Z5 Pro,18,8,Adreno 616,Mini-SIM,LTE,Super AMOLED,2160p,1080p,210,1080 x 2340 ,6.39,No,Android,Qualcomm SDM710 Snapdragon 710,64,6,Non-removable,3350,300
+Lenovo,Z5,15,8,Adreno 509,Mini-SIM,LTE,IPS LCD,2160p,1080p,165,1080 x 2246 ,6.2,Yes,Android,Qualcomm SDM636 Snapdragon 636,64,6,Non-removable,3300,200
+Lenovo,K5 Note (2018),21.82167235,8,Adreno 506,Mini-SIM,LTE,IPS LCD,1080p,,176,720 x 1440 ,6,Yes,Android,Qualcomm SDM450 Snapdragon 450,64,4,Non-removable,3760,150
+Lenovo,A5,21.82167235,4,PowerVR GE8100,Mini-SIM,LTE,IPS LCD,720p,,160,720 x 1440 ,5.45,Yes,Android,Mediatek MT6739,16,3,Non-removable,4000,120
+Lenovo,K5,21.82167235,8,Mali-T860,Mini-SIM,LTE,IPS LCD,720p,,160,720 x 1440 ,5.7,Yes,Android,Mediatek MT6750V/CB,32,3,Non-removable,3000,130
+Lenovo,K5 play,21.82167235,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,,155,720 x 1440 ,5.7,Yes,Android,Qualcomm MSM8937 Snapdragon 430,32,3,Non-removable,3000,110
+Lenovo,S5,21.82167235,8,Adreno 506,Mini-SIM,LTE,IPS LCD,2160p,1080p,155,1080 x 2160 ,5.7,Yes,Android,Qualcomm MSM8953 Snapdragon 625,128,4,Non-removable,3000,150
+Lenovo,K320t,21.82167235,4,Mali-400,Mini-SIM,LTE,IPS LCD,1080p,,153.8,720 x 1440 ,5.7,Yes,Android,Spreadtrum,32,3,Non-removable,3000,150
+Lenovo,K8 Note,15,10,Mali-T880,Mini-SIM,LTE,IPS LCD,1080p,,180,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6797D Helio X23,64,4,Non-removable,4000,180
+Lenovo,ZUK Edge,18,4,Adreno 530,Mini-SIM,LTE,TDDI,2160p,1080p,160,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8996 Snapdragon 821,64,4,Non-removable,3100,450
+Lenovo,P2,18,8,Adreno 506,Mini-SIM,LTE,Super AMOLED,2160p,1080p,177,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8953 Snapdragon 625,64,4,Non-removable,5100,240
+Lenovo,K6 Note,21.82167235,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,,169,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8937 Snapdragon 430,32,3,Non-removable,4000,250
+Lenovo,Phab2 Plus,21.82167235,8,Mali-T720,Mini-SIM,LTE,IPS LCD,1080p,1080p,218,1080 x 1920 ,6.4,Yes,Android,Mediatek MT8783,32,3,Non-removable,4050,250
+Lenovo,Phab2,21.82167235,4,Mali-T720,Mini-SIM,LTE,IPS LCD,720p,,225,720 x 1280 ,6.4,Yes,Android,Mediatek MT8735,32,3,Non-removable,4050,230
+Lenovo,A7000 Turbo,21.82167235,8,Mali-T760,Mini-SIM,LTE,IPS LCD,1080p,,150,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6752,16,2,Removable,2900,180
+Lenovo,Vibe P1 Turbo,18,8,Adreno 405,Mini-SIM,LTE,IPS LCD,1080p,,189,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8939v2 Snapdragon 616,32,3,Non-removable,4900,260
+Lenovo,K5 Note,21.82167235,8,Mali-T860,Mini-SIM,LTE,LTPS IPS LCD,1080p,,165,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6755 Helio P10,32,3,Non-removable,3500,190
+Lenovo,Vibe K4 Note,21.82167235,8,Mali-T720,Mini-SIM,LTE,IPS LCD,1080p,,158,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6753,16,3,Non-removable,3300,190
+Lenovo,Vibe X3 c78,21.82167235,8,Mali-T720,Micro-SIM,LTE,IPS LCD,1080p,,175,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6753,16,2,Non-removable,3300,320
+Lenovo,Vibe X3,18,6,Adreno 418,Mini-SIM,LTE,IPS LCD,2160p,1080p,175,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8992 Snapdragon 808,32,3,Non-removable,3500,300
+Lenovo,Phab Plus,21.82167235,8,Adreno 405,Mini-SIM,LTE,IPS LCD,1080p,,229,1080 x 1920 ,6.8,Yes,Android,Qualcomm MSM8939 Snapdragon 615,32,2,Non-removable,3500,250
+Lenovo,Vibe P1,18,8,Adreno 405,Mini-SIM,LTE,IPS LCD,1080p,,189,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,32,2,Non-removable,5000,380
+Lenovo,ZUK Z1,18,4,Adreno 330,Mini-SIM,LTE,IPS LCD,1080p,1080p,175,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8974AC Snapdragon 801,64,3,Non-removable,4100,320
+Lenovo,A616,21.82167235,4,Mali-T760,Mini-SIM,LTE,IPS LCD,,,174,480 x 854 ,5.5,Yes,Android,Mediatek MT6732M,4,0,Non-removable,2250,50
+Lenovo,K80,21.82167235,4,,Mini-SIM,LTE,IPS LCD,1080p,,158,1080 x 1920 ,5.5,Yes,Android,Intel Atom Z3560,64,4,Non-removable,4000,280
+Lenovo,K3 Note,21.82167235,8,Mali-T760,Mini-SIM,LTE,IPS LCD,1080p,,150,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6752,16,2,Removable,3000,150
+Lenovo,A7000 Plus,21.82167235,8,Mali-T760,Mini-SIM,LTE,IPS LCD,1080p,,140,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6752,16,2,Removable,2900,190
+Lenovo,A7000,21.82167235,8,Mali-T760,Mini-SIM,LTE,IPS LCD,1080p,720p,140,720 x 1280 ,5.5,Yes,Android,Mediatek MT6752m,8,2,Removable,2900,150
+Lenovo,P90,21.82167235,4,PowerVR G6430,Mini-SIM,LTE,IPS LCD,1080p,,156,1080 x 1920 ,5.5,Yes,Android,Intel Atom Z3560,32,2,Non-removable,4000,450
+Lenovo,Golden Warrior Note 8,21.82167235,8,Mali-T760,Mini-SIM,LTE,IPS LCD,,,170,720 x 1280 ,6,Yes,Android,Mediatek MT6752,8,1,Removable,3300,160
+Lenovo,A916,21.82167235,8,Mali-450,Mini-SIM,LTE,IPS LCD,,,173,720 x 1280 ,5.5,Yes,Android,Mediatek MT6592,8,1,Removable,2500,160
+Lenovo,S856,21.82167235,4,Adreno 305,Mini-SIM,LTE,IPS LCD,,720p,175,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8926 Snapdragon 400,8,1,Removable,2500,210
+Lenovo,Vibe Z2,21.82167235,4,Adreno 306,Mini-SIM,LTE,IPS LCD,1080p,,158,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8916 Snapdragon 410,32,2,Non-removable,3000,430
+Lenovo,A850+,21.82167235,8,Mali-450,Mini-SIM,HSPA,"Capacitive touchscreen, 16M colors",,,161,540 x 960 ,5.5,Yes,Android,Mediatek MT6592M,4,1,Removable,2500,160
+Lenovo,S939,21.82167235,8,Mali-450,Mini-SIM,HSPA,IPS LCD,,,171.5,720 x 1280 ,6,Yes,Android,Mediatek MT6592,8,1,Removable,3000,180
+Lenovo,A889,21.82167235,4,Mali-400,Mini-SIM,HSPA,IPS LCD,,,192,540 x 960 ,6,Yes,Android,Mediatek MT6582,8,1,Removable,2500,120
+Lenovo,A880,21.82167235,4,Mali-400,Mini-SIM,HSPA,IPS LCD,,,196,540 x 960 ,6,Yes,Android,Mediatek MT6582M,8,1,Removable,2500,130
+LG,V50 ThinQ 5G,18,8,Adreno 640,Mini-SIM,LTE,P-OLED,2160p,1080p,183,1440 x 3120 ,6.4,Yes,Android,Qualcomm SDM855 Snapdragon 855,128,6,Non-removable,4000,950
+LG,G8s ThinQ,18,8,Adreno 640,Mini-SIM,LTE,OLED,2160p,1080p,181,1080 x 2248 ,6.2,Yes,Android,Qualcomm SDM855 Snapdragon 855,64,6,Non-removable,3550,450
+LG,G8 ThinQ,21,8,Adreno 640,Mini-SIM,LTE,P-OLED,2160p,1080p,167,1440 x 3120 ,6.1,Yes,Android,Qualcomm SDM855 Snapdragon 855,128,6,Non-removable,3500,620
+LG,Q60,21.82167235,8,,Mini-SIM,LTE,IPS LCD,1080p,,172,720 x 1520 ,6.26,Yes,Android,Mediatek MT6762 Helio P22,64,3,Non-removable,3500,180
+LG,K50,21.82167235,8,,Mini-SIM,LTE,IPS LCD,1080p,,170,720 x 1520 ,6.26,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,3500,252
+LG,K40,21.82167235,8,PowerVR GE8320,Mini-SIM,LTE,IPS LCD,1080p,,150,720 x 1440 ,5.7,Yes,Android,Mediatek MT6762 Helio P22,32,2,Non-removable,3000,144
+LG,Q9,18,4,Adreno 530,Mini-SIM,LTE,IPS LCD,2160p,1080p,159,1440 x 3120 ,6.1,Yes,Android,Qualcomm MSM8996 Snapdragon 821,64,4,Non-removable,3000,400
+LG,V40 ThinQ,18,8,Adreno 630,Mini-SIM,LTE,P-OLED,2160p,1080p,169,1440 x 3120 ,6.4,Yes,Android,Qualcomm SDM845 Snapdragon 845,64,6,Non-removable,3300,800
+LG,G7 Fit,18,4,Adreno 530,Mini-SIM,LTE,IPS LCD,2160p,1080p,158,1440 x 3120 ,6.1,Yes,Android,Qualcomm MSM8996 Snapdragon 821,32,4,Non-removable,3000,400
+LG,G7 One,18,8,Adreno 540,Mini-SIM,LTE,IPS LCD,2160p,1080p,156,1440 x 3120 ,6.1,Yes,Android,Qualcomm MSM8998 Snapdragon 835,32,4,Non-removable,3000,500
+LG,Q8,18,8,Adreno 506,Mini-SIM,LTE,IPS LCD,1080p,1080p,172,1080 x 2160 ,6.2,Yes,Android,Qualcomm SDM450 Snapdragon 450,64,4,Non-removable,3300,420
+LG,Q Stylo 4,10,8,Adreno 506,Mini-SIM,LTE,IPS LCD,1080p,,172,1080 x 2160 ,6.2,Yes,Android,Qualcomm SDM450 Snapdragon 450,32,2,Non-removable,3300,250
+LG,Q Stylus,10,8,Mali-T860,Mini-SIM,LTE,IPS LCD,1080p,,171,1080 x 2160 ,6.2,Yes,Android,Mediatek MT6750,64,4,Non-removable,3300,300
+LG,V35 ThinQ,18,8,Adreno 630,Mini-SIM,LTE,P-OLED,2160p,1080p,157,1440 x 2880 ,6,Yes,Android,Qualcomm SDM845 Snapdragon 845,128,6,Non-removable,3300,700
+LG,Q7,15,8,Mali-T860,Mini-SIM,LTE,IPS LCD,1080p,1080p,145,1080 x 2160 ,5.5,Yes,Android,Mediatek MT6750S,64,4,Non-removable,3000,180
+LG,G7 ThinQ,18,8,Adreno 630,Mini-SIM,LTE,IPS LCD,2160p,1080p,162,1440 x 3120 ,6.1,Yes,Android,Qualcomm SDM845 Snapdragon 845,128,6,Non-removable,3000,410
+LG,V30S ThinQ,18,8,Adreno 540,Mini-SIM,LTE,P-OLED,2160p,1080p,158,1440 x 2880 ,6,Yes,Android,Qualcomm MSM8998 Snapdragon 835,256,6,Non-removable,3300,650
+LG,V30,18,8,Adreno 540,Mini-SIM,LTE,P-OLED,2160p,1080p,158,1440 x 2880 ,6,Yes,Android,Qualcomm MSM8998 Snapdragon 835,128,4,Non-removable,3300,420
+LG,Q6,21.82167235,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,,149,1080 x 2160 ,5.5,Yes,Android,Qualcomm MSM8940 Snapdragon 435,64,4,Non-removable,3000,150
+LG,G6,18,4,Adreno 530,Mini-SIM,LTE,IPS LCD,2160p,1080p,163,1440 x 2880 ,5.7,Yes,Android,Qualcomm MSM8996 Snapdragon 821,32,4,Non-removable,3300,270
+LG,X power2,18,8,Mali-T860,Mini-SIM,LTE,IPS LCD,1080p,,164,720 x 1280 ,5.5,Yes,Android,Mediatek MT6750,16,2,Non-removable,4500,180
+LG,Stylo 3 Plus,21.82167235,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,,150,1080 x 1920 ,5.7,Yes,Android,Qualcomm MSM8940 Snapdragon 435,32,2,Removable,3080,260
+LG,Stylus 3,21.82167235,8,Mali-T860,Mini-SIM,LTE,IPS LCD,1080p,,149,720 x 1280 ,5.7,Yes,Android,Mediatek MT6750,16,3,Removable,3200,200
+LG,V20,18,4,Adreno 530,Mini-SIM,LTE,IPS LCD,2160p,,174,1440 x 2560 ,5.7,Yes,Android,Qualcomm MSM8996 Snapdragon 820,32,4,Removable,3200,350
+LG,X5,21.82167235,4,,Mini-SIM,LTE,IPS LCD,1080p,1080p,133,720 x 1280 ,5.5,Yes,Android,,16,2,Removable,2800,160
+LG,X max,21.82167235,4,Mali-T720,Mini-SIM,LTE,IPS LCD,1080p,,133,720 x 1280 ,5.5,Yes,Android,Mediatek MT6735,16,2,Removable,2800,200
+LG,X mach,21.82167235,6,Adreno 418,Mini-SIM,LTE,IPS LCD,2160p,1080p,150,1440 x 2560 ,5.5,Yes,Android,Qualcomm MSM8992 Snapdragon 808,32,3,Removable,3000,240
+LG,Stylus 2 Plus,21.82167235,8,Adreno 505,Nano-SIM,LTE,IPS LCD,1080p,,146,1080 x 1920 ,5.7,Yes,Android,Qualcomm MSM8937 Snapdragon 430,16,2,Removable,2900,180
+LG,Stylo 2,21.82167235,4,Adreno 306,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,144.6,720 x 1280 ,5.7,Yes,Android,Qualcomm MSM8916 Snapdragon 410,16,2,Removable,3000,150
+LG,Stylus 2,21.82167235,4,Adreno 306,Mini-SIM,LTE,IPS LCD,1080p,,145,720 x 1280 ,5.7,Yes,Android,Qualcomm MSM8916 Snapdragon 410,16,2,Removable,3000,170
+LG,Ray,21.82167235,8,Mali-450,Mini-SIM,HSPA,IPS LCD,1080p,,158,720 x 1280 ,5.5,Yes,Android,Mediatek MT6592M,16,1,Removable,3000,190
+LG,G Vista 2,21.82167235,8,Adreno 405,Mini-SIM,LTE,IPS LCD,1080p,,169.8,1080 x 1920 ,5.7,Yes,Android,Qualcomm MSM8952 Snapdragon 617,16,2,Removable,3000,190
+LG,V10,18,6,Adreno 418,Mini-SIM,LTE,IPS LCD,2160p,1080p,192,1440 x 2560 ,5.7,Yes,Android,Qualcomm MSM8992 Snapdragon 808,32,4,Removable,3000,250
+LG,G4 Dual,18,6,Adreno 418,Mini-SIM,LTE,IPS LCD,2160p,1080p,155,1440 x 2560 ,5.5,Yes,Android,Qualcomm MSM8992 Snapdragon 808,32,3,Removable,3000,280
+LG,G4,18,6,Adreno 418,Mini-SIM,LTE,IPS LCD,2160p,1080p,155,1440 x 2560 ,5.5,Yes,Android,Qualcomm MSM8992 Snapdragon 808,32,3,Removable,3000,300
+LG,G Stylo,21.82167235,4,Adreno 306,Mini-SIM,LTE,IPS LCD,1080p,1080p,165.9,720 x 1280 ,5.7,Yes,Android,Qualcomm MSM8916 Snapdragon 410,8,1,Removable,3000,180
+LG,G4 Stylus,21.82167235,4,Adreno 306,Mini-SIM,LTE,IPS LCD,1080p,,163,720 x 1280 ,5.7,Yes,Android,Qualcomm MSM8916 Snapdragon 410,8,1,Removable,3000,250
+LG,G Flex2,18,8,Adreno 430,Mini-SIM,LTE,Curved P-OLED,2160p,1080p,152,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8994 Snapdragon 810,16,2,Non-removable,3000,270
+LG,G3 Dual-LTE,21.82167235,4,Adreno 330,Mini-SIM,LTE,True HD-IPS + LCD,2160p,1080p,149,1440 x 2560 ,5.5,Yes,Android,Qualcomm MSM8975AC Snapdragon 801,32,3,Removable,3000,250
+LG,G3 Screen,21.82167235,8,,Mini-SIM,LTE,IPS LCD,1080p,1080p,182,1080 x 1920 ,5.9,Yes,Android,LG Nuclun,32,2,Removable,3000,250
+LG,G3 Stylus,21.82167235,4,Mali-400,Mini-SIM,HSPA,IPS LCD,1080p,,163,540 x 960 ,5.5,Yes,Android,Mediatek MT6582,8,1,Removable,3000,240
+LG,G Vista,21.82167235,4,Adreno 305,Mini-SIM,LTE,IPS LCD,1080p,,167,720 x 1280 ,5.7,Yes,Android,Qualcomm Snapdragon 400,8,2,Removable,3200,270
+LG,G Vista (CDMA),21.82167235,4,,Mini-SIM,LTE,"Capacitive touchscreen, 16M colors",1080p,,168.1,720 x 1280 ,5.7,Yes,Android,,8,2,Removable,3200,300
+LG,G3 LTE-A,21.82167235,4,Adreno 420,Mini-SIM,LTE,True HD-IPS + LCD,2160p,1080p,154,1440 x 2560 ,5.5,Yes,Android,Qualcomm APQ8084 Snapdragon 805,32,3,Removable,3000,330
+LG,G3 (CDMA),21.82167235,4,Adreno 330,Mini-SIM,LTE,True HD-IPS + LCD,2160p,1080p,149.7,1440 x 2560 ,5.5,Yes,Android,Qualcomm MSM8975AC Snapdragon 801,32,3,Removable,3000,300
+LG,G3,21.82167235,4,Adreno 330,Mini-SIM,LTE,True HD-IPS + LCD,2160p,1080p,149,1440 x 2560 ,5.5,Yes,Android,Qualcomm MSM8974AC Snapdragon 801,16,2,Removable,3000,300
+LG,G Pro 2,21.82167235,4,Adreno 330,Mini-SIM,LTE,True IPS+ LCD,2160p,1080p,172,1080 x 1920 ,5.9,Yes,Android,Qualcomm MSM8974 Snapdragon 800,16,3,Removable,3200,310
+LG,GX F310L,21.82167235,4,Adreno 320,Mini-SIM,LTE,True Full HD IPS Plus LCD,1080p,1080p,167,1080 x 1920 ,5.5,Yes,Android,Qualcomm Snapdragon 600,32,2,Removable,3140,250
+LG,G Flex,21.82167235,4,Adreno 330,Mini-SIM,LTE,Curved P-OLED,1080p,1080p,177,720 x 1280 ,6,Yes,Android,Qualcomm MSM8974 Snapdragon 800,32,2,Non-removable,3500,360
+Motorola,Moto G7 Plus,27,8,Adreno 509,Mini-SIM,LTE,LTPS IPS LCD,2160p,2160p,176,1080 x 2270 ,6.2,Yes,Android,Qualcomm SDM636 Snapdragon 636,64,4,Non-removable,3000,300
+Motorola,Moto G7,15,8,Adreno 506,Mini-SIM,LTE,LTPS IPS LCD,2160p,1080p,172,1080 x 2270 ,6.2,Yes,Android,Qualcomm SDM632 Snapdragon 632,64,4,Non-removable,3000,250
+Motorola,Moto G7 Power,15,8,Adreno 506,Mini-SIM,LTE,LTPS IPS LCD,2160p,1080p,193,720 x 1570 ,6.2,Yes,Android,Qualcomm SDM632 Snapdragon 632,64,4,Non-removable,5000,210
+Motorola,Moto G7 Play,10,8,Adreno 506,Mini-SIM,LTE,IPS LCD,2160p,1080p,149,720 x 1512 ,5.7,Yes,Android,Qualcomm SDM632 Snapdragon 632,32,2,Non-removable,3000,150
+Motorola,One (P30 Play),15,8,Adreno 506,Mini-SIM,LTE,LTPS IPS LCD,2160p,1080p,162,720 x 1520 ,5.9,Yes,Android,Qualcomm MSM8953 Snapdragon 625,64,4,Non-removable,3000,220
+Motorola,One Power (P30 Note),15,8,Adreno 509,Mini-SIM,LTE,LTPS IPS LCD,2160p,1080p,205,1080 x 2246 ,6.2,Yes,Android,Qualcomm SDM636 Snapdragon 636,64,4,Non-removable,5000,270
+Motorola,Moto Z3,15,8,Adreno 540,Mini-SIM,LTE,Super AMOLED,2160p,1080p,156,1080 x 2160 ,6.01,No,Android,Qualcomm MSM8998 Snapdragon 835,128,6,Non-removable,3000,480
+Motorola,Moto Z3 Play,15,8,Adreno 509,Mini-SIM,LTE,Super AMOLED,2160p,1080p,156,1080 x 2160 ,6.01,No,Android,Qualcomm SDM636 Snapdragon 636,128,6,Non-removable,3000,400
+Motorola,Moto E5 Play Go,21.82167235,4,Adreno 308,Mini-SIM,LTE,IPS LCD,1080p,,150,480 x 960 ,5.84,Yes,Android,Qualcomm MSM8917 Snapdragon 425,16,1,Removable,2100,110
+Motorola,Moto E5 Plus,10,4,Adreno 308,Mini-SIM,LTE,IPS LCD,1080p,,196.6,720 x 1440 ,6,Yes,Android,Qualcomm MSM8917 Snapdragon 425,32,3,Non-removable,5000,160
+Motorola,Moto G6 Play,10,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,1080p,175,720 x 1440 ,5.7,Yes,Android,Qualcomm MSM8937 Snapdragon 430,32,3,Non-removable,4000,150
+Motorola,P30,18,8,Adreno 509,Mini-SIM,LTE,IPS LCD,1080p,1080p,170,1080 x 2246 ,6.2,Yes,Android,Qualcomm SDM636 Snapdragon 636,64,6,Non-removable,3000,320
+Motorola,Moto G6 Plus,15,8,Adreno 508,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,167,1080 x 2160 ,5.9,Yes,Android,Qualcomm SDM630 Snapdragon 630,64,4,Non-removable,3200,260
+Motorola,Moto G6,15,8,Adreno 506,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,167,1080 x 2160 ,5.7,Yes,Android,Qualcomm SDM450 Snapdragon 450,64,4,Non-removable,3000,180
+Motorola,Moto G5S Plus,15,8,Adreno 506,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,168,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8953 Snapdragon 625,64,4,Non-removable,3000,160
+Motorola,Moto Z2 Force,15,8,Adreno 540,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,P-OLED,2160p,,143,1440 x 2560 ,5.5,No,Android,Qualcomm MSM8998 Snapdragon 835,64,6,Non-removable,2730,320
+Motorola,Moto E4 Plus,15,4,Mali-T720,Mini-SIM,LTE,IPS LCD,720p,,198,720 x 1280 ,5.5,Yes,Android,Mediatek MT6737,16,3,Non-removable,5000,110
+Motorola,Moto E4 Plus (USA),15,4,Adreno 308,Mini-SIM,LTE,IPS LCD,1080p,,181,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8920 Snapdragon 427,16,2,Non-removable,5000,180
+Motorola,Moto Z2 Play,15,8,Adreno 506,Mini-SIM,LTE,Super AMOLED,2160p,1080p,145,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8953-Pro Snapdragon 626,64,4,Non-removable,3000,230
+Motorola,Moto M,10,8,Mali-T860,Mini-SIM,LTE,IPS LCD,1080p,,163,1080 x 1920 ,5.5,Yes,Android,Mediatek Helio P10,64,4,Non-removable,3050,190
+Motorola,Moto Z Play,15,8,Adreno 506,Mini-SIM,LTE,Super AMOLED,2160p,1080p,165,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8953 Snapdragon 625,32,3,Non-removable,3510,220
+Motorola,Moto Z Force,15,4,Adreno 530,Mini-SIM,LTE,AMOLED,2160p,1080p,163,1440 x 2560 ,5.5,No,Android,Qualcomm MSM8996 Snapdragon 820,32,4,Non-removable,3500,270
+Motorola,Moto Z,15,4,Adreno 530,Mini-SIM,LTE,AMOLED,2160p,1080p,136,1440 x 2560 ,5.5,No,Android,Qualcomm MSM8996 Snapdragon 820,32,4,Non-removable,2600,220
+Motorola,Moto G4 Plus,15,8,Adreno 405,Mini-SIM,LTE,IPS LCD,1080p,,155,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8952 Snapdragon 617,64,4,Non-removable,3000,160
+Motorola,Moto G4,15,8,Adreno 405,Mini-SIM,LTE,IPS LCD,1080p,,155,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8952 Snapdragon 617,16,2,Non-removable,3000,130
+Motorola,Droid Maxx 2,15,8,Adreno 405,Mini-SIM,LTE,IPS LCD,1080p,,169,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,16,2,Non-removable,3630,300
+Motorola,Moto X Style,15,6,Adreno 418,Mini-SIM,LTE,IPS LCD,2160p,1080p,179,1440 x 2560 ,5.7,Yes,Android,Qualcomm MSM8992 Snapdragon 808,16,3,Non-removable,3000,260
+Motorola,Moto X Play Dual SIM,15,8,Adreno 405,Dual SIM (Mini-SIM),LTE,IPS LCD,1080p,,169,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,16,2,Non-removable,3630,250
+Motorola,Moto X Play,15,8,Adreno 405,Nano-SIM,LTE,IPS LCD,1080p,,169,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,16,2,Non-removable,3630,240
+Motorola,Nexus 6,21.82167235,4,Adreno 420,Nano-SIM,LTE,AMOLED,2160p,,184,1440 x 2560 ,5.96,Yes,Android,Qualcomm APQ8084 Snapdragon 805,32,3,Non-removable,3220,420
+Nokia,X71,18,8,Adreno 512,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,180,1080 x 2316 ,6.39,Yes,Android,Qualcomm SDM660 Snapdragon 660,128,6,Non-removable,3500,290
+Nokia,9 PureView,18,8,Adreno 630,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,P-OLED,2160p,2160p,172,1440 x 2880 ,5.99,No,Android,Qualcomm SDM845 Snapdragon 845,128,6,Non-removable,3320,620
+Nokia,4.2,21.82167235,8,Adreno 505,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,161,720 x 1520 ,5.71,Yes,Android,Qualcomm SDM439 Snapdragon 439,32,3,Non-removable,3000,150
+Nokia,3.2,10,4,Adreno 504,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,181,720 x 1520 ,6.26,Yes,Android,Qualcomm SDM429 Snapdragon 429,32,3,Non-removable,4000,130
+Nokia,1 Plus,21.82167235,4,PowerVR GE8100,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,720p,,138,480 x 960 ,5.45,Yes,Android,Mediatek MT6739,8,1,Removable,2500,90
+Nokia,3.1 Plus,21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,720p,180,720 x 1440 ,6,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,3500,150
+Nokia,6.1 Plus (Nokia X6),18,8,Adreno 509,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,151,1080 x 2280 ,5.8,Yes,Android,Qualcomm SDM636 Snapdragon 636,64,4,Non-removable,3060,250
+Nokia,5.1 Plus (Nokia X5),21.82167235,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,160,720 x 1520 ,5.86,Yes,Android,Mediatek MT6771 Helio P60,64,4,Non-removable,3060,150
+Nokia,5.1,21.82167235,8,Mali-T860,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,150,1080 x 2160 ,5.5,Yes,Android,MediaTek Helio P18,32,3,Non-removable,2970,180
+Nokia,8 Sirocco,18,8,Adreno 540,"Dual SIM (Nano-SIM, dual stand-by)",LTE,P-OLED,2160p,1080p,177,1440 x 2560 ,5.5,No,Android,Qualcomm MSM8998 Snapdragon 835,128,6,Non-removable,3260,550
+Nokia,6.1,18,8,Adreno 508,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,172,1080 x 1920 ,5.5,Yes,Android,Qualcomm SDM630 Snapdragon 630,32,3,Non-removable,3000,230
+Oppo,A7n,21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,S-IPS LCD,1080p,,170,720 x 1520 ,6.2,Yes,Android,Mediatek MT6765 Helio P35,64,4,Non-removable,4230,200
+Oppo,A5s (AX5s),21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,S-IPS LCD,1080p,,170,720 x 1520 ,6.2,Yes,Android,Mediatek MT6765 Helio P35,32,2,Non-removable,4230,117
+Oppo,F11,20,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,1080p,188,1080 x 2340 ,6.53,Yes,Android,Mediatek Helio P70,128,6,Non-removable,4020,250
+Oppo,F11 Pro,20,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,1080p,190,1080 x 2340 ,6.53,Yes,Android,Mediatek Helio P70,64,6,Non-removable,4000,320
+Oppo,A7,21.82167235,8,Adreno 506,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,168,720 x 1520 ,6.2,Yes,Android,Qualcomm SDM450 Snapdragon 450,32,3,Non-removable,4230,270
+Oppo,A5,21.82167235,8,Adreno 506,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,168,720 x 1520 ,6.2,Yes,Android,Qualcomm SDM450 Snapdragon 450,32,4,Non-removable,4230,230
+Oppo,F7 Youth,21.82167235,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,,155,1080 x 2160 ,6,Yes,Android,Mediatek MT6771 Helio P60,64,4,Non-removable,3410,250
+Oppo,A3,21.82167235,8,Mali-G72,"Dual SIM (Micro-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,,159,1080 x 2280 ,6.2,Yes,Android,Mediatek MT6771 Helio P60,128,4,Non-removable,3400,330
+Oppo,F7,21.82167235,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,1080p,158,1080 x 2280 ,6.23,Yes,Android,Mediatek MT6771 Helio P60,64,4,Non-removable,3400,270
+Oppo,A1,21.82167235,8,Mali-G71,"Dual SIM (Nano-SIM, dual stand-by)",LTE,S-IPS LCD,1080p,,143,720 x 1440 ,5.7,Yes,Android,Mediatek MT6763T Helio P23,64,4,Non-removable,3180,150
+Oppo,A83,21.82167235,8,Mali-G71,Dual SIM,LTE,IPS LCD,1080p,,143,720 x 1440 ,5.7,Yes,Android,Mediatek MT6763T Helio P23,64,4,Non-removable,3180,200
+Oppo,F5 Youth,21.82167235,8,Mali-G71,"Dual SIM (Micro-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,,152,1080 x 2160 ,6,Yes,Android,Mediatek MT6763T Helio P23,32,3,Non-removable,3200,280
+Oppo,F5,21.82167235,8,Mali-G71,"Dual SIM (Micro-SIM, dual stand-by)",LTE,LTPS IPS LCD,1080p,,152,1080 x 2160 ,6,Yes,Android,Mediatek MT6763T Helio P23,64,6,Non-removable,3200,320
+Oppo,A77,21.82167235,8,Adreno 506,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,148,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8953 Snapdragon 625,64,4,Non-removable,3200,280
+Oppo,A77 (Mediatek),21.82167235,8,Mali-T860,Mini-SIM,LTE,IPS LCD,1080p,1080p,153,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6750T,64,4,Non-removable,3200,310
+Oppo,F3,21.82167235,8,Mali-T860,Mini-SIM,LTE,IPS LCD,1080p,,153,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6750T,64,4,Non-removable,3200,260
+Oppo,F1s,21.82167235,8,Mali-T860,Mini-SIM,LTE,IPS LCD,1080p,1080p,160,720 x 1280 ,5.5,Yes,Android,Mediatek MT6755,64,4,Non-removable,3075,250
+Oppo,A59,21.82167235,8,Mali-T860,Mini-SIM,LTE,IPS LCD,1080p,1080p,160,720 x 1280 ,5.5,Yes,Android,Mediatek MT6750,32,3,Non-removable,3075,290
+Oppo,A53,21.82167235,8,Adreno 405,Mini-SIM,LTE,IPS LCD,1080p,,165,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8939v2 Snapdragon 616,16,2,Non-removable,3075,200
+Realme,3,10,8,Mali-G72,Mini-SIM,LTE,IPS LCD,1080p,1080p,175,720 x 1520 ,6.22,Yes,Android,Mediatek MT6771 Helio P60,64,4,Non-removable,4230,108
+Realme,C1 (2019),21.82167235,8,Adreno 506,Mini-SIM,LTE,IPS LCD,1080p,,168,720 x 1520 ,6.2,Yes,Android,Qualcomm SDM450 Snapdragon 450,32,2,Non-removable,4230,90
+Realme,C1,21.82167235,8,Adreno 506,Mini-SIM,LTE,IPS LCD,1080p,,168,720 x 1520 ,6.2,Yes,Android,Qualcomm SDM450 Snapdragon 450,16,2,Non-removable,4230,100
+Realme,2,21.82167235,8,Adreno 506,Mini-SIM,LTE,IPS LCD,1080p,,168,720 x 1520 ,6.2,Yes,Android,Qualcomm SDM450 Snapdragon 450,64,4,Non-removable,4230,120
+Realme,1,21.82167235,8,Mali-G72,Mini-SIM,LTE,IPS LCD,1080p,,155,1080 x 2160 ,6,Yes,Android,Mediatek MT6771 Helio P60,128,6,Non-removable,3410,130
+Samsung,Galaxy S10 5G,25,8,Mali-G76,Mini-SIM,LTE,Dynamic AMOLED,2160p,2160p,198,1440 x 3040 ,6.7,Yes,Android,Exynos 9820,256,8,Non-removable,4500,630
+Samsung,Galaxy S10+,15,8,Mali-G76,Mini-SIM,LTE,Dynamic AMOLED,2160p,2160p,175,1440 x 3040 ,6.4,Yes,Android,Exynos 9820,1000,12,Non-removable,4100,1050
+Samsung,Galaxy S10,15,8,Mali-G76,Mini-SIM,LTE,Dynamic AMOLED,2160p,2160p,157,1440 x 3040 ,6.1,Yes,Android,Exynos 9820,128,8,Non-removable,3400,770
+Samsung,Galaxy S10e,15,8,Mali-G76,Mini-SIM,LTE,Dynamic AMOLED,2160p,2160p,150,1080 x 2280 ,5.8,Yes,Android,Exynos 9820,256,8,Non-removable,3100,680
+Samsung,Galaxy M30,15,8,Mali-G71,Mini-SIM,LTE,Super AMOLED,2160p,1080p,174,1080 x 2340 ,6.4,Yes,Android,Exynos 7904,128,6,Non-removable,5000,250
+Samsung,Galaxy M20,15,8,Mali-G71,Mini-SIM,LTE,PLS TFT,1080p,1080p,186,1080 x 2340 ,6.3,Yes,Android,Exynos 7904,64,4,Non-removable,5000,220
+Samsung,Galaxy M10,21.82167235,8,Mali-T830,"Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)",LTE,PLS TFT,1080p,1080p,163,720 x 1520 ,6.22,Yes,Android,Exynos 7870 Octa,32,3,Non-removable,3400,100
+Samsung,Galaxy A80,25,8,Adreno 618,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,2160p,220,1080 x 2400 ,6.7,No,Android,Qualcomm SDM730 Snapdragon 730,128,8,Non-removable,3700,650
+Samsung,Galaxy A70,25,8,Adreno 612,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1080p,183,1080 x 2400 ,6.7,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,6,Non-removable,4500,420
+Samsung,Galaxy A60,15,8,Adreno 612,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,168,1080 x 2340 ,6.3,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,6,Non-removable,3500,270
+Samsung,Galaxy A50,15,8,Mali-G72,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,166,1080 x 2340 ,6.4,Yes,Android,Exynos 9610,128,6,Non-removable,4000,350
+Samsung,Galaxy A40,15,8,Mali-G71,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,140,1080 x 2340 ,5.9,Yes,Android,Exynos 7885,64,4,Non-removable,3100,250
+Samsung,Galaxy A30,15,8,Mali-G71,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,165,1080 x 2340 ,6.4,Yes,Android,Exynos 7904,64,4,Non-removable,4000,250
+Samsung,Galaxy A20e,15,8,,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,141,720 x 1560 ,5.8,Yes,Android,Exynos 7884,32,3,Non-removable,3000,144
+Samsung,Galaxy A20,15,8,,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,169,720 x 1560 ,6.4,Yes,Android,Exynos 7884,32,3,Non-removable,4000,200
+Samsung,Galaxy A10,21.82167235,8,Mali-G71,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,168,720 x 1520 ,6.2,Yes,Android,Exynos 7884 Octa,32,2,Non-removable,3400,120
+Samsung,Galaxy A8s,18,8,Adreno 616,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,173,1080 x 2340 ,6.4,No,Android,Qualcomm SDM710 Snapdragon 710,128,6,Non-removable,3400,387
+Samsung,Galaxy A6s,21.82167235,8,Adreno 512,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,,183,1080 x 2160 ,6,Yes,Android,Qualcomm SDM660 Snapdragon 660,64,6,Non-removable,3300,270
+Samsung,Galaxy A9 (2018),18,8,Adreno 512,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1080p,183,1080 x 2220 ,6.3,Yes,Android,Qualcomm SDM660 Snapdragon 660,64,6,Non-removable,3800,360
+Samsung,Galaxy A7 (2018),21.82167235,8,Mali-G71,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,168,1080 x 2220 ,6,Yes,Android,Exynos 7885,128,4,Non-removable,3300,280
+Samsung,Galaxy Note9,15,8,Mali-G72,"Hybrid Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,201,1440 x 2960 ,6.4,Yes,Android,Exynos 9810,512,8,Non-removable,4000,750
+Samsung,Galaxy J6+,21.82167235,4,Adreno 308,"Hybrid Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,178,720 x 1480 ,6,Yes,Android,Qualcomm MSM8917 Snapdragon 425,64,4,Non-removable,3300,240
+Samsung,Galaxy J4 Core,21.82167235,4,Adreno 308,"Hybrid Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,177,720 x 1480 ,6,Yes,Android,Qualcomm MSM8917 Snapdragon 425,16,1,Non-removable,3300,150
+Samsung,Galaxy J4+,21.82167235,4,Adreno 308,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,178,720 x 1480 ,6,Yes,Android,Qualcomm MSM8917 Snapdragon 425,32,2,Non-removable,3300,190
+Samsung,Galaxy On6,21.82167235,8,Mali-T830,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,154,720 x 1480 ,5.6,Yes,Android,Exynos 7870 Octa,64,4,Non-removable,3000,150
+Samsung,Galaxy J7 (2018),21.82167235,8,,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,TFT,1080p,,181,720 x 1280 ,5.5,Yes,Android,Exynos 7870 Octa,16,2,Non-removable,3300,200
+Samsung,Galaxy S Light Luxury,21.82167235,8,Adreno 512,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1080p,150,1080 x 2220 ,5.8,Yes,Android,Qualcomm SDM660 Snapdragon 660,64,4,Non-removable,3000,400
+Samsung,Galaxy J8,21.82167235,8,Adreno 506,"Dual SIM (Nano-SIM/Micro-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,177,720 x 1480 ,6,Yes,Android,Qualcomm SDM450 Snapdragon 450,64,4,Non-removable,3500,250
+Samsung,Galaxy J6,21.82167235,8,Mali-T830,Dual SIM (dual stand-by),LTE,Super AMOLED,1080p,,154,720 x 1480 ,5.6,Yes,Android,Exynos 7870 Octa,64,4,Non-removable,3000,180
+Samsung,Galaxy J4,21.82167235,4,Mali-T720,Dual SIM (dual stand-by),LTE,Super AMOLED,1080p,,175,720 x 1280 ,5.5,Yes,Android,Exynos 7570 Quad,16,2,Removable,3000,140
+Samsung,Galaxy A6+ (2018),21.82167235,8,Adreno 506,Dual SIM (dual stand-by),LTE,Super AMOLED,1080p,1080p,186,1080 x 2220 ,6,Yes,Android,Qualcomm SDM450 Snapdragon 450,64,4,Non-removable,3500,280
+Samsung,Galaxy A6 (2018),21.82167235,8,Mali-T830,Mini-SIM,LTE,Super AMOLED,1080p,,159,720 x 1480 ,5.6,Yes,Android,Exynos 7870 Octa,64,4,Non-removable,3000,200
+Samsung,Galaxy J7 Duo,21.82167235,8,Mali-G71,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,174,720 x 1280 ,5.5,Yes,Android,Exynos 7885,32,4,Removable,3000,240
+Samsung,Galaxy J7 Prime 2,21.82167235,8,Mali-T830,"Dual SIM (Nano-SIM, dual stand-by)",LTE,PLS TFT,1080p,1080p,170,1080 x 1920 ,5.5,Yes,Android,Exynos 7870 Octa,32,3,Non-removable,3300,170
+Samsung,Galaxy S9+,15,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,189,1440 x 2960 ,6.2,Yes,Android,Exynos 9810,64,6,Non-removable,3500,620
+Samsung,Galaxy S9,15,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,163,1440 x 2960 ,5.8,Yes,Android,Exynos 9810,64,4,Non-removable,3000,490
+Samsung,Galaxy A8+ (2018),18,8,Mali-G71,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,191,1080 x 2220 ,6,Yes,Android,Exynos 7885,64,6,Non-removable,3500,400
+Samsung,Galaxy A8 (2018),18,8,Mali-G71,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,172,1080 x 2220 ,5.6,Yes,Android,Exynos 7885,32,4,Non-removable,3000,270
+Samsung,Galaxy C7 (2017),21.82167235,8,,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,180,1080 x 1920 ,5.5,Yes,Android,,32,4,Non-removable,3000,280
+Samsung,Galaxy Note8,15,8,Mali-G71,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,195,1440 x 2960 ,6.3,Yes,Android,Exynos 8895,64,6,Non-removable,3300,550
+Samsung,Galaxy S8 Active,15,8,Adreno 540,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,208.1,1440 x 2960 ,5.8,Yes,Android,Qualcomm MSM8998 Snapdragon 835,64,4,Non-removable,4000,850
+Samsung,Galaxy J7 V,21.82167235,8,Adreno 506,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,167.3,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8953 Snapdragon 625,16,2,Removable,3300,240
+Samsung,Galaxy Note FE,15,8,Mali-T880,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,,167,1440 x 2560 ,5.7,Yes,Android,Exynos 8890 Octa,64,4,Non-removable,3200,600
+Samsung,Galaxy J7 Max,21.82167235,8,Mali-T880,"Dual SIM (Nano-SIM, dual stand-by)",LTE,PLS,1080p,,179,1080 x 1920 ,5.7,Yes,Android,Mediatek MT6757 Helio P20,32,4,Non-removable,3300,170
+Samsung,Galaxy J7 Pro,21.82167235,8,Mali-T830,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,181,1080 x 1920 ,5.5,Yes,Android,Exynos 7870 Octa,32,3,Non-removable,3600,200
+Samsung,Galaxy J7 (2017),21.82167235,8,Mali-T830,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,181,1080 x 1920 ,5.5,Yes,Android,Exynos 7870 Octa,16,3,Non-removable,3600,200
+Samsung,Galaxy S8,15,8,Mali-G71,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,155,1440 x 2960 ,5.8,Yes,Android,Exynos 8895,64,4,Non-removable,3000,390
+Samsung,Galaxy S8+,15,8,Mali-G71,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,173,1440 x 2960 ,6.2,Yes,Android,Exynos 8895,128,6,Non-removable,3500,470
+Samsung,Galaxy C7 Pro,18,8,Adreno 506,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,172,1080 x 1920 ,5.7,Yes,Android,Qualcomm MSM8953-Pro Snapdragon 626,64,4,Non-removable,3300,300
+Samsung,Galaxy A7 (2017),18,8,Mali-T830,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,186,1080 x 1920 ,5.7,Yes,Android,Exynos 7880,32,3,Non-removable,3600,280
+Samsung,Galaxy C9 Pro,18,8,Adreno 510,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,189,1080 x 1920 ,6,Yes,Android,Qualcomm MSM8976 Pro Snapdragon 653,64,6,Non-removable,4000,430
+Samsung,Galaxy A8 (2016),21.82167235,8,Mali-T760,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,182,1080 x 1920 ,5.7,Yes,Android,Exynos 7420 Octa,32,3,Non-removable,3300,300
+Samsung,Galaxy On8,21.82167235,8,Mali-T720,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,169,1080 x 1920 ,5.5,Yes,Android,Exynos 7580 Octa,16,3,Removable,3300,200
+Samsung,Galaxy On7 (2016),18,8,Adreno 506,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,"Capacitive touchscreen, 16M colors",1080p,,167,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8953 Snapdragon 625,32,3,Non-removable,3300,200
+Samsung,Galaxy J7 Prime,21.82167235,8,Mali-T830,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,PLS TFT,1080p,,167,1080 x 1920 ,5.5,Yes,Android,Exynos 7870 Octa,16,3,Non-removable,3300,140
+Samsung,Galaxy On7 Pro,21.82167235,4,Adreno 306,"Dual SIM (Nano-SIM, dual stand-by)",LTE,TFT,1080p,,172,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8916 Snapdragon 410,16,2,Removable,3000,150
+Samsung,Galaxy C7,18,8,Adreno 506,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,169,1080 x 1920 ,5.7,Yes,Android,Qualcomm MSM8953 Snapdragon 625,32,4,Non-removable,3300,250
+Samsung,Galaxy A9 Pro (2016),18,8,Adreno 510,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,210,1080 x 1920 ,6,Yes,Android,Qualcomm MSM8976 Snapdragon 652,32,4,Non-removable,5000,300
+Samsung,Galaxy J7 (2016),21.82167235,8,Adreno 405,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,170,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8952 Snapdragon 617,16,2,Removable,3300,230
+Samsung,Galaxy S7 edge,15,4,Adreno 530,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,,157,1440 x 2560 ,5.5,Yes,Android,Qualcomm MSM8996 Snapdragon 820,32,4,Non-removable,3600,400
+Samsung,Galaxy S7 edge (USA),15,4,Adreno 530,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,,157,1440 x 2560 ,5.5,Yes,Android,Qualcomm MSM8996 Snapdragon 820,32,4,Non-removable,3600,350
+Samsung,Galaxy A9 (2016),18,8,Adreno 510,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,200,1080 x 1920 ,6,Yes,Android,Qualcomm MSM8976 Snapdragon 652,32,3,Non-removable,4000,300
+Samsung,Galaxy A7 (2016),18,8,Mali-T720,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,172,1080 x 1920 ,5.5,Yes,Android,Exynos 7580 Octa,16,3,Non-removable,3300,300
+Samsung,Galaxy On7,21.82167235,4,Adreno 306,"Dual SIM (Nano-SIM, dual stand-by)",LTE,TFT,1080p,,172,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8916 Snapdragon 410,8,2,Removable,3000,180
+Samsung,Galaxy Note5 (USA),15,8,Mali-T760,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,171,1440 x 2560 ,5.7,Yes,Android,Exynos 7420 Octa,32,4,Non-removable,3000,540
+Samsung,Galaxy Note5,15,8,Mali-T760,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,171,1440 x 2560 ,5.7,Yes,Android,Exynos 7420 Octa,32,4,Non-removable,3000,470
+Samsung,Galaxy Note5 Duos,15,8,Mali-T760,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,171,1440 x 2560 ,5.7,Yes,Android,Exynos 7420 Octa,32,4,Non-removable,3000,600
+Samsung,Galaxy S6 edge+ (USA),15,8,Mali-T760,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,153,1440 x 2560 ,5.7,Yes,Android,Exynos 7420 Octa,32,4,Non-removable,3000,550
+Samsung,Galaxy S6 edge+,15,8,Mali-T760,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,153,1440 x 2560 ,5.7,Yes,Android,Exynos 7420 Octa,32,4,Non-removable,3000,530
+Samsung,Galaxy S6 edge+ Duos,15,8,Mali-T760,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,153,1440 x 2560 ,5.7,Yes,Android,Exynos 7420 Octa,32,4,Non-removable,3000,530
+Samsung,Galaxy A8 Duos,21.82167235,8,Adreno 405,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,151,1080 x 1920 ,5.7,Yes,Android,Qualcomm MSM8939 Snapdragon 615,32,2,Non-removable,3050,380
+Samsung,Galaxy A8,21.82167235,8,Adreno 405,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,151,1080 x 1920 ,5.7,Yes,Android,Qualcomm MSM8939 Snapdragon 615,32,2,Non-removable,3050,250
+Samsung,Galaxy J7,21.82167235,8,Adreno 405,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,171,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,16,2,Removable,3000,200
+Samsung,Galaxy J7 Nxt,21.82167235,8,Mali-T830,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,170,720 x 1280 ,5.5,Yes,Android,Exynos 7870 Octa,16,2,Removable,3000,180
+Samsung,Galaxy A7 Duos,21.82167235,8,Adreno 405,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,141,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,16,2,Non-removable,2600,300
+Samsung,Galaxy A7,21.82167235,8,Adreno 405,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,141,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,16,2,Non-removable,2600,300
+Samsung,Galaxy E7,21.82167235,4,Adreno 306,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,141,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8916 Snapdragon 410,16,2,Non-removable,2950,230
+Samsung,Galaxy Note Edge,15,4,Adreno 420,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,174,1600 x 2560 ,5.6,Yes,Android,Qualcomm APQ8084 Snapdragon 805,32,3,Removable,3000,300
+Samsung,Galaxy Note 4 Duos,15,4,Adreno 420,"Dual SIM (Micro-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,175,1440 x 2560 ,5.7,Yes,Android,Qualcomm APQ8084 Snapdragon 805,16,3,Removable,3000,300
+Samsung,Galaxy Note 4 (USA),15,4,Adreno 420,"Dual SIM (Micro-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1440p,176,1440 x 2560 ,5.7,Yes,Android,Qualcomm APQ8084 Snapdragon 805,32,3,Removable,3220,250
+Samsung,Galaxy Note 4,15,4,Adreno 420,Mini-SIM,LTE,Super AMOLED,2160p,1440p,176,1440 x 2560 ,5.7,Yes,Android,Qualcomm APQ8084 Snapdragon 805,32,3,Removable,3220,350
+Samsung,Galaxy Mega 2,21.82167235,4,Mali-400,Mini-SIM,LTE,"Capacitive touchscreen, 16M colors",1080p,,194,720 x 1280 ,6,Yes,Android,Exynos 4415,16,2,Removable,2800,340
+Samsung,Galaxy Note 3 Neo Duos,21.82167235,4,Adreno 305,Nano-SIM,HSPA,Super AMOLED,1080p,1080p,162.5,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8228 Snapdragon 400,16,2,Removable,3100,410
+Samsung,Galaxy Note 3 Neo,21.82167235,6,Mali-T624,Nano-SIM,LTE,Super AMOLED,1080p,1080p,162.5,720 x 1280 ,5.5,Yes,Android,Exynos 5260 Hexa,16,2,Removable,3100,320
+Samsung,Galaxy Round G910S,21.82167235,4,Adreno 330,Mini-SIM,LTE,Super Flexible AMOLED,2160p,1080p,154,1080 x 1920 ,5.7,Yes,Android,Qualcomm Snapdragon 800,32,3,Removable,2800,680
+Samsung,Galaxy Note 3,21.82167235,4,Adreno 330,Mini-SIM,LTE,Super AMOLED,2160p,1080p,168,1080 x 1920 ,5.7,Yes,Android,Qualcomm Snapdragon 800,16,3,Removable,3200,420
+Samsung,Galaxy Mega 5.8 I9150,21.82167235,2,,"Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)",HSPA,TFT,1080p,,182,540 x 960 ,5.8,Yes,Android,,8,2,Removable,2600,280
+Sony,Xperia 1,18,8,Adreno 640,"Dual SIM (Micro-SIM, dual stand-by)",LTE,OLED,2160p,1080p,180,1644 x 3840 ,6.5,No,Android,Qualcomm SDM855 Snapdragon 855,64,6,Non-removable,3330,1000
+Sony,Xperia 10 Plus,18,8,Adreno 509,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,180,1080 x 2520 ,6.5,Yes,Android,Qualcomm SDM636 Snapdragon 636,64,4,Non-removable,3000,430
+Sony,Xperia 10,18,8,Adreno 508,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,162,1080 x 2520 ,6,Yes,Android,Qualcomm SDM630 Snapdragon 630,64,3,Non-removable,2870,350
+Sony,Xperia XZ3,18,8,Adreno 630,"Dual SIM (Micro-SIM/Mini-SIM, dual stand-by)",LTE,P-OLED,2160p,1080p,193,1440 x 2880 ,6,No,Android,Qualcomm SDM845 Snapdragon 845,64,4,Non-removable,3300,500
+Sony,Xperia XA2 Plus,18,8,Adreno 508,"Dual SIM (Micro-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,205,1080 x 2160 ,6,Yes,Android,Qualcomm SDM630 Snapdragon 630,64,6,Non-removable,3580,380
+Sony,Xperia XZ2 Premium,18,8,Adreno 630,"Dual SIM (Mini-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,236,3840 x 2160 ,5.8,No,Android,Qualcomm SDM845 Snapdragon 845,64,6,Non-removable,3540,900
+Sony,Xperia XZ2,18,8,Adreno 630,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,198,1080 x 2160 ,5.7,No,Android,Qualcomm SDM845 Snapdragon 845,64,4,Non-removable,3180,460
+Sony,Xperia XA2 Ultra,18,8,Adreno 508,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,221,1080 x 1920 ,6,Yes,Android,Qualcomm SDM630 Snapdragon 630,32,4,Non-removable,3580,330
+Sony,Xperia L2,21.82167235,4,Mali-T720,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,178,720 x 1280 ,5.5,Yes,Android,Mediatek MT6737T,32,3,Non-removable,3300,190
+Sony,Xperia XA1 Plus,10,8,Mali-T880,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,189,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6757 Helio P20,32,3,Non-removable,3430,270
+Sony,Xperia L1,21.82167235,4,Mali-T720,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,180,720 x 1280 ,5.5,Yes,Android,Mediatek MT6737T,16,2,Non-removable,2620,190
+Sony,Xperia XZ Premium,18,8,Adreno 540,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,195,3840 x 2160 ,5.46,Yes,Android,Qualcomm MSM8998 Snapdragon 835,64,4,Non-removable,3230,420
+Sony,Xperia XA1 Ultra,10,8,Mali-T880,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,188,1080 x 1920 ,6,Yes,Android,Mediatek MT6757 Helio P20,32,4,Non-removable,2700,280
+Sony,Xperia XA Ultra,21.82167235,8,Mali-T860,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,202,1080 x 1920 ,6,Yes,Android,Mediatek MT6755 Helio P10,16,3,Non-removable,2700,250
+Sony,Xperia Z5 Premium Dual,18,8,Adreno 430,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,180,2160 x 3840 ,5.5,Yes,Android,Qualcomm MSM8994 Snapdragon 810,32,3,Non-removable,3430,300
+Sony,Xperia Z5 Premium,18,8,Adreno 430,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,180,2160 x 3840 ,5.5,Yes,Android,Qualcomm MSM8994 Snapdragon 810,32,3,Non-removable,3430,240
+Sony,Xperia C5 Ultra Dual,21.82167235,8,Mali-T760,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,187,1080 x 1920 ,6,Yes,Android,Mediatek MT6752,16,2,Non-removable,2930,290
+Sony,Xperia C5 Ultra,21.82167235,8,Mali-T760,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,187,1080 x 1920 ,6,Yes,Android,Mediatek MT6752,16,2,Non-removable,2930,200
+Sony,Xperia C4 Dual,21.82167235,8,Mali-T760,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,720p,147,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6752,16,2,Non-removable,2600,250
+Sony,Xperia C4,21.82167235,8,Mali-T760,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,720p,147,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6752,16,2,Non-removable,2600,220
+Sony,Xperia C3 Dual,21.82167235,4,Adreno 305,"Dual SIM (Nano-SIM, dual stand-by)",HSPA,IPS LCD,1080p,720p,149.7,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8926 Snapdragon 400,8,1,Non-removable,2500,250
+Sony,Xperia C3,21.82167235,4,Adreno 305,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,720p,149.7,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8926 Snapdragon 400,8,1,Non-removable,2500,190
+Sony,Xperia T2 Ultra dual,21.82167235,4,Adreno 305,"Dual SIM (Nano-SIM, dual stand-by)",HSPA,IPS LCD,1080p,720p,171.8,720 x 1280 ,6,Yes,Android,Qualcomm MSM8228 Snapdragon 400,8,1,Non-removable,3000,280
+Sony,Xperia T2 Ultra,21.82167235,4,Adreno 305,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,720p,171.7,720 x 1280 ,6,Yes,Android,Qualcomm MSM8928 Snapdragon 400,8,1,Non-removable,3000,230
+Sony,Xperia Z Ultra,21.82167235,4,Adreno 330,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,212,1080 x 1920 ,6.4,Yes,Android,Qualcomm MSM8274,16,2,Non-removable,3050,280
+vivo,X27 Pro,18,8,Adreno 616,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1080p,200,1080 x 2460 ,6.7,Yes,Android,Qualcomm SDM710 Snapdragon 710,256,8,Non-removable,4000,530
+vivo,S1,18,8,Mali-G72,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,189.5,1080 x 2340 ,6.53,Yes,Android,Mediatek Helio P70,128,6,Non-removable,3940,300
+vivo,X27,18,8,Adreno 616,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1080p,188,1080 x 2340 ,6.39,Yes,Android,Qualcomm SDM710 Snapdragon 710,256,8,Non-removable,4000,480
+vivo,V15,21.82167235,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,189.5,1080 x 2340 ,6.53,Yes,Android,Mediatek Helio P70,64,6,Non-removable,4000,310
+vivo,iQOO,44,8,Adreno 640,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,2160p,1080p,180,1080 x 2340 ,6.41,Yes,Android,Qualcomm SDM855 Snapdragon 855,256,8,Non-removable,4000,400
+vivo,V15 Pro,18,8,Adreno 612,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1080p,185,1080 x 2316 ,6.39,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,6,Non-removable,3700,360
+vivo,Y89,21.82167235,8,Adreno 506,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,149.3,1080 x 2280 ,6.26,Yes,Android,Qualcomm MSM8953-Pro Snapdragon 626,64,4,Non-removable,3260,210
+vivo,Y93 (Mediatek),21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,163.5,720 x 1520 ,6.22,Yes,Android,Mediatek MT6762 Helio P22,32,4,Non-removable,4030,150
+vivo,Y93s,21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,165,720 x 1520 ,6.2,Yes,Android,Mediatek MT6762 Helio P22,128,4,Non-removable,4030,230
+vivo,Y95,21.82167235,8,Adreno 505,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,163.5,720 x 1520 ,6.22,Yes,Android,Qualcomm SDM439 Snapdragon 439,64,4,Non-removable,4030,250
+vivo,Z1 Lite,21.82167235,8,Adreno 506,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,149,1080 x 2280 ,6.26,Yes,Android,Qualcomm MSM8953-Pro Snapdragon 626,32,4,Non-removable,3260,170
+vivo,Y93,21.82167235,8,Adreno 505,No,LTE,IPS LCD,1080p,,163.5,720 x 1520 ,6.2,Yes,Android,Qualcomm SDM439 Snapdragon 439,64,4,Non-removable,4030,200
+vivo,Y91i,21.82167235,8,PowerVR GE8320,eSIM,LTE,IPS LCD,1080p,,163.5,720 x 1520 ,6.22,Yes,Android,Mediatek MT6762 Helio P22,16,2,Non-removable,4030,100
+vivo,Y91 (Mediatek),21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,163.5,720 x 1520 ,6.22,Yes,Android,Mediatek MT6762 Helio P22,64,3,Non-removable,4030,200
+vivo,Y91,21.82167235,8,Adreno 505,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,163.5,720 x 1520 ,6.22,Yes,Android,Qualcomm SDM439 Snapdragon 439,32,3,Non-removable,4030,200
+vivo,Y81i,21.82167235,4,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,143,720 x 1520 ,6.22,Yes,Android,Mediatek MT6761 Helio A22,16,2,Non-removable,3260,130
+vivo,Z3,21.82167235,8,Adreno 615,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,164,1080 x 2280 ,6.3,Yes,Android,Qualcomm SDM670 Snapdragon 670,64,6,Non-removable,3315,250
+vivo,Y71i,21.82167235,4,Adreno 308,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,150,720 x 1440 ,6,Yes,Android,Qualcomm MSM8917 Snapdragon 425,16,2,Non-removable,3360,120
+vivo,Y97,21.82167235,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,S-IPS LCD,1080p,1080p,162,1080 x 2280 ,6.3,Yes,Android,Mediatek MT6771 Helio P60,128,4,Non-removable,3315,250
+vivo,V11 (V11 Pro),18,8,Adreno 512,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1080p,156,1080 x 2340 ,6.41,Yes,Android,Qualcomm SDM660 Snapdragon 660,64,6,Non-removable,3400,350
+vivo,Y83 Pro,21.82167235,8,PowerVR GE8320,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,152,720 x 1520 ,6.22,Yes,Android,Mediatek MT6762 Helio P22,64,4,Non-removable,3260,200
+vivo,V9 6GB,21.82167235,8,Adreno 512,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,150,1080 x 2280 ,6.3,Yes,Android,Qualcomm SDM660 Snapdragon 660,64,6,Non-removable,3260,300
+vivo,Z1i,21.82167235,8,Adreno 509,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,,149.3,1080 x 2280 ,6.26,Yes,Android,Qualcomm SDM636 Snapdragon 636,128,4,Non-removable,3260,250
+vivo,NEX S,22.5,8,Adreno 630,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1080p,199,1080 x 2316 ,6.59,Yes,Android,Qualcomm SDM845 Snapdragon 845,128,8,Non-removable,4000,700
+vivo,NEX A,22,8,Adreno 616,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1080p,199,1080 x 2316 ,6.59,Yes,Android,Qualcomm SDM710 Snapdragon 710,128,6,Non-removable,4000,600
+vivo,Z1,21.82167235,8,Adreno 512,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,149.3,1080 x 2280 ,6.26,Yes,Android,Qualcomm SDM660 Snapdragon 660,64,4,Non-removable,3260,300
+vivo,Y83,21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,150,720 x 1520 ,6.22,Yes,Android,Mediatek MT6762 Helio P22,64,4,Non-removable,3260,250
+vivo,Y81,21.82167235,8,PowerVR GE8320,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,146.5,720 x 1520 ,6.22,Yes,Android,Mediatek MT6762 Helio P22,32,3,Non-removable,3260,180
+vivo,X21i,18,8,Mali-G72,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,159,1080 x 2280 ,6.28,Yes,Android,Mediatek MT6771 Helio P60,128,4,Non-removable,3425,430
+vivo,Y71,21.82167235,4,Adreno 308,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,150,720 x 1440 ,6,Yes,Android,Qualcomm MSM8917 Snapdragon 425,16,3,Non-removable,3360,140
+vivo,V9 Youth,21.82167235,8,Adreno 506,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,150,1080 x 2280 ,6.3,Yes,Android,Qualcomm SDM450 Snapdragon 450,32,4,Non-removable,3260,260
+vivo,V9,21.82167235,8,Adreno 506,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,150,1080 x 2280 ,6.3,Yes,Android,Qualcomm MSM8953-Pro Snapdragon 626,64,4,Non-removable,3260,300
+vivo,X21 UD,18,8,Adreno 512,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,156.2,1080 x 2280 ,6.28,Yes,Android,Qualcomm SDM660 Snapdragon 660,128,6,Non-removable,3200,550
+vivo,X21,18,8,Adreno 512,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,156.2,1080 x 2280 ,6.28,Yes,Android,Qualcomm SDM660 Snapdragon 660,64,6,Non-removable,3200,450
+vivo,V7,21.82167235,8,Adreno 506,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,139,720 x 1440 ,5.7,Yes,Android,Qualcomm SDM450 Snapdragon 450,32,4,Non-removable,3000,250
+vivo,V7+,21.82167235,8,Adreno 506,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,160,720 x 1440 ,5.99,Yes,Android,Qualcomm SDM450 Snapdragon 450,64,4,Non-removable,3225,360
+vivo,Y65,21.82167235,4,Adreno 308,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,157,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8917 Snapdragon 425,16,3,Non-removable,3000,170
+vivo,Y69,21.82167235,8,Mali-T860,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,162.8,720 x 1280 ,5.5,Yes,Android,Mediatek MT6750,32,3,Non-removable,3000,200
+vivo,X9s Plus,18,8,Adreno 510,"Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,1080p,,183.2,1080 x 1920 ,5.85,Yes,Android,Qualcomm MSM8976 Pro Snapdragon 653,64,4,Non-removable,4015,390
+vivo,X9s,10,8,Adreno 510,"Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,1080p,,154,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8976 Snapdragon 652,64,4,Non-removable,3320,350
+vivo,V5s,21.82167235,8,Mali-T860,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,154,720 x 1280 ,5.5,Yes,Android,Mediatek MT6750,64,4,Non-removable,3000,280
+vivo,V5 Lite (vivo 1609),21.82167235,8,,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,155,720 x 1280 ,5.5,Yes,Android,,32,3,Non-removable,3000,160
+vivo,V5 Plus,10,8,Adreno 506,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,158.6,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8953 Snapdragon 625,64,4,Non-removable,3160,450
+vivo,Y67,21.82167235,8,Mali-T860,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,154,720 x 1280 ,5.5,Yes,Android,Mediatek MT6750,32,4,Non-removable,3000,270
+vivo,Xplay6,18,4,Adreno 530,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,1080p,178,1440 x 2560 ,5.46,Yes,Android,Qualcomm MSM8996 Snapdragon 820,128,6,Non-removable,4080,700
+vivo,X9 Plus,18,8,Adreno 510,Nano-SIM,LTE,IPS LCD,1080p,1080p,199,1080 x 1920 ,5.88,Yes,Android,Qualcomm MSM8976 Pro Snapdragon 653,64,6,Non-removable,4000,580
+vivo,X9,18,8,Adreno 506,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,1080p,154,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8953 Snapdragon 625,64,4,Non-removable,3050,460
+vivo,V5,21.82167235,8,Mali-T860,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,154,720 x 1280 ,5.5,Yes,Android,Mediatek MT6750,32,4,Non-removable,3000,250
+vivo,X7 Plus,18,8,Adreno 510,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,183.5,1080 x 1920 ,5.7,Yes,Android,Qualcomm MSM8976 Snapdragon 652,64,4,Non-removable,4000,680
+vivo,V3Max,18,8,Adreno 510,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,168,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8976 Snapdragon 652,32,4,Non-removable,3000,300
+vivo,X6S Plus,18,8,Adreno 510,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,172.5,1080 x 1920 ,5.7,Yes,Android,Qualcomm MSM8976 Snapdragon 652,64,4,Non-removable,3000,410
+vivo,Xplay5 Elite,18,4,Adreno 530,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,,167.8,1440 x 2560 ,5.43,Yes,Android,Qualcomm MSM8996 Snapdragon 820,128,6,Non-removable,3600,610
+vivo,Xplay5,21.82167235,8,Adreno 510,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,2160p,,167.8,1440 x 2560 ,5.43,Yes,Android,Qualcomm MSM8976 Snapdragon 652,128,4,Non-removable,3600,520
+vivo,X6Plus,18,8,Mali-T760,"Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,171,1080 x 1920 ,5.7,Yes,Android,Mediatek MT6752,64,4,Non-removable,3000,350
+vivo,V1 Max,21.82167235,8,Adreno 405,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,165,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,16,2,Non-removable,2720,150
+vivo,Y37,21.82167235,8,Adreno 405,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,,165,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,16,2,Non-removable,2720,87
+vivo,X5Max Platinum Edition,21.82167235,8,Mali-T760,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,194,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6752,32,3,Non-removable,4150,440
+vivo,X5Max+,21.82167235,8,Mali-T760,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,156,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6752,16,2,Non-removable,2300,430
+vivo,X5Max,21.82167235,8,Adreno 405,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,Super AMOLED,1080p,,156,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8939 Snapdragon 615,16,2,Non-removable,2300,470
+Xiaomi,Black Shark 2,27,8,640,Dual SIM,LTE,AMOLED,2160p,1080p,205,1080 x 2340 ,6.39,No,Android,Qualcomm SDM855 Snapdragon 855,256,8,Non-removable,4000,450
+Xiaomi,Redmi 7,10,8,Adreno 506,Dual SIM (Mini-SIM),LTE,IPS LCD,1080p,1080p,180,720 x 1520 ,6.26,Yes,Android,Qualcomm SDM632 Snapdragon 632,64,4,Non-removable,4000,130
+Xiaomi,Redmi Note 7 Pro,18,8,Adreno 612,Mini-SIM,LTE,IPS LCD,2160p,1080p,186,1080 x 2340 ,6.3,Yes,Android,Qualcomm SDM675 Snapdragon 675,128,6,Non-removable,4000,200
+Xiaomi,Mi Mix 3 5G,18,8,Adreno 640,Mini-SIM,LTE,Super AMOLED,2160p,1080p,225,1080 x 2340 ,6.39,No,Android,Qualcomm SDM855 Snapdragon 855,64,6,Non-removable,3800,600
+Xiaomi,Mi 9 Explorer,27,8,Adreno 640,Mini-SIM,LTE,Super AMOLED,2160p,1080p,173,1080 x 2340 ,6.39,No,Android,Qualcomm SDM855 Snapdragon 855,256,8,Non-removable,3300,530
+Xiaomi,Mi 9 SE,18,8,Adreno 616,Mini-SIM,LTE,Super AMOLED,2160p,1080p,155,1080 x 2340 ,5.97,No,Android,Qualcomm SDM712 Snapdragon 712,64,6,Non-removable,3070,300
+Xiaomi,Mi 9,27,8,Adreno 640,Mini-SIM,LTE,Super AMOLED,2160p,1080p,173,1080 x 2340 ,6.39,No,Android,Qualcomm SDM855 Snapdragon 855,64,6,Non-removable,3300,450
+Xiaomi,Mi Mix 3,18,8,Adreno 630,Mini-SIM,LTE,Super AMOLED,2160p,1080p,218,1080 x 2340 ,6.39,No,Android,Qualcomm SDM845 Snapdragon 845,256,8,Non-removable,3200,560
+Xiaomi,Mi 8 Pro,18,8,Adreno 630,Mini-SIM,LTE,Super AMOLED,2160p,1080p,177,1080 x 2248 ,6.21,No,Android,Qualcomm SDM845 Snapdragon 845,128,6,Non-removable,3000,500
+Xiaomi,Mi 8 Lite,18,8,Adreno 512,Nano-SIM card & eSIM,LTE,IPS LCD,2160p,1080p,169,1080 x 2280 ,6.26,No,Android,Qualcomm SDM660 Snapdragon 660,64,4,Non-removable,3350,230
+Xiaomi,Mi A2 (Mi 6X),18,8,Adreno 512,Nano-SIM card & eSIM,LTE,LTPS IPS LCD,2160p,1080p,166,1080 x 2160 ,5.99,No,Android,Qualcomm SDM660 Snapdragon 660,128,6,Non-removable,3000,190
+Xiaomi,Redmi 6,21.82167235,8,PowerVR GE8320,"Nano-SIM, eSIM",LTE,IPS LCD,1080p,1080p,146,720 x 1440 ,5.45,Yes,Android,Mediatek MT6762 Helio P22,64,4,Non-removable,3000,120
+Xiaomi,Redmi 6A,21.82167235,4,PowerVR GE8320,Nano-SIM,LTE,IPS LCD,1080p,,145,720 x 1440 ,5.45,Yes,Android,Mediatek MT6761 Helio A22,32,3,Non-removable,3000,90
+Xiaomi,Mi 8 Explorer,18,8,Adreno 630,Mini-SIM,LTE,Super AMOLED,2160p,1080p,177,1080 x 2248 ,6.21,No,Android,Qualcomm SDM845 Snapdragon 845,128,8,Non-removable,3000,500
+Xiaomi,Mi 8,18,8,Adreno 630,Mini-SIM,LTE,Super AMOLED,2160p,1080p,175,1080 x 2248 ,6.21,No,Android,Qualcomm SDM845 Snapdragon 845,64,6,Non-removable,3400,380
+Xiaomi,Mi 8 SE,18,8,Adreno 616,Mini-SIM,LTE,Super AMOLED,2160p,1080p,164,1080 x 2244 ,5.88,No,Android,Qualcomm SDM710 Snapdragon 710,128,6,Non-removable,3120,260
+Xiaomi,Redmi Note 5 AI Dual Camera,18,8,Adreno 509,Mini-SIM,LTE,IPS LCD,1080p,1080p,181,1080 x 2160 ,5.99,Yes,Android,Qualcomm SDM636 Snapdragon 636,64,4,Non-removable,4000,180
+Xiaomi,Redmi Note 5 Pro,18,8,Adreno 509,Mini-SIM,LTE,IPS LCD,1080p,1080p,181,1080 x 2160 ,5.99,Yes,Android,Qualcomm SDM636 Snapdragon 636,64,4,Non-removable,4000,180
+Xiaomi,Redmi Y1 (Note 5A),21.82167235,8,Adreno 505,Mini-SIM,LTE,IPS LCD,1080p,1080p,153,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8940 Snapdragon 435,64,4,Non-removable,3080,140
+Xiaomi,Redmi Y1 Lite,21.82167235,4,Adreno 308,Mini-SIM,LTE,IPS LCD,1080p,,150,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8917 Snapdragon 425,16,2,Non-removable,3080,90
+Xiaomi,Mi Note 3,18,8,Adreno 512,"Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,163,1080 x 1920 ,5.5,No,Android,Qualcomm SDM660 Snapdragon 660,64,6,Non-removable,3500,280
+Xiaomi,Mi Max 2,18,8,Adreno 506,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,211,1080 x 1920 ,6.44,Yes,Android,Qualcomm MSM8953 Snapdragon 625,32,4,Non-removable,5300,200
+Xiaomi,Redmi Note 4X,21.82167235,8,Adreno 506,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,165,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8953 Snapdragon 625,64,4,Non-removable,4100,130
+Xiaomi,Redmi Note 4,21.82167235,8,Adreno 506,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,1080p,165,1080 x 1920 ,5.5,Yes,Android,Qualcomm MSM8953 Snapdragon 625,64,4,Non-removable,4100,150
+Xiaomi,Mi Mix,18,4,Adreno 530,No,LTE,IPS LCD,2160p,1080p,209,1080 x 2040 ,6.4,Yes,Android,Qualcomm MSM8996 Snapdragon 821,256,6,Non-removable,4400,390
+Xiaomi,Mi Note 2,18,4,Adreno 530,"Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,2160p,1080p,166,1080 x 1920 ,5.7,Yes,Android,Qualcomm MSM8996 Snapdragon 821,64,6,Non-removable,4070,310
+Xiaomi,Mi 5s Plus,18,4,Adreno 530,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,168,1080 x 1920 ,5.7,Yes,Android,Qualcomm MSM8996 Snapdragon 821,128,6,Non-removable,3800,310
+Xiaomi,Redmi Note 4 (MediaTek),21.82167235,10,Mali-T880,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,720p,175,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6797 Helio X20,16,2,Non-removable,4100,170
+Xiaomi,Redmi Pro,21.82167235,10,Mali-T880,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,AMOLED,1080p,1080p,174,1080 x 1920 ,5.5,Yes,Android,Mediatek MT6797T Helio X25,128,4,Non-removable,4050,170
+Xiaomi,Mi Max,21.82167235,6,Adreno 510,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,203,1080 x 1920 ,6.44,Yes,Android,Qualcomm MSM8956,16,2,Non-removable,4850,150
+Xiaomi,Redmi Note Prime,10,4,Adreno 306,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,720p,185,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8916 Snapdragon 410,16,2,Removable,3100,140
+Xiaomi,Mi Note Pro,18,8,Adreno 430,"Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,161,1440 x 2560 ,5.7,Yes,Android,Qualcomm MSM8994 Snapdragon 810,64,4,Non-removable,3000,250
+Xiaomi,Mi Note,18,4,Adreno 330,"Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,2160p,1080p,161,1080 x 1920 ,5.7,Yes,Android,Qualcomm MSM8974AC Snapdragon 801,16,3,Non-removable,3000,190
+Xiaomi,Redmi Note 4G,21.82167235,4,Adreno 305,"Dual SIM (Nano-SIM, dual stand-by)",LTE,IPS LCD,1080p,720p,185,720 x 1280 ,5.5,Yes,Android,Qualcomm MSM8928 Snapdragon 400,8,2,Removable,3100,160
+Xiaomi,Redmi Note,21.82167235,8,Mali-450,"Dual SIM (Nano-SIM, dual stand-by)",HSPA,IPS LCD,1080p,,199,720 x 1280 ,5.5,Yes,Android,Mediatek MT6592,8,1,Removable,3100,120
